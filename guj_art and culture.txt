@@ -1,0 +1,29 @@
+﻿સંગીતના/N_NN ઇતિહાસમાં/N_NN જેમનું/PR_PRL નામ/N_NN સુવર્ણ/JJ અક્ષરે/N_NN અંકિત/JJ થયેલું/V_VAUX_VNP છે/V_VAUX તે/PR_PRL જામનગરના/N_NNP રાજગાયક/N_NN માસ્ટર/N_NN વસંત/N_NNP ./RD_PUNC
+વર્ષો/N_NN પહેલાંની/JJ આ/DM_DMD વાત/N_NN છે/V_VAUX ./RD_PUNC
+એ/DM_DMD કાળે/N_NST કવિવર/JJ રવીન્દ્રનાથ/N_NNP ટાગોર/N_NNP યુરોપના/N_NNP પ્રવાસે/N_NN ગયેલા/V_VAUX_VNP ./RD_PUNC
+કોઈએ/PR_PRI એમને/PR_PRP પૂછ્યું/V_VM :/RD_PUNC `/RD_PUNC હિન્દુસ્તાનમાં/N_NNP તમારા/PR_PRP સિવાય/PSP બીજો/JJ કોઈ/DM_DMI મોટો/JJ કવિ/N_NN છે/V_VAUX ?/RD_PUNC `/RD_PUNC
+ત્યારે/N_NST વિનમ્ર/JJ અવાજે/N_NN ટાગોર/N_NNP એટલું/JJ જ/RP_RPD બોલ્યા/V_VM :/RD_PUNC ``/RD_PUNC ભાઈ/N_NN ,/RD_PUNC હું/PR_PRP તો/RP_RPD કંઈ/DM_DMI બહુ/QT_QTF મોટો/JJ કવિ/N_NN નથી/RP_NEG પણ/CC_CCD અમારા/PR_PRP દેશમાં/N_NN દળણાં/N_NN દળતી/V_VAUX_VNP અને/CC_CCD રેંટિયો/N_NN કાંતતી/V_VAUX_VNP સ્ત્રીઓ/N_NN અને/CC_CCD કોસ/N_NN ચલાવનાર/V_VAUX_VNP કોસિયાઓ/N_NN કંઈક/DM_DMI ગુંજન/N_NN કરતા/V_VAUX_VNP રહે/V_VAUX છે/V_VAUX ./RD_PUNC ``/RD_PUNC
+ભારતીય/JJ બાળકને/N_NN કાવ્ય/N_NN અને/CC_CCD સંગીતના/N_NN સંસ્કારો/N_NN એની/DM_DMD માતાના/N_NN કંઠેથી/N_NN નીતરતા/V_VAUX_VNP હાલરડા/N_NN દ્વારા/PSP ગળથુથીમાંથી/N_NN જ/RP_RPD મળે/V_VM છે/V_VAUX ./RD_PUNC
+કવિતાના/N_NN સંસ્કારો/N_NN અમારી/PR_PRP ધરતીના/N_NN કણકણમાં/N_NN હોય/V_VAUX છે/V_VAUX ./RD_PUNC
+સંગીતના/N_NN સંસ્કારોની/N_NN વાત/N_NN કરીએ/V_VM તો/CC_CCD દેશમાં/N_NN અને/CC_CCD ગુજરાતમાં/N_NNP સંગીતની/N_NN મુખ્ય/JJ ત્રણ/QT_QTC ધારાઓ/N_NN જોવા/V_VAUX_VNP મળે/V_VM છે/V_VAUX ./RD_PUNC
+ગામડા/N_NN ગામની/N_NN લોકનારીઓ/N_NN ,/RD_PUNC હાથમાં/N_NN એક્તારો/N_NN લઈને/V_VAUX_VNP ઈશ્વરને/N_NN આરાધતા/V_VAUX_VNP ભજનિકો/N_NN અને/CC_CCD લોકગાયકો/N_NN દ્વારા/PSP લોકસંગીત/N_NN લોકજીવનમાં/N_NN લ્હેરાતું/V_VAUX_VNP રહ્યું/V_VAUX છે/V_VAUX ./RD_PUNC
+બીજી/JJ ધારાઓ/N_NN સુગમ/JJ અને/CC_CCD શાસ્ત્રીય/JJ સંગીતની/N_NN રહી/V_VAUX છે/V_VAUX ./RD_PUNC
+આ/DM_DMD બે/QT_QTC ધારા/N_NN શાસ્ત્રના/N_NN આધારે/N_NN વિકાસ/N_NN પામી/V_VM હોવાથી/V_VAUX_VNP તેની/DM_DMD ગણના/N_NN શિષ્ટ/JJ સંગીતમાં/N_NN કરવામાં/V_VAUX_VNP આવે/V_VAUX છે/V_VAUX ./RD_PUNC
+શિષ્ટ/JJ સંગીતનું/N_NN રક્ષણ/N_NN કરી/V_VAUX_VNP એને/DM_DMD જાળવી/V_VAUX_VNP રાખવાનું/V_VAUX_VNP શ્રેય/N_NN ગુજરાતના/N_NNP ધર્મસ્થાનો/N_NN અને/CC_CCD દેશી/JJ રાજ્યોના/N_NN ફાળે/N_NN જાય/V_VAUX છે/V_VAUX ./RD_PUNC
+આ/DM_DMD બધા/QT_QTF રાજ્યોમાં/N_NN સંગીત/N_NN ,/RD_PUNC કલા/N_NN અને/CC_CCD વિદ્વાનોને/N_NN આશ્રય/N_NN આપવાની/V_VAUX_VNP જૂની/JJ પરંપરા/N_NN રાજ્યોના/N_NN વિલીનીકરણ/N_NN સુધી/PSP જળવાઈ/V_VM રહી/V_VAUX હતી/V_VAUX ./RD_PUNC
+આજે/N_NST મારે/PR_PRP વાત/N_NN માંડવી/V_VAUX_VNP છે/V_VAUX ./RD_PUNC
+આઝાદીના/N_NN ઇતિહાસમાં/N_NN જેમનું/PR_PRL નામ/N_NN સુવર્ણ/JJ અક્ષરે/N_NN અંક્તિ/JJ થયું/V_VM છે/V_VAUX ./RD_PUNC
+એવા/JJ કાઠિયાવાડના/N_NNP એક/QT_QTC રજવાડાના/N_NN રાજગાયક/N_NN અને/CC_CCD આજે/N_NST સાવ/JJ જ/RP_RPD વિસરાઈ/V_VAUX_VNP ગયેલા/V_VAUX_VNP સંગીત/N_NN ભાસ્કર/N_NNP માસ્ટર/N_NN વસંત/N_NNP અમૃતની/N_NNP ઝળહળતી/JJ જીવનયાત્રાની/N_NN ./RD_PUNC
+સને/N_NN ૧૯૩૦ના/QT_QTC વર્ષની/N_NN આ/DM_DMD વાત/N_NN છે/V_VAUX ./RD_PUNC
+ભારતની/N_NNP આઝાદી/N_NN માટેનું/PSP રણશિંગુ/N_NN વાગવા/V_VAUX_VNP માંડ્યું/V_VM હતું/V_VAUX ./RD_PUNC
+જુવાનડાઓ/N_NN અને/CC_CCD આઝાદીના/N_NN આશિકો/N_NN ખભે/N_NN ખાપણ/N_NN બાંધીને/V_VAUX_VNP આઝાદી/N_NN જંગ/N_NN જીતવા/V_VAUX_VNP નીકળી/V_VM પડ્યા/V_VAUX હતા/V_VAUX ./RD_PUNC
+એ/DM_DMD અરસામાં/N_NN મુંબઈની/N_NNP એમ.એમ.વી./N_NNP કંપનીએ/N_NNP માધવજી/N_NNP શુક્લ/N_NNP રચિત/JJ માસ્ટર/N_NN વસંતના/N_NNP બુલંદ/JJ કંઠે/N_NN ગવાયેલ/V_VAUX_VNP રાષ્ટ્રભક્તિની/N_NN રેકર્ડ/N_NN બજારમાં/N_NN મૂકી/V_VM ./RD_PUNC
+આ/DM_DMD ગીતે/N_NN એ/DM_DMD કાળે/N_NST જાગૃતિનો/N_NN નવો/JJ જુવાળ/N_NN પ્રગટાવ્યો/V_VM ./RD_PUNC
+આ/DM_DMD જોમવંતુ/JJ ગીત/N_NN હતું/V_VAUX ./RD_PUNC
+મેરી/N_NNP જા/N_NNP ન/N_NN રહે/N_NNP મેરા/N_NNP સર/N_NNP ન/N_NN રહે/N_NNP ,/RD_PUNC સામાં/N_NNP ન/N_NNP રહે/N_NNP ,/RD_PUNC ન/N_NNP યે/N_NNP સાજ/N_NNP રહે/N_NNP ,/RD_PUNC બસ/N_NNP હિંદ/N_NNP મેરા/N_NNP આઝાદ/N_NNP રહે/N_NNP મેરી/N_NNP માતા/N_NNP કે/N_NNP સર/N_NNP પે/N_NNP તાજ/N_NNP રહે/N_NNP ./RD_PUNC
+દેશભક્તિના/N_NN આ/DM_DMD ગીતમાં/N_NN આવતી/V_VAUX_VNP `/RD_PUNC ન/N_NNP યે/N_NNP દાગ/N_NNP બદનમેં/N_NNP સફેદ/N_NNP રહે/N_NNP ,/RD_PUNC ન/N_NNP તો/N_NNP કોઢ/N_NNP રહે/N_NNP ,/RD_PUNC ન/N_NNP યે/N_NNP દાગ/N_NNP રહે/N_NNP (/RD_SYM અર્થાત્/CC_CCD ભારત/N_NNP માતાના/N_NNP શરીર/N_NN પર/PSP ગોરી/JJ પ્રજાના/N_NN શાસનરૂપી/JJ કોઢના/N_NN ડાઘ/N_NN ન/RP_NEG રહે/V_VM )/RD_SYM ./RD_PUNC `/RD_PUNC
+આ/DM_DMD બે/QT_QTC કડીઓ/N_NN પર/PSP અંગ્રેજ/N_NNP સરકાર/N_NNP ધૂંધવાઈ/V_VM ઊઠી/V_VAUX ./RD_PUNC
+બજારમાં/N_NN ફરતી/V_VAUX_VNP તમામ/JJ રેર્ક્ડસ/N_NN વીણીવીણીને/V_VAUX_VNP જપ્ત/JJ કરી/V_VM લીધી/V_VAUX ./RD_PUNC
+ગાયક/N_NN માસ્ટર/N_NN વસંતની/N_NNP ધરપકડના/N_NN ભણકારા/N_NN વાગવા/V_VAUX_VNP માંડ્યા/V_VAUX ./RD_PUNC
+બુલંદ/JJ કંઠ/N_NN વડે/PSP જનતા/N_NN જનાર્દના/N_NN હૃદયમાં/N_NN રાષ્ટ્રભક્તિ/N_NN અને/CC_CCD શૌર્યરસની/N_NN છોળો/N_NN ઉછાળનાર/V_VAUX_VNP માસ્ટર/N_NN વસંતનું/N_NNP નામ/N_NN આઝાદીના/N_NN ઇતિહાસના/N_NN પાને/N_NN સુવર્ણ/JJ અક્ષરે/N_NN અંક્તિ/JJ થયેલું/V_VAUX_VNP છે/V_VAUX ./RD_PUNC
+દેશી/JJ રાજવીઓના/N_NN સમયમાં/N_NN જેમના/PR_PRL સંગીતની/N_NN વસંત/N_NN સોળે/JJ ય/RP_RPD કળાએ/N_NN ખીલી/V_VM હતી/V_VAUX એવા/JJ માસ્ટર/N_NN વસંતનો/N_NNP જન્મ/N_NN સંવત/N_NN ૧૯૫૮ની/N_NNP મહા/N_NNP સુદ/N_NNP એકાદશી/N_NNP તા./N_NN ૨/૨/૧૯૦૨ના/N_NNP રોજ/N_NST જામખંભાળિયાના/N_NNP (જિ./N_NN જામનગર)/N_NNP ગરીબ/JJ સારસ્વત/JJ બ્રાહ્મણ/N_NN અમૃતલાલ/N_NNP મદનજીને/N_NNP ત્યાં/N_NST થયો/V_VM હતો/V_VAUX ./RD_PUNC

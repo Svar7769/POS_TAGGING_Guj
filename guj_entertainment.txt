@@ -1,0 +1,1000 @@
+﻿GJED1	શુકલની/N_NNP ફેવર/N_NN કરી/V_VM એ/DM_DMD ભૂલ/N_NN થઈ/V_VM ./RD_PUNC
+GJED2	ખરેખર/PSP તો/RP_RPD એ/PR_PRP સારું/JJ કામ/N_NN કરે/V_VM છે/V_VAUX ને/CC_CCD વળી/PSP ઉપયોગી/JJ માણસ/N_NN પણ/RP_RPD ખરો/RP_RPD -/RD_PUNC એવું/JJ સાહેબ/N_NN આગળ/PSP બોલવું/V_VAUX_VNP જ/RP_RPD નહોતું/RP_NEG જોઈતું/V_VAUX પણ/CC_CCD બોલાઈ/V_VM ગયું/V_VAUX ./RD_PUNC
+GJED3	એને/PR_PRP પ્રમોશન/N_NN મળ્યું/V_VM ./RD_PUNC
+GJED4	એક/QT_QTC દલિતના/N_NN હાથે/N_NN એક/QT_QTC સવર્ણનો/N_NN ઉદ્ધાર/N_NN થયો/V_VM !/RD_PUNC !/RD_PUNC !/RD_PUNC
+GJED5	જોકે/CC_CCS હું/PR_PRP ન/RP_NEG બોલત/V_VM તો/CC_CCD ય/RP_RPD એનું/PR_PRP પ્રમોશન/N_NN તો/RP_RPD થવાનું/V_VAUX_VNP જ/RP_RPD હતું/V_VAUX ./RD_PUNC
+GJED6	તો/CC_CCD પછી/PSP બૂરા/JJ શું/PR_PRQ કામ/N_NN બનવું/V_VAUX_VNP ?/RD_PUNC
+GJED7	જોકે/CC_CCS માણસ/N_NN છે/V_VAUX કામનો/N_NN ./RD_PUNC
+GJED8	ડ્રાફ્ટિંગ/N_NN તો/RP_RPD એનું/PR_PRP જ/RP_RPD ./RD_PUNC
+GJED9	તમે/PR_PRP જેવું/JJ વિચારતા/V_VAUX_VNP હો/V_VAUX એવું/JJ એ/PR_PRP લખી/V_VAUX_VNP આપે/V_VM અને/CC_CCD એ/RP_RPD પણ/RP_RPD સહેજ/PSP છેકછાક/N_NN વગર/PSP ./RD_PUNC
+GJED10	ગમે/PSP એમ/PSP પણ/RP_RPD મૂળે/JJ તો/RP_RPD બામણનો/N_NN દીકરો/N_NN ,/RD_PUNC ને/CC_CCD ઘરના/N_NN સંસ્કાર/N_NN એટલે/PSP જાણે/PSP સરસ્વતી/N_NN તો/RP_RPD જીભે/N_NN જ/RP_RPD -/RD_PUNC આમ/PSP એના/PR_PRP વખાણ/N_NN ન/RP_NEG કરવા/V_VAUX_VNP જોઈએ/V_VAUX ,/RD_PUNC એ/PR_PRP `/RD_PUNC રૂલબુકની/N_NN `/RD_PUNC વિરુદ્ધની/PSP વાત/N_NN થઈ/V_VM ./RD_PUNC
+GJED11	ચાવડાએ/N_NNP તો/RP_RPD બધાની/QT_QTF વચ્ચે/PSP કહ્યું/V_VM હતું/V_VAUX કે/CC_CCS આ/DM_DMD સોલંકી/N_NN પેલી/DM_DMD ચોટલીના/N_NN જ્યાં/N_NST હોય/V_VAUX ત્યાં/N_NST વખાણ/N_NN કર્યા/V_VAUX_VNP કરે/V_VM છે/V_VAUX ./RD_PUNC
+GJED12	આપણી/PR_PRP રૂલબુકનો/N_NN છડેચોક/JJ ભંગ/N_NN કરે/V_VM છે/V_VAUX ./RD_PUNC
+GJED13	આ/DM_DMD ના/RP_NEG ચાલે/V_VM ./RD_PUNC
+GJED14	મહેતાએ/N_NNP ટાપસી/N_NN પુરાવી/V_VM હતી/V_VAUX ,/RD_PUNC `/RD_PUNC હા/PSP હા/PSP હું/PR_PRP પરમ/N_NST દિવસે/N_NST જ/RP_RPD એની/PR_PRP ઑફિસે/N_NN ગયો/V_VM હતો/V_VAUX ./RD_PUNC `/RD_PUNC
+GJED15	મેં/PR_PRP પણ/RP_RPD કાને/N_NN સાંભળ્યું/V_VM ને/CC_CCD સગી/JJ આંખે/N_NN જોયું/V_VM ./RD_PUNC
+GJED16	પછી/PSP તો/RP_RPD બધા/QT_QTF કાગડાની/N_NN જેમ/PSP કા/RD_ECH કા/RD_ECH કા/RD_ECH કરતાં/V_VAUX_VNP જાત/N_NN ઉપર/PSP ઊતરી/V_VM આવ્યા/V_VAUX ./RD_PUNC
+GJED17	ઘડીભર/JJ તો/RP_RPD હું/PR_PRP ય/RP_RPD ભીંસમાં/N_NN આવી/V_VM ગયો/V_VAUX ./RD_PUNC
+GJED18	ઘડીકવાર/JJ તો/RP_RPD જવાબ/N_NN શુ/PR_PRQ દેવો/V_VAUX_VNP એ/DM_DMD સૂઝ્યું/V_VM જ/RP_RPD નહીં/RP_NEG ./RD_PUNC
+GJED19	પણ/CC_CCD આવડો/JJ મોટો/JJ અધિકારી/N_NN અમસ્તો/JJ થયો/V_VM છું/V_VAUX ?/RD_PUNC
+GJED20	વળતું/V_VAUX_VNP સૂઝી/V_VM આવ્યું/V_VAUX :/RD_PUNC કહું/V_VM છું/V_VAUX એકવાર/PSP મને/PR_PRP સાંભળશો/V_VM ?/RD_PUNC
+GJED21	નકર/RP_NEG મારાથી/PR_PRP ગાળ/N_NN બોલાઈ/V_VM જશે/V_VAUX ./RD_PUNC
+GJED22	તો/CC_CCD પાછા/PSP કહેશો/V_VM કે/CC_CCS આ/DM_DMD સોલંકી/N_NNP તો/RP_RPD મા/N_NN સમાણી/JJ જ/RP_RPD ઝૂડતો/V_VAUX_VNP હોય/V_VAUX છે/V_VAUX ./RD_PUNC
+GJED23	ગાળની/N_NN બીકે/N_NN બધા/QT_QTF ચૂપ/JJ થયા/V_VM એટલે/CC_CCD મેં/PR_PRP પૂછ્યું/V_VM ,/RD_PUNC `/RD_PUNC કદી/N_NST કોઈએ/PR_PRQ વાઘ/N_NN માર્યો/V_VM ?/RD_PUNC સિંહ/N_NN માર્યો/V_VM ?/RD_PUNC હાથીનો/N_NN શિકાર/N_NN કર્યો/V_VM ?/RD_PUNC `/RD_PUNC
+GJED24	સાલા/N_NN એકબીજાનાં/PR_PRC મોં/N_NN તાકતા/V_VAUX_VNP મચ્છરોની/N_NN જેમ/PSP ગણગણાટ/N_NN કરવા/V_VAUX_VNP માંડ્યા/V_VAUX ./RD_PUNC
+GJED25	એ/DM_DMD ગણગણાટ/N_NN ઘોંઘાટમાં/N_NN ફેરવાય/V_VM એ/DM_DMD પહેલાં/N_NST મેં/PR_PRP કહ્યું/V_VM ,/RD_PUNC તમે/PR_PRP બધાએ/QT_QTF આજ/N_NST સુધી/PSP સસલાં/N_NN માર્યા/V_VM ./RD_PUNC
+GJED26	તેતર/N_NN માર્યા/V_VM ./RD_PUNC
+GJED27	ચકલા/N_NN ચૂંથ્યા/V_VM ./RD_PUNC
+GJED28	બહુ/QT_QTF બહુ/QT_QTF તો/RP_RPD એકાદ/JJ બાપડી/JJ હરણીનો/N_NN શિકાર/N_NN કર્યો/V_VM પણ/CC_CCD -/RD_PUNC મારો/PR_PRP ઈરાદો/N_NN તો/RP_RPD આ/DM_DMD શુકલ/N_NNP ,/RD_PUNC મારી/PR_PRP હેડીનો/N_NN છે/V_VAUX એને/PR_PRP તો/RP_RPD મારે/PR_PRP એવો/JJ ભેરવી/V_VAUX_VNP દેવો/V_VAUX છે/V_VAUX કે/CC_CCS બેટો/N_NN આખી/JJ જિંદગી/N_NN પોતાની/PR_PRF જાતને/N_NN પૂછ્યા/V_VAUX_VNP કરે/V_VM કે/CC_CCS શું/PR_PRQ કામ/N_NN બામણના/N_NN ઘરમાં/N_NN જનમ/N_NN લીધો/V_VM ?/RD_PUNC
+GJED29	`/RD_PUNC હા/PSP ,/RD_PUNC પણ/CC_CCD ક્યારે/N_NST ?/RD_PUNC `/RD_PUNC
+GJED30	કોઈ/DM_DMI ડબકડોયાએ/N_NN અધીરાઈ/N_NN દેખાડી/V_VM ./RD_PUNC
+GJED31	`/RD_PUNC બહુ/QT_QTF ડાહ્યા/JJ ,/RD_PUNC બોલ્યા/V_VM ક્યારે/N_NST ?/RD_PUNC `/RD_PUNC
+GJED32	અરે/RP_INJ કહું/V_VM છું/V_VAUX પણ/RP_RPD ./RD_PUNC
+GJED33	બકરાને/N_NN વધેરતાં/V_VAUX_VNP પહેલાં/N_NST તાજોમાજો/JJ તો/RP_RPD કરવો/V_VAUX_VNP પડે/V_VAUX ને/RP_RPD ?/RD_PUNC
+GJED34	શિકાર/N_NN જરા/QT_QTF તગડો/JJ હોય/V_VAUX તો/CC_CCD મારવાની/V_VAUX_VNP ય/RP_RPD મઝા/N_NN આવે/V_VAUX ને/RP_RPD ?/RD_PUNC
+GJED35	હજી/N_NST હું/PR_PRP પૂરું/JJ કરું/V_VM એ/DM_DMD પહેલાં/N_NST તો/RP_RPD એક/QT_QTC -/RD_PUNC બે/QT_QTC જણા/N_NN સપોર્ટમાં/N_NN આવી/V_VM ગયા/V_VAUX ./RD_PUNC
+GJED36	સોલંકીને/N_NNP એની/PR_PRP રીતે/N_NN કામ/N_NN કરવા/V_VAUX_VNP દો/V_VAUX ./RD_PUNC
+GJED37	એ/PR_PRP બધાંને/QT_QTF પહોંચી/V_VM વળે/V_VAUX એવો/JJ છે/V_VAUX ./RD_PUNC
+GJED38	બીજાએ/JJ કહ્યું/V_VM ,/RD_PUNC હા/PSP .../RD_PUNC હા/PSP ,/RD_PUNC એની/PR_PRP પહોંચ/N_NN બધે/N_NST છે/V_VAUX ./RD_PUNC
+GJED39	તે/DM_DMD દિવસે/N_NN સીએમ/N_NN ઢોરવાડો/N_NN જોવા/V_VAUX_VNP જતા/V_VAUX_VNP હતા/V_VAUX ત્યારે/N_NST એને/PR_PRP સાથે/PSP નહોતા/RP_NEG લઈ/V_VM ગયા/V_VAUX ?/RD_PUNC
+GJED40	પોલીસખાતામાં/N_NN ય/RP_RPD આપણાવાળો/JJ જ/RP_RPD નહીં/RP_NEG ,/RD_PUNC ગમે/PSP તે/DM_DMD પી.આઈ./N_NN હોય/V_VAUX ,/RD_PUNC સોલંકીની/N_NNP વાત/N_NN સાંભળે/V_VM છે/V_VAUX ./RD_PUNC
+GJED41	પછી/PSP તો/RP_RPD મેં/PR_PRP ય/RP_RPD હતી/V_VAUX એટલી/JJ દાઝ/N_NN કાઢી/V_VM નાંખી/V_VAUX ./RD_PUNC
+GJED42	હું/PR_PRP કંઈ/DM_DMI મહેતાફેતાની/N_NNP જેમ/PSP ગળામાં/N_NN દોરડું/N_NN લટકાવી/V_VAUX_VNP મંત્રીઓને/N_NN દેખાડતો/V_VAUX_VNP નથી/RP_NEG ફરતો/V_VAUX_VNP કે/CC_CCS કોઈના/PR_PRI ચઢાવ્યા/V_VM મારી/PR_PRP ઉપર/PSP શંકા/N_NN કરો/V_VM ./RD_PUNC
+GJED43	આમ/PSP જ/RP_RPD આપણે/PR_PRP કાગડા/N_NN -/RD_PUNC કૂતરાની/N_NN જેમ/PSP વર્તીશું/V_VM તો/CC_CCD થઈ/V_VM રહ્યું/V_VAUX !/RD_PUNC
+GJED44	બોલી/V_VM તો/RP_RPD કાઢ્યું/V_VM ,/RD_PUNC હવે/N_NST શું/PR_PRQ ?/RD_PUNC
+GJED45	મને/PR_PRP એવો/JJ ય/RP_RPD વિચાર/N_NN આવે/V_VAUX કે/CC_CCS માણસ/N_NN થોડો/QT_QTF ઉપર/PSP ઊઠીને/V_VAUX_VNP વિચારે/V_VM તો/CC_CCD શો/PR_PRQ વાંધો/N_NN આવે/V_VAUX ?/RD_PUNC
+GJED46	સારાને/JJ વખાણતાં/V_VAUX_VNP ને/CC_CCD નરસાને/JJ ઠપકારતાં/V_VAUX_VNP આપણે/PR_PRP ક્યારે/N_NST શીખીશું/V_VM ?/RD_PUNC
+GJED47	શુકલ/N_NNP બામણ/N_NN છે/V_VAUX એટલે/PSP નક્કામો/JJ ને/CC_CCD રોહિત/N_NNP પોતાનો/PR_PRP છે/V_VAUX એટલે/PSP કામનો/N_NN -/RD_PUNC એવું/JJ ક્યાંથી/N_NST ?/RD_PUNC
+GJED48	અમારાવાળાની/JJ ભૂલો/N_NN સામે/PSP આંખમીંચામણા/N_NN તો/RP_RPD કદીયે/N_NST નથી/RP_NEG કર્યાં/V_VM ./RD_PUNC
+GJED49	પણ/CC_CCD ભૂલો/N_NN સુધારવાની/V_VAUX_VNP તકો/N_NN જરૂર/PSP આપી/V_VM છે/V_VAUX ./RD_PUNC
+GJED50	પરંતુ/CC_CCD જો/CC_CCD કોઈ/PR_PRI સુધરે/V_VM જ/RP_RPD નહીં/RP_NEG તો/CC_CCD માફ/JJ પણ/RP_RPD નથી/RP_NEG કર્યા/V_VM ./RD_PUNC
+GJED51	શુકલ/N_NNP કે/CC_CCS એવા/JJ કોઈને/PR_PRI પણ/RP_RPD ઠીક/JJ કરવાના/V_VAUX_VNP રસ્તા/N_NN કંઈ/DM_DMI ઓછા/JJ છે/V_VAUX ?/RD_PUNC
+GJED52	કોઈ/PR_PRI પણ/RP_RPD મહત્ત્વના/JJ કામ/N_NN માટે/PSP છેક/PSP છેલ્લી/JJ ઘડીએ/N_NN માહિતી/N_NN આપવી/V_VAUX_VNP ./RD_PUNC
+GJED53	અધૂરી/JJ માહિતી/N_NN આપવી/V_VAUX_VNP ,/RD_PUNC અગત્યનાં/JJ કામો/N_NN મૌખિક/JJ સૂચનાથી/N_NN ને/CC_CCD ફાલતુ/JJ કામો/N_NN માટે/PSP લેખિતમાં/N_NN સૂચના/N_NN આપવી/V_VAUX_VNP ./RD_PUNC
+GJED54	`/RD_PUNC ચર્ચા/N_NN કરો/V_VM `/RD_PUNC એવું/JJ લખી/V_VM દેવાથી/V_VAUX_VNP કામ/N_NN તો/RP_RPD ખોરંભે/N_NN જ/RP_RPD પડે/V_VM અને/CC_CCD ચર્ચા/N_NN માટે/PSP રૂબરૂ/JJ આવે/V_VM એટલે/PSP મૂળ/JJ મુદ્દાનાં/N_NN બદલે/PSP મનુવાદીઓ/N_NN અને/CC_CCD બ્રાહ્મણ/N_NN સંસ્કૃતિથી/N_NN ચર્ચા/N_NN શરૂ/JJ કરી/V_VM આ/DM_DMD ધોયેલી/V_VAUX_VNP જાતને/N_NN ધોવાની/V_VAUX_VNP ./RD_PUNC
+GJED55	`/RD_PUNC હા/PSP ,/RD_PUNC સાહેબ/N_NN `/RD_PUNC કહી/V_VAUX_VNP ચૂપચાપ/JJ સાંભળ્યા/V_VM કરે/V_VM ./RD_PUNC
+GJED56	મારું/PR_PRP બેટું/N_NN એ/PR_PRP ખરું/JJ કહેવાય/V_VM કે/CC_CCS જેણે/PR_PRL કોઈ/DM_DMI દિવસ/N_NN એક/QT_QTC હરફ/N_NN નથી/RP_NEG ઉચ્ચાર્યો/V_VM !/RD_PUNC
+GJED57	હવે/N_NST એને/PR_PRP કહી/V_VM કહીને/V_VM તે/PSP શું/PR_PRQ કહેવું/V_VAUX_VNP ?/RD_PUNC
+GJED58	વારો/N_NN આવે/V_VM તો/CC_CCD લેખિતમાં/N_NN પાડી/V_VM દઈએ/V_VAUX ./RD_PUNC
+GJED59	પણ/CC_CCD મારો/PR_PRP બેટો/N_NN ,/RD_PUNC વારો/N_NN આવા/V_VAUX_VNP દે/V_VAUX તો/RP_RPD ને/RP_RPD ?/RD_PUNC ઊલટું/JJ ખોટું/JJ થતું/V_VAUX_VNP હોય/V_VAUX તો/CC_CCD ધ્યાન/N_NN દોરે/V_VM ,/RD_PUNC `/RD_PUNC આડો/JJ ઊભો/JJ રહે/V_VAUX ,/RD_PUNC ફાઈલ/N_NN આગળ/PSP ના/RP_NEG વધવા/V_VAUX_VNP દે/V_VAUX -/RD_PUNC હવે/N_NST આને/DM_DMD કેવી/DM_DMQ રીતે/N_NN રોકવો/V_VAUX_VNP ?/RD_PUNC એમ/PSP થાય/V_VM કે/CC_CCS આવો/JJ માણસ/N_NN ડિપાર્ટમેન્ટનો/N_NN હાથ/N_NN પગ/N_NN કહેવાય/V_VM ,/RD_PUNC ઉપરીના/N_NN આંખ/N_NN -/RD_PUNC કાન/N_NN ગણાય/V_VM -/RD_PUNC એ/PR_PRP ઉપરીનો/N_NN મોં/N_NN ના/RP_NEG બની/V_VM જાય/V_VAUX એટલે/PSP બસ/PSP !/RD_PUNC `/RD_PUNC
+GJED60	જોકે/CC_CCS એમ/DM_DMD કંઈ/DM_DMI કોઈના/PR_PRI ઉપર/PSP પૂરો/JJ ભરોસો/N_NN થોડો/QT_QTF મૂકી/V_VM દેવાય/V_VM ?/RD_PUNC
+GJED61	નો/RP_NEG જ/RP_RPD મુકાય/V_VM ને/RP_RPD !/RD_PUNC
+GJED62	સત્યેશ/N_NNP ભારતીનો/N_NNP દાખલો/N_NN મોજૂદ/JJ છે/V_VAUX ./RD_PUNC
+GJED63	શૈલેષ/N_NNP રાવળ/N_NNP એનો/PR_PRP વિશ્વાસુ/JJ ./RD_PUNC
+GJED64	અમે/PR_PRP ના/RP_NEG પાડી/V_VM હતી/V_VAUX ./RD_PUNC
+GJED65	એ/PR_PRP તરગાળાને/N_NN બહુ/QT_QTF ચઢાવો/V_VM મા/RP_NEG ./RD_PUNC પણ/CC_CCD સત્યેશ/N_NNP કહે/V_VM ,/RD_PUNC `/RD_PUNC હું/PR_PRP કંઈ/DM_DMI એને/PR_PRP ચઢાવતો/V_VAUX_VNP નથી/RP_NEG `/RD_PUNC ./RD_PUNC
+GJED66	જે/PR_PRL કામ/N_NN સોપું/V_VM તે/PR_PRL પૂરું/JJ કરી/V_VM લાવે/V_VAUX છે/V_VAUX ,/RD_PUNC એ/DM_DMD પણ/RP_RPD સમયસર/JJ ./RD_PUNC
+GJED67	હું/PR_PRP એને/PR_PRP હેરાન/JJ નથી/RP_NEG કરતો/V_VAUX_VNP એટલું/JJ જ/RP_RPD ./RD_PUNC
+GJED68	`/RD_PUNC તો/RP_RPD પછી/PSP તું/PR_PRP ભેરવાયો/V_VM કેમનો/PR_PRQ ?/RD_PUNC આંકડાની/N_NN ચકાસણી/N_NN કરવી/V_VAUX_VNP એ/DM_DMD તારું/PR_PRP કામ/N_NN ./RD_PUNC `/RD_PUNC
+GJED69	જે/PR_PRL આંકડા/N_NN મુકાયા/V_VM તે/PR_PRL બધાના/QT_QTF આધાર/N_NN -/RD_PUNC પુરાવા/N_NN સાથે/PSP હતા/V_VAUX ./RD_PUNC
+GJED70	હવે/N_NST આ/DM_DMD આંકડા/N_NN જ/RP_RPD ઉપજાવી/V_VM કાઢેલા/V_VAUX_VNP હોય/V_VAUX તો/CC_CCD હું/PR_PRP કે/CC_CCS એ/PR_PRP શું/PR_PRQ કરીએ/V_VM ?/RD_PUNC
+GJED71	શું/PR_PRQ કરે/V_VM ?/RD_PUNC મેમો/N_NN અપાય/V_VM ./RD_PUNC
+GJED72	એડવર્સ/N_NN રિમાર્ક/N_NN નોટ/N_NN થાય/V_VM ./RD_PUNC
+GJED73	પણ/CC_CCD એ/DM_DMD તો/RP_RPD કહે/V_VM ,/RD_PUNC આ/DM_DMD પકડાયું/V_VM કેવી/DM_DMQ રીતે/N_NN ?/RD_PUNC
+GJED74	મંત્રીશ્રીને/N_NN કહ્યું/V_VM કોણે/PR_PRQ કે/CC_CCS આ/DM_DMD આંકડા/N_NN ઉપજાવેલા/V_VAUX_VNP છે/V_VAUX ?/RD_PUNC
+GJED75	બાકી/JJ સરકારમાં/N_NN ક્યાં/N_NST બધું/QT_QTF ઊજળું/JJ એટલું/JJ દૂધ/N_NN હોય/V_VAUX છે/V_VAUX ?/RD_PUNC
+GJED76	હિતશત્રુઓ/N_NN ,/RD_PUNC બીજું/JJ કોણ/PR_PRQ ?/RD_PUNC
+GJED77	એવી/JJ ક્યાં/N_NST ખબર/N_NN હતી/V_VAUX કે/CC_CCS પેટમાં/N_NN પેસીને/V_VAUX_VNP પગ/N_NN પહોળા/JJ કરશે/V_VM ?/RD_PUNC
+GJED78	આજે/N_NST એ/PR_PRP મંત્રીશ્રીના/N_NN અંગત/JJ સ્ટાફમાં/N_NN ગોઠવાઈ/V_VM ગયો/V_VAUX ./RD_PUNC
+GJED79	હવે/N_NST હું/PR_PRP એના/PR_PRP હુકમો/N_NN ઉઠાવીશ/V_VM ,/RD_PUNC સાલ્લો/N_NN તરગાળો/N_NN ./RD_PUNC
+GJED80	પણ/CC_CCD જુઓ/V_VM મઝા/N_NN !/RD_PUNC જેને/PR_PRL પેટ/N_NN ભરીને/V_VAUX_VNP ગાળો/N_NN દીધી/V_VM ./RD_PUNC
+GJED81	જેની/PR_PRL વિરુદ્ધ/PSP હોબાળો/N_NN કર્યો/V_VM એ/DM_DMD જ/RP_RPD રાવળ/N_NNP સત્યેશ/N_NNP ભારતીને/N_NNP બચાવવા/V_VAUX_VNP નીકળ્યો/V_VM ./RD_PUNC
+GJED82	કહે/V_VM ,/RD_PUNC સાહેબ/N_NN તમારા/PR_PRP હાથ/N_NN નીચે/N_NST કામ/N_NN કર્યું/V_VM છે/V_VAUX અને/CC_CCD મને/PR_PRP ખબર/N_NN છે/V_VAUX કે/CC_CCS તમે/PR_PRP નિર્દોષ/N_NN છો/V_VAUX ,/RD_PUNC એટલે/PSP કહું/V_VM છું/V_VAUX કે/CC_CCS એકવાર/PSP સાહેબને/N_NN મળી/V_VM લો/V_VAUX ./RD_PUNC
+GJED83	મેં/PR_PRP એમને/PR_PRP વાત/N_NN કરી/V_VM છે/V_VAUX ,/RD_PUNC એ/PR_PRP તમને/PR_PRP આમાંથી/DM_DMD હેમખેમ/JJ બહાર/N_NST નીકળવાનો/V_VAUX_VNP રસ્તો/N_NN બતાવશે/V_VM ./RD_PUNC
+GJED84	સાચું/JJ ખોટું/JJ રામ/N_NNP જાણે/V_VM પણ/CC_CCD એ/PR_PRP રસ્તો/N_NN બે/QT_QTC લાખમાં/N_NN પડ્યો/V_VM ./RD_PUNC
+GJED85	સત્યેશ/N_NNP ભારતી/N_NNP તો/RP_RPD ખુશ/JJ છે/V_VAUX ./RD_PUNC
+GJED86	`/RD_PUNC ફાઈલ/N_NN પર/PSP `/RD_PUNC ક્લોઝ/N_NN `/RD_PUNC લખાઈ/V_VM ગયું/V_VAUX એટલે/PSP શાંતિ/N_NN ./RD_PUNC `/RD_PUNC
+GJED87	જાન/N_NN બચી/V_VM લાખો/N_NN પાયે/V_VM ./RD_PUNC
+GJED88	એક/QT_QTC લાલ/JJ લીટી/N_NN લખાઈ/V_VM જાત/V_VAUX તો/CC_CCD આગળના/JJ પ્રમોશનની/N_NN પત્તર/N_NN દેવાઈ/V_VM જાત/V_VAUX ./RD_PUNC
+GJED89	બાકી/JJ રાવળે/N_NNP નિભાવી/V_VM ખરી/RP_RPD ./RD_PUNC
+GJED90	શું/PR_PRQ નિભાવી/V_VM ?/RD_PUNC
+GJED91	દગાબાજી/N_NN ,/RD_PUNC વફાદારી/N_NN ,/RD_PUNC મૈત્રી/N_NN કે/CC_CCS દુશ્મની/N_NN -/RD_PUNC એ/PR_PRP અધ્યાહાર/JJ છે/V_VAUX ./RD_PUNC
+GJED92	બાકી/JJ આ/DM_DMD દુનિયામાં/N_NN ,/RD_PUNC અમારી/PR_PRP ભઈ/N_NN સરકારી/JJ નોકરિયાતોની/N_NN દુનિયામાં/N_NN `/RD_PUNC ધણીને/N_NN કહે/V_VM ધા/V_VM અને/CC_CCD ચોરને/N_NN કહે/V_VM નાસ/V_VM `/RD_PUNC કહેનારાઓનો/V_VAUX_VNP તોટો/N_NN નથી/RP_NEG ./RD_PUNC
+GJED93	મૂળે/JJ તો/RP_RPD મિલકામદારનો/N_NN દીકરો/N_NN ./RD_PUNC
+GJED94	મિલો/N_NN સાફ/N_NN કરી/V_VAUX_VNP કરીને/V_VAUX_VNP ભણ્યો/V_VM છું/V_VAUX ./RD_PUNC
+GJED95	રજાના/N_NN દિવસે/N_NST કામ/N_NN કરી/V_VM જે/PR_PRL રૂપિયો/N_NN -/RD_PUNC બે/QT_QTC રૂપિયો/N_NN મળે/V_VM એમાંથી/DM_DMD નોટબુક/N_NN ને/CC_CCD ઈન્ડિપેન/N_NN ખરીદ્યાં/V_VM છે/V_VAUX ./RD_PUNC
+GJED96	ક્યારેક/N_NST તો/RP_RPD પેટમાં/N_NN ટાંટિયા/N_NN ખોસીને/V_VAUX_VNP દિવસો/N_NN કાઢવાના/V_VAUX_VNP વારા/N_NN આવ્યા/V_VM છે/V_VAUX ./RD_PUNC
+GJED97	ભીખ/N_NN માંગવા/V_VAUX_VNP તો/RP_RPD શેં/PR_PRQ જવાય/V_VM ?/RD_PUNC
+GJED98	તે/DM_DMD મંદિરની/N_NN બહાર/N_NST લાગતી/V_VAUX_VNP રામરોટીની/N_NN લાઈનોમાં/N_NN ય/RP_RPD ઊભા/JJ રહેવાનું/V_VAUX_VNP ફાવ્યું/V_VM નથી/RP_NEG ./RD_PUNC
+GJED99	પણ/CC_CCD ચાર/QT_QTC રસ્તે/N_NN કજિયો/N_NN કાઢવા/V_VAUX_VNP મૂકેલાં/V_VAUX_VNP પૂરીવડા/N_NN ને/CC_CCD નારિયેળ/N_NN ઊઠાવી/V_VM લેતાં/V_VAUX_VNP જરાય/QT_QTF ખચકાયો/V_VM નથી/RP_NEG ./RD_PUNC
+GJED100	એ/DM_DMD વેળા/N_NN કોઈ/PR_PRI રામ/N_NNP કે/CC_CCS હનુમાને/N_NNP ડોળા/N_NN કચકચાવ્યા/V_VM હોય/V_VAUX એવો/JJ આભાસે/N_NN ય/RP_RPD નથી/RP_NEG થયો/V_VM ./RD_PUNC
+GJED101	હજીયે/N_NST એ/PR_PRP વડાનો/N_NN સ્વાદ/N_NN ને/CC_CCD કચૈડ/PSP કચૈડ/PSP અવાજ/N_NN મોંમાં/N_NN એમ/PSP ને/CC_CCD એમ/PSP છે/V_VAUX !/RD_PUNC
+GJED102	બસ/PSP ત્યારથી/N_NST ખબર/N_NN પડી/V_VM ગઈ/V_VAUX કે/CC_CCS ધરમ/N_NN -/RD_PUNC બરમ/N_NN તો/RP_RPD મોટાના/JJ ભરમ/N_NN છે/V_VAUX ./RD_PUNC
+GJED103	સૌથી/JJ મોટું/JJ સાચ/N_NN તો/RP_RPD પેટ/N_NN છે/V_VAUX ./RD_PUNC
+GJED104	એ/DM_DMD જો/CC_CCD ભરેલું/V_VAUX_VNP હોય/V_VAUX તો/CC_CCD બીજા/JJ બધા/QT_QTF ઠાઠના/N_NN સ્વાદ/N_NN કંઈ/DM_DMI ઓર/JJ જ/RP_RPD હોય/V_VAUX છે/V_VAUX !/RD_PUNC
+GJED105	પછી/PSP તો/RP_RPD ગાંઠ/N_NN વાળી/V_VM લીધી/V_VAUX_VNP કે/CC_CCS એક/QT_QTC દિ/N_NN હું/PR_PRP ય/RP_RPD બધી/QT_QTF જાતના/N_NN સ્વાદ/N_NN કરીશ/V_VM અને/CC_CCD મારા/PR_PRP ભાઈઓને/N_NN પણ/RP_RPD એનો/DM_DMD સ્વાદ/N_NN ચખાડીશ/V_VM ./RD_PUNC
+GJED106	પણ/CC_CCD આપણા/PR_PRP જ/RP_RPD લોકોને/N_NN શું/PR_PRQ કહેવું/V_VAUX_VNP ?/RD_PUNC
+GJED107	એ/DM_DMD એવી/JJ તો/RP_RPD મૂરખાઈ/N_NN કરે/V_VM કે/CC_CCS એમની/PR_PRP ઉપર/PSP હસવું/V_VAUX_VNP -/RD_PUNC રડવું/V_VAUX_VNP કે/CC_CCS પછી/PSP દયા/N_NN ખાવી/V_VAUX_VNP ?/RD_PUNC
+GJED108	બૌદ્ધપૂર્ણિમાએ/N_NN કાર્યક્રમ/N_NN રાખેલો/V_VAUX_VNP ,/RD_PUNC જેમાં/PR_PRL એકસોએક/QT_QTC દલિતો/N_NN બૌદ્ધ/N_NNP ધર્મ/N_NNP અંગીકાર/N_NN કરવાના/V_VAUX_VNP હતા/V_VAUX ./RD_PUNC
+GJED109	એની/DM_DMD નિમંત્રણ/N_NN પત્રિકા/N_NN આવેલી/V_VAUX_VNP જેમાં/PR_PRL મુખ્ય/JJ સ્થાને/N_NN ભગવાન/N_NN બુદ્ધ/N_NNP બિરાજમાન/JJ હતા/V_VAUX ./RD_PUNC
+GJED110	ભલે/PSP ,/RD_PUNC બહુ/QT_QTF સરસ/JJ !/RD_PUNC પણ/RP_RPD આ/DM_DMD બુદ્ધની/N_NNP આજુબાજુ/N_NST ચામર/N_NN કોણ/PR_PRQ ઢાળે/V_VM છે/V_VAUX ?/RD_PUNC
+GJED111	રિદ્ધિ/N_NNP સિદ્ધિ/N_NNP અને/CC_CCD ભગવાન/N_NN બુદ્ધના/N_NNP પગને/N_NN ધોવાનું/V_VAUX_VNP કામ/N_NN ગણપતિ/N_NNP કરે/V_VM છે/V_VAUX ./RD_PUNC
+GJED112	વિષ્ણુ/N_NNP અને/CC_CCD શિવજીના/N_NNP હાથમાં/N_NN લાંબા/JJ ઝાડુ/N_NN પકડાવ્યાં/V_VM છે/V_VAUX તે/PR_PRP રસ્તો/N_NN સાફ/JJ કરે/V_VM છે/V_VAUX ./RD_PUNC
+GJED113	બ્રહ્મા/N_NNP ને/CC_CCD ઈન્દ્ર/N_NNP સાફ/JJ થતા/V_VAUX_VNP રસ્તા/N_NN પર/PSP પાણી/N_NN છાંટે/V_VM ./RD_PUNC
+GJED114	લક્ષ્મી/N_NNP -/RD_PUNC સરસ્વતીની/N_NNP જોડી/N_NN ફૂલડાં/N_NN વેરે/V_VM ./RD_PUNC
+GJED115	આપણે/PR_PRP લોકો/N_NN ય/RP_RPD કંઈ/DM_DMI પાછા/RB પડીએ/V_VM એમ/PSP નથી/RP_NEG ./RD_PUNC
+GJED116	ફોન/N_NN કરી/V_VM પૂછ્યું/V_VM ,/RD_PUNC `/RD_PUNC આ/DM_DMD શું/PR_PRQ હલકટવાડ/N_NN આદર્યા/V_VM છે/V_VAUX ?/RD_PUNC `/RD_PUNC
+GJED117	`/RD_PUNC કેમ/PR_PRQ લ્યા/N_NN ,/RD_PUNC મઝા/N_NN ના/RP_NEG આવી/V_VM ?/RD_PUNC બહુ/QT_QTF દમન/N_NN ગુજાર્યું/V_VM છે/V_VAUX ,/RD_PUNC શોષણ/N_NN કર્યું/V_VM છે/V_VAUX આપણું/PR_PRP ./RD_PUNC થોડી/QT_QTF એ/DM_DMD લોકોની/N_NN ય/RP_RPD સળી/N_NN કરીએ/V_VM તો/RP_RPD શું/PR_PRQ વાંધો/N_NN ?/RD_PUNC `/RD_PUNC
+GJED118	`/RD_PUNC બતાવું/V_VM બે/QT_QTC -/RD_PUNC ચાર/QT_QTC જણાને/N_NN ?/RD_PUNC એકાદો/JJ બજરંગી/JJ ય/RP_RPD છે/V_VAUX ./RD_PUNC `/RD_PUNC
+GJED119	`/PSP જો/PSP જો/CC_CCS ભઈ/N_NN એવું/JJ કરતો/V_VAUX_VNP ./RD_PUNC `/RD_PUNC
+GJED120	એમ/PSP કર/V_VM એ/DM_DMD કંકોત્રી/N_NN પાછી/RB આપી/V_VM જા/V_VAUX ,/RD_PUNC ના/RP_NEG હું/PR_PRP જ/RP_RPD લેવા/V_VAUX_VNP આવું/V_VM છું/V_VAUX ./RD_PUNC
+GJED121	આ/DM_DMD બધા/QT_QTF માટે/PSP નથી/RP_NEG ./RD_PUNC
+GJED122	પ્રાઈવેટ/JJ સરક્યુલેશનની/N_NN છે/V_VAUX ./RD_PUNC
+GJED123	તારી/PR_PRP પાસે/PSP ક્યાંથી/N_NST આવી/V_VM ગઈ/V_VAUX ?/RD_PUNC
+GJED124	છે/V_VAUX ને/RP_RPD જિગર/N_NN !/RD_PUNC
+GJED125	એ/DM_DMD લોકોને/N_NN છંછેડવા/V_VAUX_VNP છે/V_VAUX ./RD_PUNC
+GJED126	પણ/RP_RPD બતાવ્યા/V_VM વિના/PSP ./RD_PUNC
+GJED127	પડોશીને/N_NN ગાળો/N_NN દેવી/V_VM છે/V_VAUX પણ/CC_CCD પાછી/RB તેને/PR_PRP સંભળાય/V_VM નહીં/RP_NEG એનું/DM_DMD ય/RP_RPD ધ્યાન/N_NN રાખવાનું/V_VAUX_VNP !/RD_PUNC
+GJED128	તમારા/PR_PRP કરતાં/V_VAUX_VNP તો/RP_RPD તાબોટા/N_NN પાડનારા/V_VAUX_VNP સારા/JJ ./RD_PUNC
+GJED129	ચાર/QT_QTC જણા/N_NN સાંભળે/V_VM તો/RP_RPD છે/V_VAUX એ/DM_DMD તાબોટા/N_NN !/RD_PUNC
+GJED130	પણ/CC_CCD મને/PR_PRP આ/DM_DMD નથી/RP_NEG ગમતું/V_VAUX_VNP ./RD_PUNC
+GJED131	ભલે/PSP હું/N_NN મંદિરે/N_NN જઈ/V_VM દર્શન/N_NN ના/RP_NEG કરું/V_VM કે/CC_CCS પૂજા/N_NN -/RD_PUNC પાઠ/N_NN ના/RP_NEG કરું/V_VM ./RD_PUNC
+GJED132	ભગવાન/N_NN માટે/PSP કદી/N_NST તલસ્યો/V_VM નથી/RP_NEG પણ/CC_CCD આમ/PSP સાવ/PSP ધૂળમાં/N_NN રગદોળાતા/V_VAUX_VNP હોય/V_VAUX એવું/JJ અપમાન/N_NN ય/RP_RPD ઠીક/JJ નથી/RP_NEG લાગતું/V_VAUX_VNP ./RD_PUNC
+GJED133	આ/DM_DMD માણસો/N_NN મારી/PR_PRP નજરમાંથી/N_NN ઊતરી/V_VM જાય/V_VAUX છે/V_VAUX ./RD_PUNC
+GJED134	મારા/PR_PRP પોતાના/PR_PRF નથી/RP_NEG લાગતા/V_VAUX_VNP ./RD_PUNC
+GJED135	મારી/PR_PRP આ/DM_DMD બધી/QT_QTF વાતો/N_NN સાંભળી/V_VM પટેલ/N_NNP કહે/V_VM ,/RD_PUNC ભાઈ/N_NN સોલંકી/N_NNP ,/RD_PUNC તને/PR_PRP તો/RP_RPD ઉજળિયાતોનું/N_NN રેકમેન્ડેશન/N_NN જોઈએ/V_VM છે/V_VAUX ,/RD_PUNC એ/DM_DMD લોકોની/N_NN સ્વીકૃતિ/N_NN ./RD_PUNC
+GJED136	પણ/CC_CCD યાદ/JJ રાખ/V_VM ,/RD_PUNC એ/PR_PRP લોકો/N_NN કદી/V_VM કોઈના/PR_PRI થયા/V_VM નથી/RP_NEG કે/CC_CCS તારા/PR_PRP થાય/V_VM ./RD_PUNC
+GJED137	`/RD_PUNC રાજુ/N_NNP બહુ/QT_QTF ડંફાસો/N_NN માર/V_VM મા/RP_NEG !/RD_PUNC `/RD_PUNC
+GJED138	તું/PR_PRP તો/RP_RPD તારી/PR_PRP મૂળ/JJ અટક/N_NN બદલીને/V_VAUX_VNP પટેલ/N_NNP લખતો/V_VAUX_VNP થયો/V_VM છું/V_VAUX ./RD_PUNC
+GJED139	જ્યારે/N_NST હું/PR_PRP તો/RP_RPD છડેચોક/JJ કહું/V_VM છું/V_VAUX કે/CC_CCS હું/PR_PRP સોલંકી/N_NNP છું/V_VAUX ./RD_PUNC
+GJED140	મારી/PR_PRP જાત/N_NN આ/DM_DMD ને/CC_CCD મારું/PR_PRP કામ/N_NN આ/DM_DMD ./RD_PUNC
+GJED141	કૉલેજમાં/N_NN ભણતા/V_VAUX_VNP ત્યારે/N_NST મારી/PR_PRP નોટને/N_NN અદ્ધરથી/N_NST ઝીલતી/V_VAUX_VNP છોકરીના/N_NN અપમાને/N_NN ય/RP_RPD સહન/JJ કર્યા/V_VM છે/V_VAUX ને/CC_CCD ઊજળા/JJ ભૈબંધો/N_NN સાથે/PSP બેસીને/V_VAUX_VNP ચા/N_NN ય/RP_RPD પીધી/V_VM છે/V_VAUX ./RD_PUNC
+GJED142	આભડછેટની/N_NN સામે/PSP ઝઝૂમ્યો/V_VM છું/V_VAUX ./RD_PUNC
+GJED143	પણ/CC_CCD મેં/PR_PRP એને/PR_PRP મારી/PR_PRP ઉપર/PSP સવાર/N_NN નથી/RP_NEG થવા/V_VAUX_VNP દીધી/V_VAUX ./RD_PUNC
+GJED144	મૂળ/JJ મુદ્દે/N_NN પોતાની/PR_PRF ખુમારી/N_NN તો/RP_RPD જોવે/V_VM ને/RP_RPD ?/RD_PUNC
+GJED145	સૌથી/JJ સરળ/JJ ઉપાય/N_NN ન/RP_NEG વાદ/N_NN નિર્વિવાદ/N_NN ./RD_PUNC
+GJED146	બોલવાનું/V_VAUX_VNP જ/RP_RPD બંધ/JJ ./RD_PUNC
+GJED147	ખબર/N_NN નથી/RP_NEG પડતી/V_VAUX_VNP શું/PR_PRQ થાય/V_VM છે/V_VAUX ?/RD_PUNC
+GJED148	હું/PR_PRP મુક્ત/JJ થાઉં/V_VM છું/V_VAUX કે/CC_CCS મારી/PR_PRP આસપાસ/N_NST દીવાલ/N_NN ચણતો/V_VAUX_VNP જાઉં/V_VM છું/V_VAUX ?/RD_PUNC
+GJED149	હશે/PSP ,/RD_PUNC જે/PR_PRL હોય/V_VAUX તે/PR_PRL ./RD_PUNC
+GJED150	આપણે/PR_PRP તો/RP_RPD કામથી/N_NN મતલબ/N_NN ./RD_PUNC
+GJED151	કામ/N_NN જ/RP_RPD લોકોને/N_NN ગમે/V_VM ને/CC_CCD કરેલું/V_VAUX_VNP કામ/N_NN જ/RP_RPD બોલે/V_VM ./RD_PUNC
+GJED152	મંત્રીશ્રીઓ/N_NN સાથેની/PSP ઓળખાણ/N_NN -/RD_PUNC પિછાણમાં/N_NN આ/DM_DMD વાતનું/N_NN મહત્ત્વ/N_NN છે/V_VAUX ./RD_PUNC
+GJED153	એમને/PR_PRP તો/RP_RPD કામથી/N_NN મતલબ/N_NN ./RD_PUNC
+GJED154	ક્યારેક/N_NST શંકા/N_NN થાય/V_VM ,/RD_PUNC ખરેખર/PSP એવું/JJ હોય/V_VAUX છે/V_VAUX ખરું/RP_RPD ?/RD_PUNC
+GJED155	કેમકે/CC_CCS એક/QT_QTC મંત્રીશ્રી/N_NN મારા/PR_PRP પર/PSP ખુશ/JJ ./RD_PUNC
+GJED156	પૂરો/JJ વિશ્વાસ/N_NN મૂકે/V_VM ,/RD_PUNC અંગતથી/JJ અંગત/JJ કામ/N_NN સોંપે/V_VM ,/RD_PUNC એમના/PR_PRP ઘરે/N_NN ,/RD_PUNC રસોડે/N_NN આવનજાવન/N_NN સાવ/PSP સહજ/JJ ./RD_PUNC
+GJED157	એ/DM_DMD વાતનું/N_NN ગૌરવે/N_NN ય/RP_RPD ખરું/RP_RPD ./RD_PUNC
+GJED158	એમાં/DM_DMD ખોટું/JJ શું/PR_PRQ ?/RD_PUNC
+GJED159	પણ/CC_CCD એકાએક/PSP એમની/PR_PRP રૂખ/N_NN બદલાઈ/V_VM ગઈ/V_VAUX ./RD_PUNC
+GJED160	આ/DM_DMD તો/RP_RPD રાજાવાજા/N_NN ને/CC_CCD વાંદરા/N_NN ./RD_PUNC
+GJED161	પણ/CC_CCD એમના/PR_PRP પી.એસ.એ/N_NN કેટલાક/QT_QTF દિવસો/N_NN પછી/PSP વાત/N_NN ખોલી/V_VM ./RD_PUNC
+GJED162	કહે/V_VM ,/RD_PUNC તમે/PR_PRP સોલંકી/N_NNP ખરાને/RP_RPD ,/RD_PUNC ને/CC_CCD પાછા/RB પાટણના/N_NNP ./RD_PUNC
+GJED163	એટલે/PSP સાહેબ/N_NN તમને/PR_PRP દરબાર/N_NN સમજતા/V_VAUX_VNP ./RD_PUNC
+GJED164	પણ/CC_CCD હું/PR_PRP તો/RP_RPD રજપૂત/N_NN નથી/RP_NEG ./RD_PUNC
+GJED165	હું/PR_PRP તો/RP_RPD હા/PSP ,/RD_PUNC એની/DM_DMD ખબર/N_NN પડી/V_VM એટલે/PSP તો/RP_RPD સાહેબ/N_NN ./RD_PUNC
+GJED166	આય/DM_DMD ખરું/RP_RPD છે/V_VAUX !/RD_PUNC તે/PSP હું/PR_PRP શું/PR_PRQ એમ/JJ કહું/V_VM કે/CC_CCS એ/PSP સાહેબ/N_NN આઘા/JJ રહેજો/V_VM હું/PR_PRP હરિજન/N_NN છું/V_VAUX !/RD_PUNC
+GJED167	હા/PSP કોઈ/PR_PRI પૂછે/V_VM તો/CC_CCD બેધડક/JJ કહું/V_VM ./RD_PUNC
+GJED168	બાકી/JJ તો/RP_RPD મને/PR_PRP યાદ/JJ નથી/RP_NEG આવતું/V_VAUX_VNP કે/CC_CCS હું/PR_PRP શું/PR_PRQ છું/V_VAUX ને/CC_CCD સામેનો/JJ કોણ/PR_PRQ છે/V_VAUX !/RD_PUNC
+GJED169	આ/DM_DMD તમે/PR_PRP કહ્યું/V_VM ત્યારે/N_NST ખબર/N_NN પડી/V_VM કે/CC_CCS તમારા/PR_PRP મુસ્લિમોમાં/N_NN ય/RP_RPD મુનશી/N_NNP અટક/N_NN હોય/V_VAUX છે/V_VAUX ./RD_PUNC
+GJED170	બાકી/PSP સાહેબ/N_NN આવું/JJ વિચારતા/V_VAUX_VNP હોય/V_VAUX તો/CC_CCD એમની/PR_PRP મરજી/N_NN ./RD_PUNC
+GJED171	સાહેબ/N_NN છે/V_VAUX એટલે/PSP બાકી/PSP ,/RD_PUNC એમને/PR_PRP આપણાથી/PR_PRP થોડું/QT_QTF કંઈ/DM_DMI કહેવાય/V_VM ?/RD_PUNC
+GJED172	એવી/JJ તો/RP_RPD હટી/V_VM ગઈ/V_VAUX !/RD_PUNC ભલે/PSP મોટો/JJ મંત્રી/N_NN હોય/V_VAUX ,/RD_PUNC છે/V_VAUX ટૂંકા/JJ મનનો/N_NN ./RD_PUNC
+GJED173	આપણે/PR_PRP નાના/JJ પડીએ/V_VM ,/RD_PUNC શું/PR_PRQ કરીએ/V_VM ?/RD_PUNC
+GJED174	બસ/PSP છાપામાં/N_NN છપાવવાનું/V_VAUX_VNP બાકી/JJ રાખ્યું/V_VM !/RD_PUNC
+GJED175	બાકી/JJ જ્યાં/N_NST હોય/V_VAUX ત્યાં/N_NST પ્રચાર/N_NN કર્યો/V_VM ./RD_PUNC
+GJED176	એની/PR_PRP ઈમેજને/N_NN એટલો/JJ ઘસારો/N_NN પહોંચે/V_VM ./RD_PUNC
+GJED177	પણ/CC_CCD બધે/QT_QTF એવું/JJ નહોતું/RP_NEG થતું/V_VAUX_VNP ./RD_PUNC
+GJED178	એક/QT_QTC ભાઈને/N_NN મેં/PR_PRP કાન/N_NN પાછળ/PSP સાંભળ્યો/V_VM ,/RD_PUNC `/RD_PUNC ભડનો/N_NN દીકરો/N_NN ./RD_PUNC `/RD_PUNC
+GJED179	ખબર/N_NN પડી/V_VM કે/CC_CCS તરત/PSP વાઢી/V_VM નાંખ્યો/V_VAUX ./RD_PUNC
+GJED180	બાકી/PSP આ/DM_DMD લોકોને/N_NN થોડા/QT_QTF ઘરમાં/N_NN ઘાલવાના/V_VAUX_VNP હોય/V_VAUX ?/RD_PUNC
+GJED181	મને/PR_PRP સમજાયું/V_VM નહીં/RP_NEG ./RD_PUNC
+GJED182	શું/PR_PRQ કરવું/V_VAUX_VNP ?/RD_PUNC
+GJED183	પણ/CC_CCD ના/RP_NEG હસવું/V_VAUX_VNP આવ્યું/V_VAUX ,/RD_PUNC ના/RP_NEG રડવું/V_VAUX_VNP ને/CC_CCD દયા/N_NN તો/RP_RPD હરગિજ/JJ ના/RP_NEG ખાધી/V_VM ./RD_PUNC
+GJED184	ખુન્નસ/N_NN તો/RP_RPD એવું/JJ ચઢ્યું/V_VM કે/CC_CCS -/RD_PUNC બોલનાર/V_VAUX_VNP કોઈ/PR_PRI વચેટિયો/JJ હતો/V_VAUX ,/RD_PUNC પણ/CC_CCD કંઈ/DM_DMI નહીં/RP_NEG ./RD_PUNC
+GJED185	આપણે/PR_PRP ય/RP_RPD અધિકારી/N_NN છીએ/V_VAUX એટલે/PSP બેટો/N_NN આજ/N_NST નહીં/RP_NEG ને/CC_CCD કાલે/N_NST ઘાટમાં/N_NN આવશે/V_VM તો/RP_RPD ખરો/RP_RPD જ/RP_RPD ./RD_PUNC
+GJED186	મોકો/N_NN ય/RP_RPD તરત/PSP મળી/V_VM ગયો/V_VAUX ./RD_PUNC
+GJED187	કામ/N_NN કરી/V_VAUX_VNP આપવાનું/V_VAUX_VNP વચન/N_NN આપ્યું/V_VM ./RD_PUNC
+GJED188	તૈયાર/JJ ફાઈલ/N_NN પણ/RP_RPD બતાવી/V_VM ./RD_PUNC
+GJED189	છેલ્લા/JJ દિવસ/N_NN સુધી/PSP લટકાવી/V_VAUX_VNP રાખ્યો/V_VM ./RD_PUNC
+GJED190	વીલું/JJ મોં/N_NN જોઈ/V_VM મઝા/N_NN આવી/V_VAUX ./RD_PUNC
+GJED191	પૂછે/V_VM ,/RD_PUNC સાહેબ/N_NN તમને/PR_PRP વાંધો/N_NN ક્યાં/N_NST પડ્યો/V_VM છે/V_VAUX ?/RD_PUNC
+GJED192	કંઈ/DM_DMI ફોડ/N_NN તો/RP_RPD પાડો/V_VM ,/RD_PUNC તો/CC_CCD ખબર/N_NN પડે/V_VM ./RD_PUNC
+GJED193	શાહસાહેબ/N_NNP ,/RD_PUNC તમે/PR_PRP તો/RP_RPD મોટો/JJ બંગલો/N_NN બનાવ્યો/V_VM છે/V_VAUX ./RD_PUNC
+GJED194	કોઈ/DM_DMI દિવસ/N_NN જમવા/V_VAUX_VNP તો/RP_RPD બોલાવો/V_VM ./RD_PUNC
+GJED195	મને/PR_PRP ખબર/N_NN છે/V_VAUX આ/DM_DMD નફફટાઈ/N_NN છે/V_VAUX ,/RD_PUNC જમવાની/V_VAUX_VNP ઉઘરાણી/N_NN સામે/PSP ચાલીને/V_VAUX_VNP કરી/V_VM ./RD_PUNC
+GJED196	કેમકે/CC_CCS મારે/PR_PRP એ/PR_PRP જોવું/V_VAUX_VNP હતું/V_VAUX કે/CC_CCS એ/PR_PRP કઈ/DM_DMI રીતે/N_NN મને/PR_PRP `/RD_PUNC ઘરમાં/N_NN ઘાલવાની/V_VAUX_VNP `/RD_PUNC ના/RP_NEG પાડે/V_VM છે/V_VAUX ?/RD_PUNC
+GJED197	પણ/CC_CCD આ/DM_DMD તો/RP_RPD વાણિયાનો/N_NN દીકરો/N_NN નીકળ્યો/V_VM ./RD_PUNC
+GJED198	કહે/V_VM ,/RD_PUNC એમાં/DM_DMI શું/PR_PRQ ,/RD_PUNC આજે/N_NST જ/RP_RPD પધારોને/V_VM ,/RD_PUNC તમે/PR_PRP ફૅમિલી/N_NN સાથે/PSP આવો/V_VM ./RD_PUNC
+GJED199	બોલો/V_VM કહી/V_VM દઉં/V_VAUX ?/RD_PUNC કહેતાં/V_VAUX_VNP મોબાઈલ/N_NN ઉઠાવ્યો/V_VM ./RD_PUNC
+GJED200	`/RD_PUNC હું/PR_PRP ય/RP_RPD ઘેર/N_NN કહી/V_VM દઉં/V_VAUX કે/CC_CCS આજે/N_NST આપણે/PR_PRP શાહસાહેબના/N_NNP મહેમાન/N_NN છીએ/V_VAUX ./RD_PUNC `/RD_PUNC
+GJED201	પણ/CC_CCD સાલી/N_NN મઝા/N_NN ના/RP_NEG આવી/V_VAUX !/RD_PUNC
+GJED202	એમણે/PR_PRP મહેમાનગતિ/N_NN તો/RP_RPD પાછું/JJ વાળીને/V_VAUX_VNP જોયા/V_VAUX_VNP વિના/PSP કરી/V_VM ./RD_PUNC
+GJED203	મને/PR_PRP તો/RP_RPD એમ/JJ જ/RP_RPD હતું/V_VAUX કે/CC_CCS લઈ/V_VM જશે/V_VAUX કોઈક/DM_DMI રેસ્ટોરન્ટમાં/N_NN ./RD_PUNC
+GJED204	પણ/CC_CCD ના/RP_NEG ,/RD_PUNC ઘરે/N_NN જ/RP_RPD જમ્યા/V_VM ને/CC_CCD રસોઈ/N_NN પણ/RP_RPD ફક્કડ/JJ ને/CC_CCD ઉમળકો/N_NN પણ/RP_RPD નક્કર/JJ ./RD_PUNC
+GJED205	સમજાયું/V_VM નહીં/RP_NEG સાચો/JJ શાહ/N_NNP કયો/DM_DMQ ?/RD_PUNC
+GJED206	આ/DM_DMD કે/CC_CCS પેલો/DM_DMD -/RD_PUNC પીઠ/N_NN પાછળ/PSP બોલનારો/V_VAUX_VNP ?/RD_PUNC
+GJED207	કોઈની/DM_DMI સાથે/PSP આ/DM_DMD આખી/JJ વાત/N_NN શેર/N_NN કરવી/V_VAUX_VNP જોઈએ/V_VAUX ,/RD_PUNC તો/CC_CCD કંઈક/DM_DMI વાત/N_NN પલ્લે/N_NN પડે/V_VM !/RD_PUNC
+GJED208	પણ/CC_CCD પેટ/N_NN ખોલીને/V_VAUX_VNP વાત/N_NN થાય/V_VM એવા/JJ ક્યાં/N_NST દેખાય/V_VM છે/V_VAUX આજકાલ/N_NST ?/RD_PUNC
+GJED209	તોય/RP_RPD મથુરભાઈ/N_NNP સાથે/PSP વાત/N_NN કરી/V_VM તો/CC_CCD એ/PR_PRP કહે/V_VM -/RD_PUNC `/RD_PUNC ભઈ/N_NN જમ્યા/V_VM એ/DM_DMD તો/RP_RPD સારું/JJ કર્યું/V_VM પણ/RP_RPD કંઈ/DM_DMI કવર/N_NN -/RD_PUNC બવર/N_NN લીધું/V_VM કે/CC_CCS નહીં/RP_NEG ?/RD_PUNC `/RD_PUNC
+GJED210	`/RD_PUNC એ/PR_PRP આપતા/V_VAUX_VNP હતા/V_VAUX ,/RD_PUNC મેં/PR_PRP ના/RP_NEG પાડી/V_VM ./RD_PUNC કહ્યું/V_VM ,/RD_PUNC તમારી/PR_PRP સાથે/PSP જમ્યા/V_VM એ/DM_DMD જ/RP_RPD ઘણું/QT_QTF છે/V_VAUX ./RD_PUNC `/RD_PUNC
+GJED211	`/RD_PUNC મૂરખ/JJ છે/V_VAUX ને/CC_CCD તું/PR_PRP ય/RP_RPD વળી/PSP !/RD_PUNC `/RD_PUNC મથુરભાઈએ/N_NNP તો/RP_RPD ફટ/JJ કરતુંક/V_VAUX_VNP ને/CC_CCD પ્રમાણપત્ર/N_NN ફાડી/V_VM દીધું/V_VAUX !/RD_PUNC
+GJED212	`/RD_PUNC જમવું/V_VAUX_VNP બમવું/V_VAUX_VNP બધું/QT_QTF ઠીક/JJ મારા/PR_PRP ભાઈ/N_NN ,/RD_PUNC એથી/PSP એક/QT_QTC ટંકનું/N_NN પેટ/N_NN ભરાય/V_VM ./RD_PUNC બાકી/PSP એમ/PSP કંઈ/DM_DMI ઘર/N_NN નો/RP_NEG ભરાય/V_VM ./RD_PUNC `/RD_PUNC
+GJED213	આવું/JJ છે/V_VAUX !/RD_PUNC મથુરભાઈ/N_NNP ભલે/PSP એમની/PR_PRP રીતે/N_NN સાચા/JJ હશે/V_VAUX પણ/CC_CCD રૂપિયો/N_NN જ/RP_RPD બધું/QT_QTF નથી/RP_NEG ./RD_PUNC
+GJED214	તે/DM_DMD રાતે/N_NST મેં/PR_PRP કવર/N_NN પાછું/RB વાળ્યું/V_VM કે/CC_CCS તરત/PSP શાહે/N_NNP મિસિસ/N_NN શાહ/N_NNP સામે/PSP જોયું/V_VM ./RD_PUNC
+GJED215	એ/DM_DMD તરત/PSP ઊભા/JJ થયા/V_VM ને/CC_CCD અંદર/N_NST જઈ/V_VAUX_VNP એક/QT_QTC સુંદર/JJ સાડી/N_NN લઈ/V_VAUX_VNP આવી/V_VM મધુ/N_NNP સામે/PSP ધરી/V_VM ./RD_PUNC
+GJED216	`/RD_PUNC ભાઈ/N_NN ,/RD_PUNC ભાભીને/N_NN આપુ/V_VM છું/V_VAUX ./RD_PUNC એની/DM_DMD ના/RP_NEG ન/RP_NEG કહેતા/V_VAUX_VNP ./RD_PUNC `/RD_PUNC
+GJED217	હું/PR_PRP તો/RP_RPD ના/RP_NEG કહેવા/V_VAUX_VNP જ/RP_RPD જતો/V_VAUX_VNP હતો/V_VAUX પણ/CC_CCD મધુના/N_NNP ચહેરા/N_NN સામે/PSP જોયું/V_VM ત્યાં/N_NST અનેરી/JJ ચમક/N_NN હતી/V_VAUX ./RD_PUNC
+GJED218	ઢગલો/N_NN સાડીઓ/N_NN હશે/V_VAUX એની/PR_PRP પાસે/PSP પણ/CC_CCD આવી/JJ તો/RP_RPD એકે/QT_QTC નહી/RP_NEG !/RD_PUNC
+GJED219	અમે/PR_PRP શોધવા/V_VAUX_VNP ગયા/V_VAUX હોત/V_VAUX તો/CC_CCD ય/RP_RPD આવી/JJ મળત/V_VM કે/CC_CCS કેમ/PR_PRQ એ/DM_DMD પ્રશ્ન/N_NN છે/V_VAUX ./RD_PUNC
+GJED220	મારી/PR_PRP વાલી/N_NN કેટલાંકને/QT_QTF જોવા/V_VAUX_VNP -/RD_PUNC પરખવાની/V_VAUX_VNP નજર/N_NN જ/RP_RPD અલગ/JJ હોય/V_VAUX છે/V_VAUX ./RD_PUNC
+GJED221	મેં/PR_PRP ય/RP_RPD માણસને/N_NN પરખવાની/V_VAUX_VNP એક/QT_QTC બીજી/JJ તક/N_NN ના/RP_NEG છોડી/V_VM ./RD_PUNC
+GJED222	ભાઈ/N_NN કહો/V_VM છો/V_VAUX તો/CC_CCD ભાઈના/N_NN ઘરે/N_NN પધારવાનું/V_VAUX_VNP વચન/N_NN આપો/V_VM તો/RP_RPD ./RD_PUNC
+GJED223	`/RD_PUNC ચોક્કસ/PSP તમે/PR_PRP ભલે/PSP બે/QT_QTC જ/RP_RPD જણાં/N_NN આવ્યાં/V_VM ./RD_PUNC હું/PR_PRP તો/RP_RPD બાળકોને/N_NN લઈને/V_VAUX_VNP આવીશ/V_VM ./RD_PUNC `/RD_PUNC
+GJED224	આમ/PSP કહેતા/V_VAUX_VNP પહેલાં/N_NST મિસિસ/N_NN શાહે/N_NNP શાહને/N_NNP પૂછ્યું/V_VM સુધ્ધાં/PSP નહોતું/RP_NEG કે/CC_CCS સામે/PSP જોયું/V_VM પણ/RP_RPD નહોતું/RP_NEG ./RD_PUNC
+GJED225	એ/DM_DMD લોકોએ/N_NN વચન/N_NN નિભાવ્યું/V_VM એટલું/JJ જ/RP_RPD નહીં/RP_NEG ,/RD_PUNC એમના/PR_PRP સર્કલમાં/N_NN બીજાઓ/JJ સાથે/PSP પરિચય/N_NN પણ/RP_RPD કરાવ્યો/V_VM ./RD_PUNC
+GJED226	ફાર્મ/N_NN હાઉસમાં/N_NN થતી/V_VAUX_VNP પાર્ટીઓ/N_NN ,/RD_PUNC વીક/N_NN એન્ડમાં/N_NN આઉટિંગ/N_NN ,/RD_PUNC મોંઘીદાટ/JJ કલબોની/N_NN મેમ્બરશિપ/N_NN ,/RD_PUNC હુક્કાબાર/N_NN ને/CC_CCD કૉફી/N_NN શોપની/N_NN ગોષ્ઠિ/N_NN ,/RD_PUNC એક્સક્લુઝિવ/JJ ડ્રેસ/N_NN ,/RD_PUNC જ્વેલરી/N_NN ને/CC_CCD ડિઝાઈનરકાર/N_NN કેટલુંય/QT_QTF તો/RP_RPD આપણી/PR_PRP હેસિયતનું/N_NN ય/RP_RPD હોતું/V_VAUX નથી/RP_NEG પણ/CC_CCD એ/DM_DMD લોકોને/N_NN કારણે/PSP સાવ/PSP સહજ/JJ હાથવગું/JJ બની/V_VM રહે/V_VAUX !/RD_PUNC
+GJED227	કેટલાંય/QT_QTF કામો/N_NN સરળ/JJ બન્યાં/V_VM ,/RD_PUNC ને/CC_CCD કમણીના/N_NN નવા/JJ રસ્તા/N_NN ય/RP_RPD ખૂલ્યા/V_VM ./RD_PUNC
+GJED228	છોકરાંઓને/N_NN નોકરી/N_NN મળશે/V_VM જ/RP_RPD એવી/JJ ખાતરી/N_NN નથી/RP_NEG ત્યારે/N_NST આ/DM_DMD બધું/QT_QTF જ/RP_RPD કામ/N_NN આવશે/V_VAUX ને/RP_RPD ?/RD_PUNC
+GJED229	નોકરી/N_NN છે/V_VAUX ,/RD_PUNC સત્તા/N_NN છે/V_VAUX ,/RD_PUNC પાવર/N_NN છે/V_VAUX તો/CC_CCD આ/DM_DMD કંપની/N_NN છે/V_VAUX ./RD_PUNC
+GJED230	આ/DM_DMD કંપની/N_NN ય/RP_RPD એમની/PR_PRP રીતે/N_NN વસૂલ/JJ તો/RP_RPD કરી/V_VM જ/RP_RPD લે/V_VM છે/V_VAUX ,/RD_PUNC ભલે/PSP પછી/PSP એમને/PR_PRP નાતજાતનું/N_NN કે/CC_CCS રંગરૂપનું/N_NN મહત્ત્વ/N_NN ના/RP_NEG હોય/V_VAUX ./RD_PUNC
+GJED231	એમની/PR_PRP નજર/N_NN તો/RP_RPD છે/V_VAUX તમારી/PR_PRP પર/PSP ./RD_PUNC
+GJED232	ભલે/PSP ,/RD_PUNC ખૂણામાં/N_NN પડ્યા/V_VM તે/PR_PRP ,/RD_PUNC જો/CC_CCD સંભવિત/JJ તાકાતની/N_NN ગંધ/N_NN ય/RP_RPD આવી/V_VM જાય/V_VAUX તો/CC_CCD તમને/PR_PRP સાચવવામાં/V_VAUX_VNP પાછા/RB ન/RP_NEG પડે/V_VM ./RD_PUNC
+GJED233	ત્યારે/N_NST શું/PR_PRQ હું/PR_PRP ય/RP_RPD જોડાઈ/V_VM જઈશ/V_VAUX આ/DM_DMD લોકોમાં/N_NN ?/RD_PUNC
+GJED234	ચેન/N_NN નથી/RP_NEG પડતું/V_VAUX_VNP એટલે/PSP કાર/N_NN લઈ/V_VAUX_VNP નીકળી/V_VM પડ્યો/V_VAUX ./RD_PUNC
+GJED235	ક્યાં/N_NST જઈશ/V_VM ?/RD_PUNC આ/DM_DMD કાર/N_NN જ્યાં/N_NST જાય/V_VM ત્યાં/N_NST ,/RD_PUNC એ/DM_DMD જ/RP_RPD તો/RP_RPD હવે/N_NST પગ/N_NN છે/V_VAUX આપણા/PR_PRP !/RD_PUNC આ/DM_DMD દુનિયા/N_NN ક્યાંથી/N_NST ક્યાં/N_NST આગળ/PSP વધી/V_VM ગઈ/V_VAUX !/RD_PUNC પણ/CC_CCD આપણા/PR_PRP માણસો/N_NN હજી/N_NST એ/DM_DMD જૂની/JJ ઘરેડમાં/N_NN ,/RD_PUNC આ/DM_DMD ખાબોચિયાના/N_NN જીવ/N_NN !/RD_PUNC
+GJED236	અટક્યો/N_NN ./RD_PUNC મોલમાં/N_NN ગયો/V_VM ./RD_PUNC
+GJED237	એની/DM_DMD આંજી/V_VM દેતી/V_VAUX_VNP ચમકતી/V_VAUX_VNP લાઈટ્સ/N_NN ,/RD_PUNC અજવાળાના/N_NN ધોધમાં/N_NN નહાતી/V_VAUX_VNP જાતભાતની/JJ આપણે/PR_PRP જોઈ/V_VM હોય/V_VAUX તેવી/JJ ને/CC_CCD ન/RP_NEG જોઈ/V_VM હોય/V_VAUX એવી/JJ અનેકાનેક/JJ ચીજવસ્તુઓ/N_NN ,/RD_PUNC જાણે/PSP કોઈ/DM_DMI જાદુઈ/JJ ખજાનો/N_NN જ/RP_RPD જોઈ/V_VM લ્યો/V_VAUX !/RD_PUNC
+GJED238	`/RD_PUNC સાહેબ/N_NN ,/RD_PUNC સાહેબ/N_NN !/RD_PUNC `/RD_PUNC અચાનક/PSP કાને/N_NN બૂમ/N_NN સાંભળી/V_VM ./RD_PUNC
+GJED239	પાછળ/PSP ફરીને/V_VAUX_VNP આમતેમ/PSP જોયું/V_VM ./RD_PUNC
+GJED240	ફરીથી/RB અવાજ/N_NN કાને/N_NN પડ્યો/V_VM ./RD_PUNC
+GJED241	અરે/RP_INJ !/RD_PUNC આ/DM_DMD તો/RP_RPD સુધીર/N_NNP ,/RD_PUNC હેડક્લાર્ક/N_NN જોશીનો/N_NNP દીકરો/N_NN ./RD_PUNC
+GJED242	કાઉન્ટરની/N_NN પાછળ/N_NST ઊભો/V_VM છે/V_VAUX ને/RP_RPD કંઈ/DM_DMI !/RD_PUNC
+GJED243	`/RD_PUNC તું/PR_PRP અહીંયાં/N_NST ક્યાંથી/N_NST લ્યા/RP_INJ !/RD_PUNC `/RD_PUNC
+GJED244	`/RD_PUNC બસ/PSP છુટ્ટીઓનો/N_NN ઉપયોગ/N_NN કરું/V_VM છું/V_VAUX ,/RD_PUNC જે/PR_PRL કમાણી/N_NN થઈ/V_VM તે/DM_DMD ./RD_PUNC `/RD_PUNC
+GJED245	`/RD_PUNC તે/DM_DMD તું/PR_PRP ખરીદવા/V_VAUX_VNP નથી/RP_NEG આવ્યો/V_VM ?/RD_PUNC `/RD_PUNC
+GJED246	`/RD_PUNC ખરીદવા/V_VAUX_VNP ?/RD_PUNC અરે/RP_INJ સાહેબ/N_NN -/RD_PUNC જવા/V_VAUX_VNP દો/V_VAUX ને/RP_RPD ,/RD_PUNC પપ્પાએ/N_NN પી.એફ.માંથી/N_NN લોન/N_NN ઉપાડી/V_VM ફી/N_NN ભરી/V_VM એટલે/PSP ઘણું/QT_QTF ./RD_PUNC `/RD_PUNC
+GJED247	ભણવા/V_VAUX_VNP માટે/PSP બાકીની/JJ રકમ/N_NN કાઢવા/V_VAUX_VNP સમય/N_NN મળે/V_VM આ/DM_DMD જોબ/N_NN કરી/V_VM લઉં/V_VAUX -/RD_PUNC જાતે/PR_PRF કમાઈને/V_VAUX_VNP જાતે/PR_PRF ભણવાનું/V_VAUX_VNP કહી/V_VM એ/PR_PRP હસ્યો/V_VM ./RD_PUNC
+GJED248	એના/PR_PRP હસવામાં/V_VAUX_VNP પ્રસન્નતા/N_NN કે/CC_CCS દુ:ખ/N_NN કશું/DM_DMI ન/RP_NEG હતું/V_VAUX ./RD_PUNC
+GJED249	હતી/V_VAUX માત્ર/RP_RPD સમજણ/N_NN ./RD_PUNC
+GJED250	એ/DM_DMD સાથે/PSP મિલના/N_NN સાંચા/N_NN સાફ/JJ કરતો/V_VAUX_VNP હું/PR_PRP મને/PR_PRP દેખાયો/V_VM !/RD_PUNC !/RD_PUNC
+GJED251	આપણું/PR_PRP તો/RP_RPD કલ્ચર/N_NN ય/RP_RPD બદલાવા/V_VAUX_VNP બેઠું/V_VM છે/V_VAUX ને/RP_RPD !/RD_PUNC
+GJED252	બસ/PSP બદલાય/V_VM છે/V_VAUX તો/RP_RPD આ/DM_DMD રંગ/N_NN -/RD_PUNC રૂપ/N_NN ./RD_PUNC
+GJED253	બાકી/PSP ભીતરથી/N_NN તો/RP_RPD છે/V_VAUX એ/DM_DMD જ/RP_RPD દમન/N_NN અને/CC_CCD શોષણ/N_NN -/RD_PUNC એક/QT_QTC છેડે/N_NN આ/DM_DMD લોકો/N_NN ને/CC_CCD બીજા/JJ છેડે/N_NN એ/DM_DMD લોકો/N_NN અંતર/N_NN માત્ર/RP_RPD કાઉન્ટર/N_NN જેટલું/JJ -/RD_PUNC કાઉન્ટરની/N_NN આ/DM_DMD બાજુએ/N_NN ને/CC_CCD કાઉન્ટરની/N_NN સામેની/PSP બાજુએ/N_NN પણ/RP_RPD જે/PR_PRL લોકો/N_NN આ/DM_DMD બેમાંથી/QT_QTC એક/QT_QTC જગ્યાએ/N_NN નથી/RP_NEG એનું/DM_DMD શું/PR_PRQ ?/RD_PUNC
+GJED254	આમતેમ/PSP ફર્યો/V_VAUX_VNP ને/CC_CCD પછી/PSP પણ/RP_RPD મને/PR_PRP મારો/PR_PRP લોક/N_NN ક્યાંક/N_NN મળ્યો/V_VM નહીં/RP_NEG ./RD_PUNC
+GJED255	તો/RP_RPD શું/PR_PRQ મારે/PR_PRP આમ/PSP ત્રિશંકુની/N_NN જેમ/PSP જ/RP_RPD અટવાતા/V_VAUX_VNP રહેવાનું/V_VAUX_VNP ?/RD_PUNC
+GJED256	કદાચ/PSP મારા/PR_PRP વિશ્વામિત્ર/N_NNP જ/RP_RPD નથી/RP_NEG એટલે/PSP પણ/RP_RPD મારે/PR_PRP તો/RP_RPD સ્વર્ગે/N_NN ય/RP_RPD નથી/RP_NEG જોઈતું/V_VAUX_VNP ./RD_PUNC
+GJED257	મારે/PR_PRP તો/RP_RPD મારા/PR_PRP લોકો/N_NN જેવો/JJ જ/RP_RPD લોક/N_NN જોઈએ/V_VM ./RD_PUNC
+GJED258	આ/DM_DMD સાબરમતી/N_NNP આશ્રમ/N_NNP આવ્યો/V_VM ./RD_PUNC
+GJED259	મેં/PR_PRP જ્યારે/N_NST એ/DM_DMD સાંકડી/JJ ગલીમાં/N_NN પગ/N_NN મૂક્યો/V_VM ત્યારે/N_NST સ્વપ્ને/N_NN ય/RP_RPD ખ્યાલ/N_NN નહોતો/RP_NEG કે/CC_CCS પાછળ/PSP રહી/V_VM ગયેલાં/V_VAUX_VNP પગલાં/N_NN ઉપર/PSP ત્રીજી/QT_QTO દુનિયાની/N_NN મહોર/N_NN લાગી/V_VM જશે/V_VAUX ./RD_PUNC
+GJED260	પગલું/N_NN ભૂંસાઈ/V_VM જશે/V_VAUX ,/RD_PUNC પગલું/N_NN પડ્યું`તું/V_VM એ/DM_DMD સમય/N_NN નહીં/RP_NEG ./RD_PUNC
+GJED261	મારે/PR_PRP ત્યાં/N_NST જ/RP_RPD પાછા/RB ફરવું/V_VAUX_VNP પડ્યું/V_VAUX જ્યાંથી/N_NST મેં/PR_PRP શરૂઆત/N_NN કરી/V_VM હતી/V_VAUX ./RD_PUNC
+GJED262	વીજળીના/N_NN તાર/N_NN પર/PSP અસંખ્ય/JJ ચકલીઓ/N_NN બેઠી/V_VM હતી/V_VAUX ./RD_PUNC
+GJED263	લગભગ/PSP બધી/QT_QTF ચકલીઓની/N_NN આંખો/N_NN મને/PR_PRP જોતી/V_VAUX_VNP લાગી/V_VAUX ./RD_PUNC
+GJED264	`/RD_PUNC બા/N_NN ક્યાં/N_NST ?/RD_PUNC `/RD_PUNC એવું/JJ પૂછ્યું/V_VM એટલે/PSP ભાઈએ/N_NN લાંબો/JJ હાથ/N_NN કર્યો/V_VM ./RD_PUNC
+GJED265	હું/PR_PRP એકઢાળિયાની/N_NN સામેના/PSP અલાયદા/JJ ઓરડામાં/N_NN જવાનું/V_VAUX_VNP વિચારું/V_VM એ/DM_DMD પહેલાં/N_NST વીજળીના/N_NN તાર/N_NN પર/PSP પાનખર/N_NN આવી/V_VM ગઈ/V_VAUX !/RD_PUNC
+GJED266	મને/PR_PRP જોઈ/V_VM એ/DM_DMD બેઠી/V_VM થવા/V_VAUX_VNP ગઈ/V_VAUX પણ/RP_RPD અધવચ્ચે/N_NST જ/RP_RPD મેં/PR_PRP એને/DM_DMD રોકી/V_VM લીધી/V_VAUX ./RD_PUNC
+GJED267	એના/DM_DMD લેવાઈ/V_VAUX_VNP ગયેલા/V_VAUX_VNP દેહમાંથી/N_NN નબળાઈની/N_NN આંચ/N_NN આવતી/V_VAUX_VNP હતી/V_VAUX ./RD_PUNC
+GJED268	હું/PR_PRP એના/DM_DMD ખાટલાની/N_NN ઈસ/N_NN પકડીને/V_VAUX_VNP બેસી/V_VM પડ્યો/V_VAUX ./RD_PUNC
+GJED269	એનું/DM_DMD શરીર/N_NN ઠરતા/V_VAUX_VNP જતા/V_VAUX_VNP ચૂલાની/N_NN જેમ/PSP ધગી/V_VM રહ્યું/V_VAUX હતું/V_VAUX ./RD_PUNC
+GJED270	કોઈ/DM_DMI ચકલી/N_NN જોતી/V_VAUX_VNP હોય/V_VAUX એમ/PSP મને/PR_PRP જોઈ/V_VM રહેલી/V_VAUX ./RD_PUNC
+GJED271	બે/QT_QTC વર્ષ/N_NN પછી/PSP ઘરે/N_NN આવ્યો/V_VM હતો/V_VAUX ./RD_PUNC
+GJED272	બાને/N_NN જોતાં/V_VAUX_VNP એવું/JJ લાગ્યું/V_VM કે/CC_CCS કદાચ/PSP થોડા/QT_QTF દિવસનું/N_NN રોકાણ/N_NN થાય/V_VM ..../RD_PUNC પછી/PSP વારતા/N_NN પૂરી/JJ ./RD_PUNC
+GJED273	ભાઈએ/N_NN પાણી/N_NN આપ્યું/V_VM ત્યારે/N_NST મારું/PR_PRF ધ્યાન/N_NN ઉપર/N_NST -/RD_PUNC વાંસના/N_NN પોલાણમાં/N_NN દર્ભની/N_NN નાની/JJ નાની/JJ પૂળીઓ/N_NN ભરાવવામાં/V_VAUX_VNP આવી/V_VAUX હતી/V_VAUX -/RD_PUNC ત્યાં/N_NST હતું/V_VAUX ./RD_PUNC
+GJED274	પાણી/N_NN પીધા/V_VAUX_VNP પછી/PSP કહેવા/V_VAUX_VNP ગયો/V_VM -/RD_PUNC `/RD_PUNC એકલો/JJ નહોતો/RP_NEG આવતો/V_VAUX_VNP ,/RD_PUNC પણ/CC_CCD ..../RD_PUNC `/RD_PUNC
+GJED275	`/RD_PUNC પણ/CC_CCD આ/DM_DMD ગરમી/N_NN જોને/V_VM !/RD_PUNC `/RD_PUNC -/RD_PUNC કહેતા/V_VAUX_VNP ભાઈએ/N_NN જરા/QT_QTF મોં/N_NN મલકાવ્યું/V_VM ./RD_PUNC
+GJED276	`/RD_PUNC સારું/JJ કર્યું/V_VM -/RD_PUNC આવ્યો/V_VM ./RD_PUNC `/RD_PUNC
+GJED277	થોડીવાર/PSP પછી/PSP પ્યાલો/N_NN વીછળવાનો/V_VAUX_VNP અવાજ/N_NN આવ્યો/V_VM ,/RD_PUNC ભાઈ/N_NN ઘરમાં/N_NN ગયા/V_VM ત્યારે/N_NST સાથે/PSP પ્યાલો/N_NN નહોતો/RP_NEG ./RD_PUNC
+GJED278	કદાચ/PSP લેવાનું/V_VAUX_VNP ભૂલી/V_VM ગયા/V_VAUX હોય/V_VAUX !/RD_PUNC
+GJED279	`/RD_PUNC એ/DM_DMD ખીંટીએ/N_NN બાપુજીનું/N_NN પહેરણ/N_NN રે/V_VM છે/V_VAUX `/RD_PUNC -/RD_PUNC ભાઈનો/N_NN અવાજ/N_NN આવ્યો/V_VM એટલી/JJ વારમાં/N_NN મેં/PR_PRP શર્ટ/N_NN ટીંગાડી/V_VM દીધો/V_VAUX હતો/V_VAUX ./RD_PUNC
+GJED280	શર્ટ/N_NN હાથમાં/N_NN લઈ/V_VM એમ/PSP બેસી/V_VM રહ્યો/V_VAUX કે/CC_CCS હમણાં/N_NST કોઈ/PR_PRI કહેશે/V_VM કે/CC_CCS `/RD_PUNC ચાલો/V_VM અને/CC_CCD હું/PR_PRP શર્ટ/N_NN પહેરી/V_VAUX_VNP ભલે/PSP ત્યારે/N_NST `/RD_PUNC કહેતો/V_VAUX_VNP ડેલી/N_NN બહાર/N_NST નીકળી/V_VM જઈશ/V_VAUX ./RD_PUNC
+GJED281	પણ/CC_CCD આ/DM_DMD તો/RP_RPD ,/RD_PUNC કાળી/JJ રાતનો/N_NN નાનકડો/JJ હિસ્સો/N_NN ત્યાં/N_NST સંતાઈ/N_NN રહ્યો/V_VAUX હોય/V_VAUX અને/CC_CCD શર્ટ/N_NN લેતાં/V_VAUX_VNP જાણે/PSP ખુલ્લો/JJ પડી/V_VM ગયો/V_VAUX હોય/V_VAUX એમ/PSP શર્ટ/N_NN સાથે/PSP ખાલી/JJ ખીંટીનો/N_NN અણસારે/N_NN ય/RP_RPD ખેંચાઈ/V_VM આવ્યો/V_VAUX ./RD_PUNC
+GJED282	એકઢાળિયામાં/N_NN માત્ર/RP_RPD બે/QT_QTC ખીંટી/N_NN એક/QT_QTC પર/PSP લાકડાંના/N_NN સરવા/N_NN અને/CC_CCD પંચપાત્ર/N_NN ભરેલી/V_VAUX_VNP થેલી/N_NN લટકે/V_VM ,/RD_PUNC બીજી/QT_QTO ખીલી/N_NN હતી/V_VAUX પણ/CC_CCD ખાલી/JJ ન/RP_NEG કહેવાય/V_VM ./RD_PUNC
+GJED283	ત્યાં/N_NST બાપુજીનું/N_NN પહેરણ/N_NN એમની/PR_PRP તુમાખીની/N_NN છાપ/N_NN ઝુલાવતું/V_VAUX_VNP રહેતું/V_VAUX ./RD_PUNC
+GJED284	એ/DM_DMD ખીંટી/N_NN પર/PSP બાપુજી/N_NN પહેરણ/N_NN લટકાવતા/V_VAUX_VNP ત્યારે/N_NST પહેરણ/N_NN નહીં/RP_NEG પણ/CC_CCD વળગણ/N_NN લટકાવતા/V_VAUX_VNP હોય/V_VAUX એવું/JJ લાગતું/V_VAUX_VNP ./RD_PUNC
+GJED285	જ્યારથી/N_NST લટકાવે/V_VM એમના/PR_PRP બે/QT_QTC મુઠ્ઠી/N_NN હાડચામમાં/N_NN ઘર/N_NN કર્યું/V_VM ત્યારથી/N_NST પડખાંવગે/N_NN થઈ/V_VM ટી.વી./N_NN ,/RD_PUNC સામે/PSP તાકી/V_VM રહેતા/V_VAUX_VNP ./RD_PUNC
+GJED286	મને/PR_PRP થયું/V_VM કે/CC_CCS ઘર/N_NN માટેનાં/PSP સલાહસૂચનો/N_NN ,/RD_PUNC માન્યતાઓ/N_NN ,/RD_PUNC દોમદમામ/N_NN કોરા/JJ પડેલા/V_VAUX_VNP સ્નાયુને/N_NN હજુ/N_NST ગાંઠતા/V_VAUX_VNP હશે/V_VAUX ?/RD_PUNC
+GJED287	`/RD_PUNC ખાટલે/N_NN લટકાવી/V_VM દે/V_VAUX ને/RP_RPD `/RD_PUNC ભાઈએ/N_NN કહ્યું/V_VM ,/RD_PUNC પણ/CC_CCD મેં/PR_PRP શર્ટ/N_NN પહેરી/V_VM લીધું/V_VAUX ./RD_PUNC
+GJED288	શરીર/N_NN સાથે/PSP પ્રશ્ન/N_NN પણ/RP_RPD ઢંકાઈ/V_VM ગયો/V_VAUX ./RD_PUNC
+GJED289	બરડા/N_NN ઉપર/N_NST પરસેવાની/N_NN ભીનાશ/N_NN પચપચી/V_VM રહી/V_VAUX ./RD_PUNC
+GJED290	માથા/N_NN પરની/N_NST ખીંટી/N_NN કેટલી/QT_QTF સૂકી/JJ લાગતી/V_VAUX_VNP હતી/V_VAUX !/RD_PUNC
+GJED291	એ/DM_DMD દિવસે/N_NST મને/PR_PRP મળેલા/V_VAUX_VNP પત્રમાં/N_NN ધ્રૂજતા/V_VAUX_VNP અક્ષરો/N_NN મારા/PR_PRP માટે/PSP નવાઈભર્યા/JJ હતા/V_VAUX ./RD_PUNC
+GJED292	એ/DM_DMD અક્ષરો/N_NN પૌરુષી/JJ નહોતા/RP_NEG ./RD_PUNC
+GJED293	`/RD_PUNC કોણે/PR_PRQ લખ્યો/V_VM છે/V_VAUX આવો/JJ અડબંગ/JJ કાગળ/N_NN ?/RD_PUNC ન/RP_NEG શબ્દોનો/N_NN ઘાટ/N_NN ,/RD_PUNC ન/RP_NEG વિગતની/N_NN પૂરી/JJ -/RD_PUNC `/RD_PUNC
+GJED294	`/RD_PUNC નરી/JJ લાગણીને/N_NN કોઈ/DM_DMI કિનારો/N_NN નથી/RP_NEG હોતો/V_VAUX એટલે/PSP ઘાટનો/N_NN સવાલ/N_NN રહેવા/V_VAUX_VNP દે/V_VAUX ./RD_PUNC `/RD_PUNC
+GJED295	`/RD_PUNC સવાલ/N_NN એ/DM_DMD છે/V_VAUX કે/CC_CCS ,/RD_PUNC સમયની/N_NN સાથોસાથ/PSP સ્મૃતિનો/N_NN ચહેરો/N_NN ય/RP_RPD બદલાઈ/V_VM જતો/V_VAUX_VNP હશે/V_VAUX ?/RD_PUNC `/RD_PUNC
+GJED296	એણે/PR_PRP પત્ર/N_NN ફાડી/V_VM નાખવાનું/V_VAUX_VNP ય/RP_RPD વિચાર્યું/V_VM હોય/V_VAUX !/RD_PUNC
+GJED297	`/RD_PUNC મારી/PR_PRP બાનો/N_NN પત્ર/N_NN છે/V_VAUX `/RD_PUNC -/RD_PUNC મેં/PR_PRP ટૂંકમાં/N_NN પતાવ્યું/V_VM હતું/V_VAUX ./RD_PUNC
+GJED298	મારું/PR_PRP સમગ્ર/JJ ધ્યાન/N_NN પત્રમાં/N_NN હતું/V_VAUX ./RD_PUNC
+GJED299	એ/DM_DMD પત્ર/N_NN પાછળની/PSP સાવ/PSP કોરી/JJ બાજુને/N_NN જોઈ/V_VM રહી/V_VAUX હતી/V_VAUX ./RD_PUNC
+GJED300	`/RD_PUNC તારા/PR_PRP બાપુજીને/N_NN લકવામાં/N_NN હાથ/N_NN -/RD_PUNC પગ/N_NN ઝલાઈ/V_VM ગ્યા/V_VAUX છે/V_VAUX `/RD_PUNC -/RD_PUNC એટલા/JJ અક્ષર/N_NN મારી/PR_PRP સામે/PSP ફોળાઈને/V_VAUX_VNP પડ્યા/V_VM હતા/V_VAUX ./RD_PUNC
+GJED301	મોટા/JJ અક્ષરોથી/N_NN ભરાઈ/V_VAUX_VNP ગયેલા/V_VAUX_VNP એ/DM_DMD પત્રમાં/N_NN બાકી/JJ રહેલો/V_VAUX_VNP અવકાશ/N_NN મારે/PR_PRP ભરવાનો/V_VAUX_VNP હતો/V_VAUX ./RD_PUNC
+GJED302	મારે/PR_PRP જવું/V_VAUX_VNP જોઈએ/V_VAUX ?/RD_PUNC
+GJED303	પ્રશ્ન/N_NN હેડકી/N_NN માફક/PSP ઊછળી/V_VM રહ્યો/V_VAUX હતો/V_VAUX ./RD_PUNC
+GJED304	`/RD_PUNC ઘરે/N_NN જઈ/V_VM આવો/V_VM ,/RD_PUNC ચિંતા/N_NN કરે/V_VM છે/V_VAUX તમારી/PR_PRP `/RD_PUNC -/RD_PUNC એના/DM_DMD હોઠ/N_NN ઉપરનું/JJ હાસ્ય/N_NN એની/JJ નવી/JJ ઊપજ/N_NN હતી/V_VAUX ./RD_PUNC
+GJED305	અત્યારે/N_NST અહીં/N_NST રહ્યારહ્યા/V_VAUX_VNP મને/PR_PRP હસવું/V_VAUX_VNP આવે/V_VAUX છે/V_VAUX ./RD_PUNC
+GJED306	ત્યાંની/N_NST મારી/PR_PRP નાનકડી/JJ ઓરડી/N_NN અને/CC_CCD અહીં/N_NST ત્રણ/QT_QTC સદસ્યોથી/N_NN ભર્યા/V_VAUX_VNP ઘર/N_NN વચ્ચેનું/JJ અંતરિયાળ/JJ હાસ્ય/N_NN !/RD_PUNC
+GJED307	બાપુજીની/N_NN ખબર/N_NN કાઢવા/V_VAUX_VNP આવ્યા/V_VM પછી/PSP એક/QT_QTC પ્રકારની/N_NN મોકળાશ/N_NN જરૂર/PSP અનુભવતો/V_VAUX_VNP હતો/V_VAUX ./RD_PUNC
+GJED308	પણ/RP_RPD એનું/DM_DMD એક/QT_QTC ધૂંધળું/JJ વજન/N_NN તો/RP_RPD હતું/V_VAUX જ/RP_RPD ./RD_PUNC
+GJED309	એ/DM_DMD દિવસે/N_NN પત્નીની/N_NN ઊછળેલી/V_VAUX_VNP અકળામણનું/N_NN વર્તુળ/N_NN મચ્છરદાની/N_NN પેઠે/PSP મારી/PR_PRP ઉપર/N_NST છવાતું/V_VAUX_VNP જતું/V_VAUX_VNP હતું/V_VAUX ./RD_PUNC
+GJED310	ખુલ્લી/JJ આંખે/N_NN કે/CC_CCS બંધ/JJ આંખે/N_NN વિચારો/N_NN અટકવાનું/V_VAUX_VNP છોડતા/V_VAUX_VNP નહોતા/V_VAUX ./RD_PUNC
+GJED311	`/RD_PUNC ચાલશે/V_VM ,/RD_PUNC ગામમાં/N_NN નહીં/RP_NEG આવે/V_VM તો/RP_RPD `/RD_PUNC -/RD_PUNC એટલું/JJ કહેવાથી/V_VAUX_VNP એક/QT_QTC આખી/JJ દિશા/N_NN વસાઈ/V_VM જાય/V_VAUX છે/V_VAUX ?/RD_PUNC
+GJED312	કોઈ/DM_DMI ઉંદરે/N_NN ખોરવેલી/V_VAUX_VNP રજકણ/N_NN ખરતી/V_VAUX_VNP રહી/V_VAUX ./RD_PUNC
+GJED313	એમ/PSP થયું/V_VM કે/CC_CCS કશું/DM_DMI દેખાતું/V_VAUX_VNP નથી/RP_NEG ./RD_PUNC
+GJED314	બાપુજી/N_NN એકઢાળિયામાં/N_NN બેઠા/V_VM હતા/V_VAUX ./RD_PUNC
+GJED315	એ/DM_DMD ફાટ્યા/V_VAUX_VNP મોંએ/N_NN ટી.વી.માં/N_NN પડતાં/V_VAUX_VNP તકમરિયાંને/N_NN એમ/PSP તાકી/V_VM રહેલા/V_VAUX_VNP જાણે/PSP એ/PR_PRP કશી/DM_DMI ઉમેદની/N_NN ફૂલખંડી/N_NN હોય/V_VAUX ./RD_PUNC
+GJED316	એમને/PR_PRP કદાચ/PSP હવે/N_NST કોઈ/DM_DMI સ્પષ્ટ/JJ ચિત્રનો/N_NN મોહ/N_NN રહ્યો/V_VAUX નહોતો/V_VAUX ./RD_PUNC
+GJED317	ચળકતા/V_VAUX_VNP ચૌદ/QT_QTC ઈંચના/N_NN પરદાને/N_NN કોઈ/DM_DMI ખૂણે/N_NN પોતાને/PR_PRF બેસાડી/V_VM ટગટગ/JJ તાકી/V_VM રહેતા/V_VAUX_VNP ./RD_PUNC
+GJED318	એન્ટેના/N_NN ઉપર/N_NST બેઠેલા/V_VAUX_VNP કાગડાઓનો/N_NN ત્રાસદાયક/JJ અવાજ/N_NN આવતો/V_VAUX_VNP હતો/V_VAUX ./RD_PUNC
+GJED319	એકવાર/PSP ત્યાં/N_NST ઉંદરની/N_NN પૂંછડી/N_NN ખાસા/JJ સમય/N_NN સુધી/PSP લટકતી/V_VAUX_VNP રહેલી/V_VAUX ,/RD_PUNC કાગડાના/N_NN ધરવની/N_NN નિશાની/N_NN જેવી/JJ ./RD_PUNC
+GJED320	પછી/PSP એ/DM_DMD ય/RP_RPD કામ/N_NN આવી/V_VM ગયેલી/V_VAUX ./RD_PUNC
+GJED321	એન્ટેનાની/N_NN દિશા/N_NN ફરી/RB ગઈ/V_VAUX હતી/V_VAUX ./RD_PUNC
+GJED322	ધુમાડાથી/N_NN ઘેરાયેલો/V_VAUX_VNP અગ્નિ/N_NN ડોકું/N_NN કાઢી/V_VM શકતો/V_VAUX નહોતો/V_VAUX ./RD_PUNC
+GJED323	ચૂલામાં/N_NN ફૂંક/N_NN મારવા/V_VAUX_VNP હું/PR_PRP ઊભો/JJ થયો/V_VM ./RD_PUNC
+GJED324	`/RD_PUNC તું/PR_PRP ભાઈ/N_NN ચૂલા/N_NN પાસે/PSP ન/RP_NEG જઈશ/V_VM ..../RD_PUNC તું/PR_PRP -/RD_PUNC નહીં/RP_NEG ફાવે/V_VM તને/PR_PRP ./RD_PUNC `/RD_PUNC
+GJED325	ભાઈ/N_NN એકદમ/PSP ઓરડામાંથી/N_NN બહાર/N_NST નીકળી/V_VM ભારપૂર્વક/JJ બોલ્યા/V_VM ,/RD_PUNC એમના/PR_PRP હાથમાં/N_NN નાડાછડીના/N_NN છેડા/N_NN લબડી/V_VM રહ્યા/V_VAUX હતા/V_VAUX ./RD_PUNC
+GJED326	`/RD_PUNC તારી/PR_PRP આંખમાં/N_NN નહીંને/RP_NEG તણખો/N_NN -/RD_PUNC ધુમાડો/N_NN પડે/V_VM ..../RD_PUNC `/RD_PUNC -/RD_PUNC ભાઈએ/N_NN બાપુજી/N_NN સામે/PSP એક/QT_QTC ક્ષણ/N_NN જોઈ/V_VAUX_VNP મોં/N_NN ફેરવી/V_VAUX_VNP લીધું/V_VAUX ./RD_PUNC
+GJED327	પછી/PSP ચૂલામાં/N_NN જોરથી/RB ફૂંક/N_NN મારીને/V_VAUX_VNP ઊભા/JJ થઈ/V_VM ગયા/V_VAUX ./RD_PUNC
+GJED328	ખોળામાં/N_NN રહેલી/V_VAUX_VNP ભૂંગળી/N_NN સહેજ/JJ ગબડીને/V_VAUX_VNP એક/QT_QTC કાંકરી/N_NN આડે/PSP અટકી/V_VM ગઈ/V_VAUX ./RD_PUNC
+GJED329	એમની/PR_PRP ફૂંક/N_NN સાથે/PSP ઊડેલા/V_VAUX_VNP થૂંકને/N_NN કારણે/PSP ચૂલામાં/N_NN જરા/JJ તતડાટ/N_NN થયો/V_VM ./RD_PUNC
+GJED330	એમની/PR_PRP ફૂંક/N_NN એવી/JJ હતી/V_VAUX જાણે/PSP બધું/QT_QTF બુઝાવી/V_VM નાખવું/V_VAUX_VNP હોય/V_VAUX !/RD_PUNC
+GJED331	અગ્નિની/N_NN આછી/JJ ધજાઓ/N_NN તપેલી/V_VAUX_VNP ફરતે/N_NST ફરફરતી/V_VAUX_VNP રહી/V_VAUX ./RD_PUNC
+GJED332	બફાતા/JJ બટાકાની/N_NN વાસ/N_NN આવતી/V_VAUX_VNP હતી/V_VAUX ./RD_PUNC
+GJED333	હું/PR_PRP ત્યાંથી/N_NST હટી/V_VM ગયો/V_VAUX ./RD_PUNC એ/DM_DMD સ્થાન/N_NN ભાઈએ/N_NN લીધું/V_VM હતું/V_VAUX ./RD_PUNC
+GJED334	વાત/N_NN તણખા/N_NN પૂરતી/JJ નહોતી/RP_NEG ,/RD_PUNC ધુમાડા/N_NN પૂરતીય/JJ નહીં/RP_NEG ./RD_PUNC
+GJED335	`/RD_PUNC એના/DM_DMD હાથનું/N_NN બટાકાનું/N_NN લાલચટ્ટક/JJ શાક/N_NN તમે/PR_PRP ખાવ/V_VM તો/CC_CCD -/RD_PUNC `/RD_PUNC હું/PR_PRP ધીમેથી/RB બોલ્યો/V_VM હોઈશ/V_VAUX ,/RD_PUNC મારું/PR_PRP બોલવું/V_VAUX_VNP ઘરના/N_NN ત્રણેય/QT_QTC સભ્યો/N_NN વચ્ચે/N_NST ક્યાંક/N_NST એવા/JJ ખૂણામાં/N_NN પડ્યું/V_VM રહ્યું/V_VAUX ,/RD_PUNC જ્યાં/N_NST નહોતી/RP_NEG અગ્નિની/N_NN હૂંફ/N_NN કે/CC_CCS પાણીની/N_NN ભીનાશ/N_NN ./RD_PUNC
+GJED336	હું/PR_PRP જેની/PR_PRL વકીલાત/N_NN કરતો/V_VAUX_VNP હતો/V_VAUX એનો/PR_PRL ચહેરો/N_NN ઝબકી/V_VM ગયો/V_VAUX ./RD_PUNC
+GJED337	એ/DM_DMD ઘણા/QT_QTF સમયથી/N_NN મારા/PR_PRP ખભે/N_NN લટકતી/V_VAUX_VNP જનોઈને/N_NN લક્ષ્ય/N_NN કરતી/V_VAUX_VNP હતી/V_VAUX ./RD_PUNC
+GJED338	જાણે/PSP મારા/PR_PRP શરીરે/N_NN વીંટળાયેલ/V_VAUX_VNP નાગ/N_NN એની/DM_DMD સામે/PSP ફેણ/N_NN ઊંચી/JJ કરીને/V_VAUX_VNP ઊભો/V_VM હતો/V_VAUX ./RD_PUNC
+GJED339	એ/DM_DMD મારી/PR_PRP સામે/PSP ફર્યો/V_VM ત્યારે/N_NST મેં/PR_PRP શાંતિથી/RB કહેલું/V_VAUX_VNP ,/RD_PUNC `/RD_PUNC કાતર/N_NN લાવ/V_VM `/RD_PUNC ,/RD_PUNC મારું/PR_PRP ચાલ્યું/V_VM હોત/V_VAUX તો/CC_CCD મારા/PR_PRP તસુ/N_NN તસુ/N_NN શરીરને/N_NN ય/RP_RPD બેઝિઝક/JJ વેતરી/V_VM નાખેત/V_VAUX ,/RD_PUNC `/RD_PUNC જો/V_VM ,/RD_PUNC છે/V_VAUX કશું/DM_DMI મનુજના/N_NN લોહી/N_NN સિવાય/PSP ?/RD_PUNC `/RD_PUNC
+GJED340	એ/DM_DMD મારી/PR_PRP આરપાર/N_NST જોવાનો/V_VAUX_VNP પ્રયાસ/N_NN કરતી/V_VAUX_VNP હોય/V_VAUX એવું/JJ લાગતું/V_VAUX_VNP ./RD_PUNC
+GJED341	એમ/PSP કરતાં/V_VAUX_VNP એ/DM_DMD ક્યાંક/N_NST ને/CC_CCD ક્યાંક/N_NST અટવાઈ/V_VM પડતી/V_VAUX હતી/V_VAUX ./RD_PUNC
+GJED342	ક્યાં/N_NST ?/RD_PUNC શિખામાં/N_NN ?/RD_PUNC તિલકમાં/N_NN ?/RD_PUNC માળામાં/N_NN ?/RD_PUNC એની/PR_PRP નજર/N_NN ભોંકાતી/V_VAUX_VNP હતી/V_VAUX ./RD_PUNC
+GJED343	ખાલી/JJ ઘરમાં/N_NN મોડે/JJ સુધી/PSP એની/PR_PRP રાહ/N_NN જોઈને/V_VAUX_VNP મેં/PR_PRP બહાર/N_NST જઈ/V_VAUX_VNP ફોન/N_NN ઘુમાવેલો/V_VAUX_VNP ,/RD_PUNC `/RD_PUNC ક્યાં/N_NST છે/V_VAUX તું/PR_PRP ?/RD_PUNC `/RD_PUNC
+GJED344	`/RD_PUNC ઘરે/N_NN ./RD_PUNC `/RD_PUNC
+GJED345	`/RD_PUNC ઘરે/N_NN છે/V_VAUX તો/CC_CCD દેખાતી/V_VAUX_VNP કેમ/DM_DMQ નથી/RP_NEG ?/RD_PUNC હું/PR_PRP ઘરેથી/N_NN નીકળીને/V_VAUX_VNP ફોન/N_NN `/RD_PUNC -/RD_PUNC એના/PR_PRP કોઈ/DM_DMI પણ/RP_RPD પ્રકારના/N_NN ખુલાસા/N_NN વગર/PSP મને/PR_PRP સમજાઈ/V_VM ગયું/V_VAUX હતું/V_VAUX ./RD_PUNC
+GJED346	એના/PR_PRP પિયરને/N_NN `/RD_PUNC ઘેર/N_NN `/RD_PUNC કહેવાનો/V_VAUX_VNP એને/PR_PRP અધિકાર/N_NN હતો/V_VAUX અને/CC_CCD એ/DM_DMD અધિકારની/N_NN એક/QT_QTC કાંકરી/N_NN ય/RP_RPD એણે/PR_PRP ગુમાવી/V_VM નહોતી/RP_NEG ./RD_PUNC
+GJED347	`/RD_PUNC છોટુ/N_NNP જનોઈ/N_NN દેવા/V_VAUX_VNP જેવડો/JJ થાય/V_VM ત્યારે/N_NST આવું/V_VM ?/RD_PUNC `/RD_PUNC -/RD_PUNC એના/PR_PRP સ્વરમાં/N_NN વ્યંગ/N_NN નહોતો/RP_NEG ./RD_PUNC
+GJED348	એ/PR_PRP કદાચ/PSP અવાજ/N_NN વગરનું/PSP હસતી/V_VAUX_VNP હતી/V_VAUX ./RD_PUNC
+GJED349	એના/PR_PRP શ્વાસનો/N_NN થડકો/N_NN મારા/PR_PRP કાનમાં/N_NN પડતો/V_VAUX_VNP હતો/V_VAUX ./RD_PUNC
+GJED350	હું/PR_PRP પુરાયેલો/V_VAUX_VNP હતો/V_VAUX એ/DM_DMD કાચની/N_NN કેબિન/N_NN બહાર/N_NST એક/QT_QTC સાધુનો/N_NN ચહેરો/N_NN ક્યારનો/N_NST મંડાયેલો/V_VAUX_VNP હતો/V_VAUX ./RD_PUNC
+GJED351	એનો/PR_PRP ગુસ્સો/N_NN કાચની/N_NN દીવાલને/N_NN ગરમ/JJ કરતો/V_VAUX_VNP લાગ્યો/V_VAUX ./RD_PUNC
+GJED352	હું/PR_PRP `/RD_PUNC હેલ્લો/N_NN ..../RD_PUNC હેલ્લોની/N_NN ..../RD_PUNC `/RD_PUNC બહાર/N_NST નીકળી/V_VM ગયો/V_VAUX એવો/JJ એ/PR_PRP ઝડપથી/RB કાચ/N_NN પાછળ/N_NST પુરાઈ/V_VM ગયો/V_VAUX ./RD_PUNC
+GJED353	એ/DM_DMD સમયે/N_NN એણે/PR_PRP કદાચ/PSP કોઈ/DM_DMI ઈશ્વરની/N_NN એપૉઈન્ટમેન્ટ/N_NN લીધી/V_VM હશે/V_VAUX ./RD_PUNC
+GJED354	હું/PR_PRP સાફ/JJ આકાશમાં/N_NN જોતાં/V_VAUX_VNP વિચારી/V_VM રહ્યો/V_VAUX ,/RD_PUNC એણે/PR_PRP અત્યારથી/N_NST બાળકનું/N_NN નામ/N_NN પણ/RP_RPD પાડી/V_VM દીધું/V_VAUX !/RD_PUNC છોટુ/N_NNP !/RD_PUNC શી/PR_PRQ ખબર/N_NN કેમ/PR_PRQ હું/PR_PRP એને/PR_PRP નામ/N_NN બદલવાનું/V_VAUX_VNP નહોતો/RP_NEG કહી/V_VM શકતો/V_VAUX ./RD_PUNC
+GJED355	બાપુજીની/N_NN પથારી/N_NN બદલવાનું/V_VAUX_VNP ક્યાં/N_NST કહી/V_VM શક્યો/V_VAUX ?/RD_PUNC
+GJED356	એમનાં/PR_PRP ઓશીકા/N_NN અને/CC_CCD ગોદડાંની/N_NN કિનાર/N_NN પર/PSP કંકુના/N_NN મેલા/JJ ડાઘ/N_NN પડ્યા/V_VM હતા/V_VAUX ./RD_PUNC
+GJED357	પહેલાં/N_NST એ/PR_PRP ગળા/N_NN પર/PSP ,/RD_PUNC છાતી/N_NN પર/PSP અને/CC_CCD બંને/JJ હાથનાં/N_NN બાવડાં/N_NN પર/PSP કંકુનું/N_NN તિલક/N_NN કરતા/V_VAUX_VNP હતા/V_VAUX ./RD_PUNC
+GJED358	ગળામાં/N_NN રુદ્રાક્ષની/N_NN માળા/N_NN રહેતી/V_VAUX_VNP ,/RD_PUNC મેલી/JJ અને/CC_CCD પરસેવાથી/N_NN ચમકતી/V_VAUX_VNP ./RD_PUNC
+GJED359	એની/PR_PRP ઉપર/PSP જગતના/N_NN ઠેકઠેકાણેથી/N_NN આવેલી/V_VAUX_VNP માખો/N_NN પગ/N_NN વડે/PSP પોતાનો/PR_PRF પ્રવાસ/N_NN ખેરવતી/V_VAUX_VNP ./RD_PUNC
+GJED360	એમની/PR_PRP આંખો/N_NN ટી.વી./N_NN બાજુ/N_NN હતી/V_VAUX ./RD_PUNC
+GJED361	જૂના/JJ ઘોડા/N_NN પર/PSP પાછલાં/JJ વરસનાં/N_NN પંચાગો/N_NN ખાંગાં/JJ થઈને/V_VAUX_VNP પડ્યાં/V_VM હતાં/V_VAUX ./RD_PUNC
+GJED362	બા/N_NN બારી/N_NN તરફ/PSP આંખો/N_NN માંડીને/V_VAUX_VNP પડી/V_VM હતી/V_VAUX ./RD_PUNC
+GJED363	કળાતું/V_VAUX_VNP નહોતું/RP_NEG કે/CC_CCS એ/PR_PRP બારી/N_NST બહાર/N_NST જોઈ/V_VM રહી/V_VAUX છે/V_VAUX કે/CC_CCS બારીના/N_NN સળિયાને/N_NN ./RD_PUNC
+GJED364	મેં/PR_PRP એનો/PR_PRP હાથ/N_NN દબાવ્યો/V_VM ,/RD_PUNC `/RD_PUNC બા/N_NN !/RD_PUNC `/RD_PUNC
+GJED365	`/RD_PUNC પૂછ્યું/V_VM નથી/RP_NEG ,/RD_PUNC રોકાશે/V_VM કે/CC_CCS નહીં/RP_NEG ./RD_PUNC `/RD_PUNC
+GJED366	`/RD_PUNC એનો/PR_PRP સામાન/N_NN `/RD_PUNC -/RD_PUNC `/RD_PUNC પહેરે/JJ કપડે/V_VAUX_VNP જ/RP_RPD આવ્યો/V_VM છે/V_VAUX ./RD_PUNC `/RD_PUNC
+GJED367	`/RD_PUNC એના/PR_PRP માટે/PSP અલગ/JJ -/RD_PUNC `/RD_PUNC
+GJED368	બહાર/N_NST ,/RD_PUNC બારી/N_NN નજીક/JJ કોઈ/DM_DMI વાહન/N_NN ઘરઘરાટી/N_NN કરતું/V_VAUX_VNP નીકળી/V_VM ગયું/V_VAUX ./RD_PUNC
+GJED369	હવાની/N_NN ઝપટે/N_NN ધડ/PSP કરતું/V_VAUX_VNP બારણું/N_NN બંધ/JJ થઈ/V_VM ગયું/V_VAUX ./RD_PUNC
+GJED370	એક/QT_QTC ઢાળિયામાં/N_NN બેઠેલા/V_VAUX_VNP બાપુજી/N_NN ,/RD_PUNC એમની/PR_PRP લગોલગ/PSP ઊભેલા/V_VAUX_VNP ભાઈ/N_NN અને/CC_CCD મારી/PR_PRP વચ્ચે/N_NST બારણાં/N_NN પાછળનું/N_NST અંધારું/N_NN આવી/V_VM ગયું/V_VAUX ./RD_PUNC
+GJED371	બારણાં/N_NN પાછળ/N_NST લાગેલાં/V_VAUX_VNP બાવાંજાળાંઓમાં/N_NN મરી/V_VM ગયેલાં/V_VAUX_VNP મકોડાનાં/N_NN ખોખાં/N_NN અને/CC_CCD ગરોળીની/N_NN લીંડીઓ/N_NN ઝૂલતાં/V_VAUX_VNP રહ્યાં/V_VAUX ./RD_PUNC
+GJED372	મેં/PR_PRP ઊભા/JJ થઈ/V_VM બારણાં/N_NN ખોલી/V_VM નાખ્યાં/V_VAUX ,/RD_PUNC ભાઈ/N_NN ખસિયાણું/JJ મોં/N_NN કરીને/V_VAUX_VNP બોલ્યાં/V_VM ,/RD_PUNC `/RD_PUNC બાપુજીને/N_NN થયું/V_VM કે/CC_CCS ચાર/QT_QTC વાગી/V_VM ગયા/V_VAUX ./RD_PUNC ચારની/QT_QTC બસ/N_NN આવે/V_VM ને/RP_RPD એટલે/PSP .../RD_PUNC `/RD_PUNC
+GJED373	મેં/PR_PRP કાંડાઘડિયાળમાં/N_NN જોયું/V_VM ./RD_PUNC
+GJED374	ત્રણ/QT_QTC વાગતા/V_VM હતા/V_VAUX ./RD_PUNC
+GJED375	દીવાલ/N_NN ઘડિયાળ/N_NN પાછળ/PSP હતી/V_VAUX ./RD_PUNC
+GJED376	ઘડિયાળમાં/N_NN ચોંટાડેલો/V_VAUX_VNP બાપુજીનો/N_NN જૂનો/JJ ફોટો/N_NN પીળો/JJ પડી/V_VM ગયો/V_VAUX હતો/V_VAUX ./RD_PUNC
+GJED377	ઘડિયાળના/N_NN કાંટા/N_NN કદાચ/PSP એ/DM_DMD ફોટાને/N_NN વફાદાર/JJ હતા/V_VAUX ./RD_PUNC
+GJED378	મેં/PR_PRP બા/N_NN સામે/PSP જોયું/V_VM તો/CC_CCD એની/PR_PRP આંખો/N_NN ભીની/JJ હતી/V_VAUX ./RD_PUNC
+GJED379	બા/N_NN ,/RD_PUNC તું/PR_PRP શા/PR_PRQ માટે/PSP રડે/V_VM છે/V_VAUX ?/RD_PUNC જો/V_VM ,/RD_PUNC તું/PR_PRP સાજી/JJ થઈ/V_VM જા/V_VAUX ./RD_PUNC
+GJED380	પછી/PSP તારી/PR_PRP પાસે/PSP બે/QT_QTC દિવસ/N_NN રોકાઈશ/V_VM -/RD_PUNC કોઈ/DM_DMI નાના/JJ બાળકને/N_NN મનાવીએ/V_VM એમ/PSP મેં/PR_PRP એના/PR_PRP ગાલ/N_NN થપથપાવ્યા/V_VM ./RD_PUNC
+GJED381	મને/PR_PRP ખબર/N_NN હતી/V_VAUX કે/CC_CCS મારા/PR_PRP માટે/PSP અહીં/N_NST રોકાવું/V_VM એટલે/PSP શું/PR_PRQ અને/CC_CCD બાના/N_NN સાજા/JJ થવું/V_VAUX_VNP એટલે/PSP શું/PR_PRQ ?/RD_PUNC
+GJED382	આ/DM_DMD બંને/JJ બાબતોના/N_NN વિજય/N_NN માટે/PSP અમારા/PR_PRP બંનેનો/JJ સમય/N_NN સામસામે/PSP ઊભો/V_VM હતો/V_VAUX ./RD_PUNC
+GJED383	હું/PR_PRP અને/CC_CCD બા/N_NN એકબીજાને/PR_PRC દયનીય/JJ આંખે/N_NN જોઈ/V_VM રહ્યાં/V_VAUX ./RD_PUNC
+GJED384	આ/DM_DMD વખતે/N_NN એના/PR_PRP ફફડતા/V_VAUX_VNP હોઠમાંથી/N_NN અકલ્પનીય/JJ શબ્દો/N_NN સર્યા/V_VM ,/RD_PUNC `/RD_PUNC મને/PR_PRP ત્યાં/N_NST લઈ/V_VM જા/V_VAUX ,/RD_PUNC મારે/PR_PRP તારું/PR_PRP ઘર/N_NN જોવું/V_VAUX_VNP `/RD_PUNC એટલું/JJ બોલતાં/V_VAUX_VNP એ/PR_PRP હાંફી/V_VM ગઈ/V_VAUX ./RD_PUNC
+GJED385	હું/PR_PRP કંપી/V_VM ઊઠ્યો/V_VAUX ,/RD_PUNC હાંફને/N_NN કારણે/PSP ઊછળતી/V_VAUX_VNP એની/PR_PRP છાતી/N_NN જાણે/PSP મારા/PR_PRP ઘરનું/N_NN સરનામું/N_NN શોધતી/V_VAUX_VNP હતી/V_VAUX ./RD_PUNC
+GJED386	એના/PR_PRP મોંએથી/N_NN `/RD_PUNC તારું/PR_PRP ઘર/N_NN `/RD_PUNC શબ્દો/N_NN ઊડીને/V_VAUX_VNP મારા/PR_PRP કાનમાં/N_NN એમ/PSP ચોંટી/V_VM ગયા/V_VAUX જાણે/PSP મેં/PR_PRP ઊંઘમાં/N_NN સાંભળ્યા/V_VM હોય/V_VAUX !/RD_PUNC
+GJED387	હું/PR_PRP ઊંઘમાં/N_NN નહોતો/RP_NEG અને/CC_CCD બાની/N_NN આંખોય/N_NN ઊંઘની/N_NN બહાર/PSP હતી/V_VAUX ./RD_PUNC
+GJED388	એના/PR_PRP અવાજમાં/N_NN આગ્રહ/N_NN કરતાં/V_VAUX_VNP આજીજીનું/N_NN પ્રમાણ/N_NN વધુ/QT_QTF હતું/V_VAUX ./RD_PUNC
+GJED389	એથી/PSP મારા/PR_PRP ઘરની/N_NN એ/DM_DMD ઓરડીનું/N_NN ખાલીપણું/N_NN બમણું/JJ થઈ/V_VM ઘેરી/V_VM વળ્યું/V_VAUX ./RD_PUNC
+GJED390	એટલું/JJ કહીને/V_VAUX_VNP હું/PR_PRP ઊભો/JJ થઈ/V_VM ગયો/V_VAUX ./RD_PUNC
+GJED391	પગને/N_NN ક્યાં/N_NST લઈ/V_VM જવા/V_VAUX_VNP એ/DM_DMD સૂઝ્યું/V_VM નહીં/RP_NEG ./RD_PUNC
+GJED392	પગે/N_NN ય/RP_RPD મારી/PR_PRP ઉપરવટ/JJ જવાની/V_VAUX_VNP જીદ/N_NN ન/RP_NEG કરી/V_VM ,/RD_PUNC હું/PR_PRP મારી/PR_PRP સાથે/PSP એ/DM_DMD સ્મરણો/N_NN પણ/RP_RPD લાવ્યો/V_VM હતો/V_VAUX ,/RD_PUNC જેને/PR_PRL છેલ્લે/JJ અહીંથી/N_NST નીકળતી/V_VAUX_VNP વખતે/N_NN અહીં/N_NST જ/RP_RPD છોડી/V_VM દીધાં/V_VAUX હતાં/V_VAUX ./RD_PUNC
+GJED393	એ/DM_DMD સ્મરણો/N_NN સાથે/PSP મારો/PR_PRP એ/DM_DMD ભૂતકાળ/N_NN પણ/RP_RPD ઢસડાઈ/V_VM આવ્યો/V_VAUX હતો/V_VAUX ./RD_PUNC
+GJED394	જેનો/PR_PRL આ/DM_DMD ઘરમાં/N_NN એક/QT_QTC આગંતુકથી/N_NN વિશેષ/JJ કોઈ/DM_DMI અર્થ/N_NN નહોતો/RP_NEG ./RD_PUNC
+GJED395	`/RD_PUNC તું/PR_PRP ?/RD_PUNC તું/PR_PRP પરણીશ/V_VM ?/RD_PUNC બ્રાહ્મણનું/N_NN ખોળિયું/N_NN મળ્યું/V_VM છે/V_VAUX ,/RD_PUNC એનો/PR_PRP મોક્ષનો/N_NN વિચાર/N_NN કર/V_VM ./RD_PUNC `/RD_PUNC
+GJED396	આ/DM_DMD બે`ક/QT_QTC વરસ/N_NN પહેલાંની/N_NST વાત/N_NN ./RD_PUNC
+GJED397	એ/DM_DMD વખતે/N_NN હું/PR_PRP એમની/PR_PRP જનોઈના/N_NN છ/QT_QTC ધાગા/N_NN જોઈ/V_VM રહેલો/V_VAUX ,/RD_PUNC જે/PR_PRL અક્કડ/JJ થઈને/V_VAUX_VNP એમના/PR_PRP ખોળિયે/N_NN વળગ્યા/V_VM હતા/V_VAUX ./RD_PUNC
+GJED398	પ્રેમના/N_NN મુદ્દાને/N_NN એ/DM_DMD ધર્મના/N_NN વાડામાં/N_NN બાંધી/V_VM લાવ્યા/V_VAUX હતા/V_VAUX ./RD_PUNC
+GJED399	એ/DM_DMD મને/PR_PRP એવી/JJ રીતે/N_NN જોઈ/V_VM રહેલા/V_VAUX જાણે/PSP હું/PR_PRP કોઈ/DM_DMI પ્રાણી/N_NN હોઉં/V_VAUX ./RD_PUNC
+GJED400	`/RD_PUNC તેં/PR_PRP શું/PR_PRQ ધાર્યું/V_VM છે/V_VAUX ?/RD_PUNC `/RD_PUNC
+GJED401	એવો/JJ પ્રશ્ન/N_NN પૂર્વપ્રશ્નનો/N_NN પડછાયો/N_NN નહોતો/RP_NEG માત્ર/RP_RPD ,/RD_PUNC એ/DM_DMD મને/PR_PRP મોડું/JJ સમજાયેલું/V_VAUX_VNP ./RD_PUNC
+GJED402	સવાલ/N_NN એ/DM_DMD હતો/V_VAUX કે/CC_CCS શાસ્ત્રાર્થને/N_NN પીઠ/N_NN પાછળ/PSP ટેકવી/V_VAUX_VNP બાપુજી/N_NN મારો/PR_PRP પાઠ/N_NN લેતા/V_VAUX_VNP હતા/V_VAUX ./RD_PUNC
+GJED403	બા/N_NN ચૂપચાપ/JJ જોઈ/V_VM રહી/V_VAUX હતી/V_VAUX ./RD_PUNC
+GJED404	અત્યારે/N_NST જોઈ/V_VM રહી/V_VAUX છે/V_VAUX એમ/PSP જ/RP_RPD !/RD_PUNC જાણે/PSP જીભ/N_NN વગર/PSP જન્મી/V_VM હોય/V_VAUX !/RD_PUNC એની/PR_PRP આંખો/N_NN બાપુજી/N_NN પર/PSP વધુ/QT_QTF ટકેલી/V_VAUX_VNP હતી/V_VAUX પણ/CC_CCD ટેકો/N_NN મને/PR_PRP આપતી/V_VAUX_VNP હોય/V_VAUX એવું/JJ લાગતું/V_VAUX_VNP હતું/V_VAUX ./RD_PUNC
+GJED405	પછી/PSP બાપુજીએ/N_NN રીતસર/JJ એની/PR_PRP મોંપાટ/N_NN લીધી/V_VM હતી/V_VAUX ./RD_PUNC
+GJED406	`/RD_PUNC તમારા/PR_PRP પિતાજીનું/N_NN નામ/N_NN ?/RD_PUNC `/RD_PUNC
+GJED407	`/RD_PUNC દયાશંકર/N_NNP નરભેરામશંકર/N_NNP પંડ્યા/N_NNP ./RD_PUNC `/RD_PUNC
+GJED408	`/RD_PUNC માતા/N_NN ?/RD_PUNC `/RD_PUNC
+GJED409	`/RD_PUNC ત્રિવેણીગૌરી/N_NNP ./RD_PUNC `/RD_PUNC
+GJED410	`/RD_PUNC ગોત્ર/N_NN ?/RD_PUNC `/RD_PUNC
+GJED411	`/RD_PUNC ભારદ્વાજ/N_NNP ./RD_PUNC `/RD_PUNC
+GJED412	`/RD_PUNC શાખા/N_NN ?/RD_PUNC `/RD_PUNC
+GJED413	`/RD_PUNC માધ્યંદિની/N_NNP ./RD_PUNC `/RD_PUNC
+GJED414	`/RD_PUNC વેદ/N_NN ?/RD_PUNC `/RD_PUNC
+GJED415	`/RD_PUNC યજુર્વેદ/N_NNP ./RD_PUNC `/RD_PUNC
+GJED416	બાપુજીના/N_NN માપે/N_NN બાની/N_NN જીભ/N_NN કપાતી/V_VAUX_VNP જોઈ/V_VM હું/PR_PRP અકળાતો/V_VAUX_VNP હતો/V_VAUX ./RD_PUNC
+GJED417	`/RD_PUNC બાપુજી/N_NN ,/RD_PUNC આ/DM_DMD બધું/QT_QTF તમે/PR_PRP મને/PR_PRP -/RD_PUNC `/RD_PUNC
+GJED418	એમણે/PR_PRP હાથ/N_NN ઊંચો/JJ કરી/V_VAUX_VNP મને/PR_PRP મૂંગો/JJ કરી/V_VM દીધો/V_VAUX હતો/V_VAUX ./RD_PUNC
+GJED419	`/RD_PUNC એક/QT_QTC જગ્યાએ/N_NN એની/PR_PRP નોકરીનું/N_NN પાકું/JJ થાય/V_VM એમ/PSP છે/V_VAUX ./RD_PUNC એ/PR_PRP મારા/PR_PRP જેટલું/JJ જ/RP_RPD ભણી/V_VM છે/V_VAUX ./RD_PUNC `/RD_PUNC
+GJED420	મેં/PR_PRP વાતનો/N_NN દોર/N_NN બદલવાનો/V_VAUX_VNP પ્રયત્ન/N_NN કરેલો/V_VAUX_VNP ,/RD_PUNC `/RD_PUNC મને/PR_PRP ય/RP_RPD નોકરી/N_NN મળી/V_VM રહેશે/V_VAUX `/RD_PUNC કહીને/V_VAUX_VNP વારાફરતી/PSP બધાના/QT_QTF ચહેરા/N_NN તોળવા/V_VAUX_VNP લાગેલો/V_VAUX ./RD_PUNC
+GJED421	મને/PR_PRP નહોતું/RP_NEG લાગતું/V_VAUX_VNP કે/CC_CCS `/RD_PUNC સંસ્કારી/JJ `/RD_PUNC કે/CC_CCS `/RD_PUNC સુશીલ/JJ `/RD_PUNC જેવા/JJ શબ્દોને/N_NN બ્રાહ્મણત્વની/N_NN સીમા/N_NN પડખે/N_NN ઉભવાય/V_VM દે/V_VAUX ./RD_PUNC
+GJED422	મને/PR_PRP ખબર/N_NN હતી/V_VAUX કે/CC_CCS આ/DM_DMD સમયમાં/N_NN નોકરી/N_NN મેળવવી/V_VAUX_VNP સહેલી/JJ નથી/RP_NEG ./RD_PUNC
+GJED423	હું/N_NN બાપુજીથી/N_NN ચાર/QT_QTC ડગલાં/N_NN દૂર/JJ બેઠો/V_VM ,/RD_PUNC મૂંગો/JJ મૂંગો/JJ એમને/PR_PRP જોતો/V_VAUX_VNP ,/RD_PUNC નોકરી/N_NN અને/CC_CCD મારા/PR_PRP વચ્ચેના/N_NST અંતરનો/N_NN આંકડો/N_NN કાઢી/V_VM રહ્યો/V_VAUX હતો/V_VAUX ./RD_PUNC
+GJED424	બાપુજી/N_NN કશું/DM_DMI બોલ્યા/V_VAUX_VNP વિના/PSP બેઠા/V_VM હોય/V_VAUX તો/CC_CCD ય/RP_RPD શ્વાસ/N_NN સાથે/PSP હલતું/V_VAUX_VNP એમનું/PR_PRP પેટ/N_NN શબ્દોનું/N_NN બંધ/JJ પોટલું/N_NN લાગતું/V_VAUX_VNP ./RD_PUNC
+GJED425	એ/DM_DMD મારા/PR_PRP ખભાની/N_NN વાટ/N_NN જોતું/V_VAUX_VNP લાગતું/V_VAUX_VNP ને/CC_CCD હું/PR_PRP એના/DM_DMD ખૂલવાની/V_VAUX_VNP ./RD_PUNC
+GJED426	એમના/PR_PRP પેટના/N_NN પ્રમાણમાં/N_NN મોં/N_NN ભરાવદાર/JJ નહીં/RP_NEG ./RD_PUNC
+GJED427	ઉંમર/N_NN ઘણુંખરું/PSP લોહીમાંસ/N_NN ચાખી/V_VM ગયેલી/V_VAUX_VNP એટલે/PSP આંખો/N_NN ય/RP_RPD ઊંડી/JJ જણાય/V_VM ./RD_PUNC
+GJED428	આંખોમાં/N_NN કાયમ/JJ એક/QT_QTC પ્રકારનો/N_NN રોલ/N_NN -/RD_PUNC જે/PR_PRL સામે/PSP બેઠેલાને/V_VAUX_VNP ક્યારેય/N_NST નચિંત/JJ ન/RP_NEG થવા/V_VAUX_VNP દે/V_VAUX ./RD_PUNC
+GJED429	લાગે/V_VM કે/CC_CCS એમનું/PR_PRP પેટ/N_NN હલતું/V_VAUX_VNP નથી/RP_NEG ,/RD_PUNC માંહ્ય/N_NST શબ્દ/N_NN પડખાં/N_NN ફરે/V_VM છે/V_VAUX !/RD_PUNC હમણાં/N_NST કાચી/JJ ઊંઘમાંથી/N_NN જાગી/V_VM જશે/V_VAUX -/RD_PUNC
+GJED430	`/RD_PUNC એને/PR_PRP તો/RP_RPD નોકરી/N_NN મળી/V_VM જ/RP_RPD રહેવાની/V_VAUX_VNP .../RD_PUNC તું/PR_PRP હાથમાં/N_NN શકોરું/N_NN લઈને/V_VAUX_VNP ભટકીશ/V_VM તોય/RP_RPD કહેવાઈશ/V_VM જાતે/PR_PRF -/RD_PUNC `/RD_PUNC એ/PR_PRP અટકી/V_VM ગયા/V_VAUX ,/RD_PUNC બાએ/N_NN એમનો/PR_PRP ખભો/N_NN દબાવ્યો/V_VM હતો/V_VAUX ./RD_PUNC
+GJED431	`/RD_PUNC આને/DM_DMD સમજાવ/V_VM કાંઈ/DM_DMI ,/RD_PUNC ભાનબાન/N_NN છે/V_VAUX ?/RD_PUNC `/RD_PUNC
+GJED432	`/RD_PUNC તમે/PR_PRP કહો/V_VM છો/V_VAUX એવા/JJ ભાનબાન/N_NN વગરનો/PSP હું/PR_PRP એક/QT_QTC તો/RP_RPD નહીં/RP_NEG જ/RP_RPD હોઉ/V_VAUX આ/DM_DMD જગતમાં/N_NN `/RD_PUNC -/RD_PUNC મેં/PR_PRP જરાય/QT_QTF ઉશ્કેરાયા/V_VM વગર/PSP કહ્યું/V_VM હતું/V_VAUX ./RD_PUNC
+GJED433	`/RD_PUNC સમજી/V_VM ગયો/V_VAUX ,/RD_PUNC તારે/PR_PRP હવે/N_NST કોઈની/DM_DMI સાડાબારી/N_NN નથી/RP_NEG ./RD_PUNC `/RD_PUNC
+GJED434	બાપુજી/N_NN ઊભા/JJ થઈ/V_VM ગયા/V_VAUX હતા/V_VAUX ./RD_PUNC
+GJED435	ભાઈ/N_NN પણ/RP_RPD ઊભા/JJ થઈ/V_VM ગયા/V_VAUX હતા/V_VAUX ./RD_PUNC
+GJED436	બા/N_NN ઊભા/JJ થવા/V_VAUX_VNP અને/CC_CCD બેસવા/V_VAUX_VNP વચ્ચે/N_NST ક્યાંક/N_NST હતી/V_VAUX ./RD_PUNC
+GJED437	મેં/PR_PRP ત્યારે/N_NST બાપુજીને/N_NN છેલ્લી/JJ વાર/N_NN જાતે/PR_PRF ઊભા/JJ થતા/V_VAUX_VNP જોયા/V_VM ./RD_PUNC
+GJED438	છેલ્લી/JJ વાર/N_NN મારી/PR_PRP સાથે/PSP વાત/N_NN કરી/V_VM ./RD_PUNC
+GJED439	ઘરેથી/N_NN નીકળતી/V_VAUX_VNP વખતે/N_NN સાંભળવા/V_VAUX_VNP મળેલું/V_VAUX_VNP ,/RD_PUNC `/RD_PUNC આવી/V_VM જાય/V_VAUX છે/V_VAUX કે/CC_CCS ડેલી/N_NN વાસી/V_VM દઉં/V_VAUX ?/RD_PUNC `/RD_PUNC
+GJED440	મને/PR_PRP વળાવવા/V_VAUX_VNP આવેલી/V_VAUX_VNP બા/N_NN શેરીના/N_NN નાકાં/N_NN સુધી/PSP ય/RP_RPD નહોતી/RP_NEG પહોંચી/V_VM ને/CC_CCD એના/PR_PRP પગમાં/N_NN બેડી/N_NN લાગી/V_VM ગઈ/V_VAUX હતી/V_VAUX ./RD_PUNC
+GJED441	ન/RP_NEG આવજો/V_VM -/RD_PUNC જજો/V_VM ,/RD_PUNC ન/RP_NEG વાર/N_NN -/RD_PUNC પરબની/N_NN યાદ/N_NN ,/RD_PUNC ન/RP_NEG ખતખબરની/N_NN તાકીદ/N_NN ,/RD_PUNC ન/RP_NEG ઊલટપલટ/N_NN .../RD_PUNC એક/QT_QTC ધડાકે/N_NN ડેલી/N_NN વસાઈ/V_VM ગઈ/V_VAUX હતી/V_VAUX ./RD_PUNC
+GJED442	આ/DM_DMD તરફ/PSP હું/PR_PRP હતો/V_VAUX ,/RD_PUNC હું/PR_PRP ઊભી/JJ કરવા/V_VAUX_VNP જઈ/V_VM રહ્યો/V_VAUX એ/DM_DMD દુનિયા/N_NN હતી/V_VAUX ને/CC_CCD આકરો/JJ સૂરજ/N_NNP હતો/V_VAUX ./RD_PUNC
+GJED443	એક/QT_QTC પળ/N_NN થયેલું/V_VAUX_VNP કે/CC_CCS પાણીની/N_NN બોતલ/N_NN ભૂલી/V_VM ગયો/V_VAUX !/RD_PUNC બીજી/QT_QTO પળે/N_NN ,/RD_PUNC રૂપિયે/N_NN રૂપિયે/N_NN ઢિબાતાં/V_VAUX_VNP પાણીના/N_NN પાઉચની/N_NN પારદર્શી/JJ દીવાલ/N_NN આડે/PSP આવી/V_VM ગઈ/V_VAUX હતી/V_VAUX ./RD_PUNC
+GJED444	એની/PR_PRP પાછળ/PSP બા/N_NN પાણીની/N_NN બોતલ/N_NN હલાવતી/V_VAUX_VNP હતી/V_VAUX ./RD_PUNC
+GJED445	પાણી/PSP આમતેમ/N_NN થબથબતું/V_VAUX_VNP હતું/V_VAUX ./RD_PUNC
+GJED446	`/RD_PUNC ચાલશે/V_VM ,/RD_PUNC ગામમાં/N_NN નહીં/RP_NEG આવે/V_VM તો/CC_CCD -/RD_PUNC `/RD_PUNC ના/RP_NEG વાંસડે/N_NN ભરાવેલી/V_VAUX_VNP મારી/PR_PRP ટપાલો/N_NN એવા/JJ અંધારિયા/JJ ઓરડાનો/N_NN હિસ્સો/N_NN બની/V_VM ગઈ/V_VAUX ,/RD_PUNC જ્યાં/N_NST એક/QT_QTC પણ/RP_RPD શબ્દ/N_NN લાગણીની/N_NN ટમટમ/N_NN ન/RP_NEG સંકોરી/V_VM શકે/V_VAUX ./RD_PUNC
+GJED447	મને/PR_PRP એવો/JJ વિચાર/N_NN આવ્યો/V_VM કે/CC_CCS હું/PR_PRP એક/QT_QTC મારા/PR_PRP અતીતનું/N_NN પોટલું/N_NN ખોલી/V_VM નાખું/V_VAUX ./RD_PUNC
+GJED448	એ/DM_DMD પોટલામાંની/N_NN જે/PR_PRL ક્ષણોને/N_NN ઘરની/N_NN વ્યક્તિએ/N_NN ઉછાળવી/V_VAUX_VNP હોય/V_VAUX ,/RD_PUNC ઉછાળવા/V_VAUX_VNP દઉં/V_VAUX ./RD_PUNC
+GJED449	જે/PR_PRL ક્ષણો/N_NN પર/PSP પોતાની/PR_PRF ભવ્ય/JJ જ્ઞાતિનો/N_NN પીંછડો/N_NN ફેરવવો/V_VAUX_VNP હોય/V_VAUX ,/RD_PUNC ફેરવવા/V_VAUX_VNP દઉં/V_VAUX ./RD_PUNC
+GJED450	સાવ/PSP કોરોકટ/JJ થઈને/V_VAUX_VNP ચાલી/V_VM નીકળું/V_VM ./RD_PUNC
+GJED451	પછી/PSP થયું/V_VM કે/CC_CCS એમ/PSP કરતાં/V_VAUX_VNP કદાચ/PSP હું/PR_PRP મને/PR_PRP જ/RP_RPD ખોઈ/V_VM નાખીશ/V_VM તો/RP_RPD ?/RD_PUNC
+GJED452	અચાનક/PSP ફળિયામાં/N_NN આવી/V_VM ચડેલું/V_VAUX_VNP શેરીનું/N_NN કૂતરું/N_NN મને/PR_PRP જોતાં/V_VAUX_VNP જ/RP_RPD ભસી/V_VM ઊઠ્યું/V_VAUX ,/RD_PUNC એક/QT_QTC વાસ્તવિક્તામાંથી/N_NN બીજી/JJ વાસ્તવિક્તામાં/N_NN ફેંકાઈ/V_VM જવું/V_VAUX_VNP મારા/PR_PRP માટે/PSP અણધાર્યું/JJ હતું/V_VAUX ./RD_PUNC
+GJED453	થોડીવાર/QT_QTF તો/RP_RPD એવું/JJ લાગ્યું/V_VM કે/CC_CCS હું/PR_PRP જોઉં/V_VM છું/V_VAUX એ/DM_DMD એક/QT_QTC સ્વપ્ન/N_NN છે/V_VAUX ,/RD_PUNC સ્વપ્નમાં/N_NN હું/PR_PRP ઊભો/JJ છું/V_VAUX ધડકતા/V_VAUX_VNP હૈયે/N_NN ,/RD_PUNC બાકી/PSP સ્વપ્ન/N_NN બહારની/N_NST અવસ્થામાં/N_NN હું/PR_PRP આ/DM_DMD સ્થિતિમાં/N_NN નહીં/RP_NEG જ/RP_RPD હોઉં/V_VAUX ./RD_PUNC
+GJED454	બાપુજી/N_NN એમના/PR_PRP શરીરની/N_NN લાચારીને/N_NN ભગાવતા/V_VAUX_VNP હોય/V_VAUX એમ/PSP `/RD_PUNC હડહડ/PSP `/RD_PUNC કરી/V_VM રહ્યા/V_VAUX ./RD_PUNC
+GJED455	કૂતરા/N_NN સામે/PSP લાંબો/JJ થવા/V_VAUX_VNP મથતા/V_VAUX_VNP હાથ/N_NN પરનાં/PSP રૂંવાડાં/N_NN ફરફરી/V_VM રહ્યાં/V_VAUX ./RD_PUNC
+GJED456	ભાઈએ/N_NN દોડી/V_VM આવી/V_VAUX કૂતરાને/N_NN ડેલી/N_NN બહાર/N_NST કાઢ્યું/V_VM ./RD_PUNC
+GJED457	ડેલી/N_NN વસાતાં/V_VAUX_VNP જ/RP_RPD હું/PR_PRP આખા/JJ શરીરમાં/N_NN હળવાશનો/N_NN અનુભવ/N_NN કરવા/V_VAUX_VNP લાગ્યો/V_VAUX ./RD_PUNC
+GJED458	બંધ/JJ ડેલીની/N_NN આ/DM_DMD બાજુ/N_NST હું/PR_PRP તો/RP_RPD ,/RD_PUNC બાપુજી/N_NN હતા/V_VAUX ,/RD_PUNC ભાઈ/N_NN અને/CC_CCD બા/N_NN હતાં/V_VAUX ./RD_PUNC
+GJED459	મારી/PR_PRP દ્વિઘા/N_NN ક્યાં/N_NST ગાયબ/JJ થઈ/V_VM ગઈ/V_VAUX ખબર/N_NN ન/RP_NEG પડી/V_VM ./RD_PUNC
+GJED460	થોડીવાર/QT_QTF પહેલાં/N_NST કૂતરા/N_NN પર/PSP ચડેલી/V_VAUX_VNP ડેલીની/N_NN બહાર/N_NST રહીને/V_VAUX_VNP કૂતરા/N_NN પ્રત્યેના/PSP ઉપકારમાં/N_NN ફેરવાઈ/V_VM ગઈ/V_VAUX ./RD_PUNC
+GJED461	`/RD_PUNC બાપુજીની/N_NN તબિયત/N_NN કેવી/DM_DMQ રહે/V_VAUX છે/V_VAUX ?/RD_PUNC `/RD_PUNC -/RD_PUNC મેં/PR_PRP પેલા/DM_DMD પત્રના/N_NN અક્ષરો/N_NN વચ્ચેના/N_NST અવકાશ/N_NN તરફ/PSP ધ્યાન/N_NN આપ્યું/V_VM ./RD_PUNC
+GJED462	હું/PR_PRP વળી/PSP પાછો/RB એ/DM_DMD ખાલી/JJ ખીંટી/N_NN નીચે/N_NST બેસી/V_VM ગયો/V_VAUX હતો/V_VAUX જે/PR_PRL ખીંટી/N_NN પર/PSP બાપુજીના/N_NN પહેરણની/N_NN જગા/N_NN હતી/V_VAUX ./RD_PUNC
+GJED463	`/RD_PUNC બાપુજીને/N_NN ચાલ્યા/V_VAUX_VNP કરે/V_VM ,/RD_PUNC આમ/PSP જ/RP_RPD ..../RD_PUNC `/RD_PUNC ભાઈએ/N_NN જવાબ/N_NN આપ્યો/V_VM ./RD_PUNC
+GJED464	`/RD_PUNC આવી/JJ સ્થિતિમાં/N_NN પૂજાપાઠ/N_NN કેવી/DM_DMQ રીતે/N_NN કરે/V_VM છે/V_VAUX ?/RD_PUNC `/RD_PUNC
+GJED465	`/RD_PUNC નથી/RP_NEG કરતાં/V_VAUX_VNP `/RD_PUNC -/RD_PUNC ભાઈએ/N_NN ટૂંકો/JJ જવાબ/N_NN આપ્યો/V_VM ./RD_PUNC
+GJED466	`/RD_PUNC ગાયત્રી/N_NNP ?/RD_PUNC `/RD_PUNC
+GJED467	`/RD_PUNC નહીં/RP_NEG ./RD_PUNC `/RD_PUNC
+GJED468	`/RD_PUNC શાંતિપાઠ/N_NNP ?/RD_PUNC શિવમહિમ્નસ્તોત્ર/N_NNP ?/RD_PUNC `/RD_PUNC
+GJED469	ભાઈના/N_NN જવાબમાં/N_NN ચીડ/N_NN હતી/V_VAUX ,/RD_PUNC મારા/PR_PRP દરેક/JJ પ્રશ્નનો/N_NN પ્રત્યુત્તર/N_NN ટૂંકો/JJ થતો/V_VAUX_VNP જતો/V_VAUX_VNP હતો/V_VAUX ,/RD_PUNC એની/PR_PRP ચીડ/N_NN હોય/V_VAUX ,/RD_PUNC અથવા/CC_CCD મારો/PR_PRP દરેક/JJ પ્રશ્ન/N_NN એમના/PR_PRP જવાબને/N_NN ટૂંપી/V_VM દે/V_VAUX છે/V_VAUX એનો/PR_PRP ખ્યાલ/N_NN આવ્યો/V_VM હોય/V_VAUX !/RD_PUNC
+GJED470	`/RD_PUNC કેમ/PR_PRQ ?/RD_PUNC `/RD_PUNC -/RD_PUNC એવું/JJ જીભે/N_NN આવીને/V_VAUX_VNP અટકી/V_VM ગયું/V_VAUX ./RD_PUNC
+GJED471	મને/PR_PRP થયું/V_VM કે/CC_CCS હું/PR_PRP પ્રશ્નોત્તરીની/N_NN એવી/JJ સીમા/N_NN પર/PSP પહોંચી/V_VM ગયો/V_VAUX છું/V_VAUX જ્યાં/N_NST સંશય/N_NN પોતાનું/PR_PRF મૂળ/JJ રૂપ/N_NN ગુમાવી/V_VM બેસે/V_VAUX છે/V_VAUX ./RD_PUNC
+GJED472	મારા/PR_PRP માટે/PSP નવાઈની/N_NN વાત/N_NN એ/DM_DMD હતી/V_VAUX કે/CC_CCS જે/PR_PRL માણસ/N_NN છેલ્લાં/JJ ચાળીસ/QT_QTC -/RD_PUNC પચાસ/QT_QTC વર્ષથી/N_NN પોતાના/PR_PRF ધર્મકાર્યના/N_NN તાબે/PSP રહ્યાં/V_VM હોય/V_VAUX ,/RD_PUNC એ/PR_PRP આમ/PSP છૂટી/V_VM જાય/V_VAUX !/RD_PUNC આટલી/JJ આસાનીથી/JJ !/RD_PUNC
+GJED473	હું/PR_PRP બાપુજી/N_NN સામે/PSP જોઈ/V_VM રહ્યો/V_VAUX ./RD_PUNC
+GJED474	એ/PR_PRP મોં/N_NN ઝુકાવીને/V_VAUX_VNP બેઠા/V_VM હતા/V_VAUX ./RD_PUNC
+GJED475	પહેલી/QT_QTO નજરે/N_NN લાગે/V_VM કે/CC_CCS સહસા/PSP ઝોલે/N_NN ચડ્યા/V_VM છે/V_VAUX ./RD_PUNC
+GJED476	ગરદન/N_NN ઘણી/QT_QTF કાળી/JJ પડી/V_VM ગઈ/V_VAUX હતી/V_VAUX ./RD_PUNC
+GJED477	ગળામાં/N_NN રુદ્રાક્ષની/N_NN માળા/N_NN નહોતી/RP_NEG ./RD_PUNC
+GJED478	ગરદન/N_NN ઉપર/N_NST ફરફરતા/V_VAUX_VNP સફેદ/JJ વાળમાં/N_NN લાચારીની/N_NN જૂ/N_NN ખદખદતી/V_VAUX_VNP હતી/V_VAUX ./RD_PUNC
+GJED479	આંખો/N_NN મારા/PR_PRP તરફ/PSP નહોતી/RP_NEG છતાં/RP_RPD લાગ્યું/V_VM કે/CC_CCS મને/PR_PRP જ/RP_RPD જોઈ/V_VM રહ્યા/V_VAUX છે/V_VAUX !/RD_PUNC
+GJED480	`/RD_PUNC ચિંતા/N_NN બાની/N_NN છે/V_VAUX ,/RD_PUNC એમનો/PR_PRP હવે/N_NST મોક્ષ/N_NN થાય/V_VM ./RD_PUNC `/RD_PUNC
+GJED481	ભાઈના/N_NN અવાજમાં/N_NN એવો/JJ થાક/N_NN ઊભરી/V_VM આવ્યો/V_VAUX જાણે/PSP મોક્ષની/N_NN કામના/N_NN માત્ર/RP_RPD બા/N_NN જ/RP_RPD ન/RP_NEG હોય/V_VAUX ,/RD_PUNC આખા/JJ ઘર/N_NN માટે/PSP હોય/V_VAUX !/RD_PUNC ભાઈ/N_NN અપરિણીત/JJ હતા/V_VAUX ./RD_PUNC
+GJED482	કર્મકાંડ/N_NN કરતા/V_VAUX_VNP ./RD_PUNC
+GJED483	કદાચ/PSP એ/DM_DMD વ્યવસાયમાંથી/N_NN જ/RP_RPD એમને/PR_PRP `/RD_PUNC મોક્ષ/N_NN `/RD_PUNC નામનો/N_NN શબ્દ/N_NN હાથ/N_NN ચડ્યો/V_VM હશે/V_VAUX ,/RD_PUNC સત્યનારાયણની/N_NNP કથાનાં/N_NN નોતરાં/N_NN આપવા/V_VAUX_VNP જતાં/V_VAUX_VNP મળેલા/V_VAUX_VNP દાણાદૂણીમાંથી/N_NN અચાનક/PSP રૂપિયો/N_NN -/RD_PUNC રોડો/N_NN મળી/V_VM આવે/V_VAUX એમ/PSP !/RD_PUNC
+GJED484	એ/PR_PRP બાના/N_NN ઓરડામાંથી/N_NN બહાર/N_NST આવ્યા/V_VM ત્યારે/N_NST એમની/PR_PRP આંગળીઓનાં/N_NN ટેરવેથી/N_NN પાણી/N_NN ટપકતું/V_VAUX_VNP હતું/V_VAUX ./RD_PUNC
+GJED485	`/RD_PUNC ગંગાજળ/N_NN !/RD_PUNC `/RD_PUNC -/RD_PUNC મારું/PR_PRP હૃદય/N_NN ધડકી/V_VM ઊઠ્યું/V_VAUX ./RD_PUNC
+GJED486	બાના/N_NN ઓરડા/N_NN તરફ/PSP જવા/V_VAUX_VNP દોડ્યો/V_VM કે/CC_CCS ભાઈએ/N_NN ,/RD_PUNC `/RD_PUNC તું/PR_PRP ત્યાં/N_NST જ/RP_RPD ,/RD_PUNC એક/QT_QTC ઠેકાણે/N_NN બેસ/V_VM `/RD_PUNC કહી/V_VAUX_VNP રોકી/V_VM લીધો/V_VAUX ./RD_PUNC
+GJED487	મેં/PR_PRP જોયું/V_VM કે/CC_CCS બાના/N_NN ખાટલા/N_NN નીચે/N_NST તાંબાનો/N_NN લોટો/N_NN પડ્યો/V_VM હતો/V_VAUX ./RD_PUNC
+GJED488	આભમાં/N_NN એક/QT_QTC પણ/RP_RPD વાદળ/N_NN નહોતું/RP_NEG કે/CC_CCS ખોરડાં/N_NN પર/PSP ફૂટેલાં/V_VAUX_VNP નળિયાં/N_NN નહોતાં/RP_NEG ,/RD_PUNC બાની/N_NN આંખો/N_NN બંધ/JJ હતી/V_VAUX ./RD_PUNC
+GJED489	એના/PR_PRP ઓશીકા/N_NN પર/PSP પડેલાં/V_VAUX_VNP ટીપાં/N_NN જોઈ/V_VM મારે/PR_PRP ચાલી/V_VM જ/RP_RPD નીકળવાનું/V_VAUX_VNP હોય/V_VAUX ./RD_PUNC
+GJED490	હું/PR_PRP ફળિયા/N_NN વચ્ચે/N_NST ઊભો/V_VM રહ્યો/V_VAUX ,/RD_PUNC જ્યાં/N_NST થોડા/QT_QTF સમય/N_NN પહેલાં/N_NST પેલું/DM_DMD કૂતરું/N_NN મને/PR_PRP ભસતું/V_VAUX_VNP હતું/V_VAUX ./RD_PUNC
+GJED491	મને/PR_PRP થયું/V_VM કે/CC_CCS ઓશીકા/N_NN ઉપર/N_NST પડેલાં/V_VAUX_VNP ટીપામાં/N_NN બાની/N_NN આંખો/N_NN તગતગે/V_VM છે/V_VAUX ./RD_PUNC
+GJED492	એની/PR_PRP સિવાયેલી/V_VAUX_VNP જીભના/N_NN ટાંકા/N_NN શું/PR_PRQ આંખમાં/N_NN ઊઘેડાતા/V_VAUX_VNP હશે/V_VAUX ?/RD_PUNC
+GJED493	`/RD_PUNC બા/N_NN ,/RD_PUNC મારાથી/PR_PRP મોટી/JJ ભૂલ/N_NN થઈ/V_VM ગઈ/V_VAUX ને/RP_RPD ?/RD_PUNC `/RD_PUNC
+GJED494	હું/PR_PRP જાણતો/V_VAUX_VNP હતો/V_VAUX કે/CC_CCS ભાઈને/N_NN ફરીથી/RB આંગળાં/N_NN ભીનાં/JJ કરવા/V_VAUX_VNP પડશે/V_VAUX અને/CC_CCD બાને/N_NN આંખો/N_NN ,/RD_PUNC છતાં/RP_RPD મે/PR_PRP એના/PR_PRP ખાટલાની/N_NN ઈસે/N_NN માથું/N_NN ટેકવી/V_VM દીધું/V_VAUX ./RD_PUNC
+GJED495	એની/PR_PRP હથેળીમાં/N_NN મૂકેલો/V_VAUX_VNP મારો/PR_PRP હાથ/N_NN એણે/PR_PRP દબાવ્યો/V_VM ./RD_PUNC
+GJED496	બીજો/JJ હાથ/N_NN પથારીમાં/N_NN પડેલી/V_VAUX_VNP રજકણ/N_NN ઝાપટતો/V_VAUX_VNP રહ્યો/V_VAUX ./RD_PUNC
+GJED497	એ/DM_DMD હાથ/N_NN કદાચ/PSP મારા/PR_PRP માથે/N_NN ફરવા/V_VAUX_VNP ઈચ્છતો/V_VAUX_VNP હશે/V_VAUX પણ/RP_RPD એ/DM_DMD માર્ગ/N_NN ભૂલ્યો/V_VM હતો/V_VAUX ./RD_PUNC
+GJED498	એ/DM_DMD હાથને/N_NN લઈને/V_VAUX_VNP બાપુજી/N_NN તરફ/PSP જોવાઈ/V_VM ગયું/V_VAUX !/RD_PUNC
+GJED499	`/RD_PUNC બા/N_NN ,/RD_PUNC હું/PR_PRP જઉં/V_VM ત્યારે/N_NST ./RD_PUNC `/RD_PUNC
+GJED500	`/RD_PUNC તારી/PR_PRP તબિયત/N_NN સંભાળજે/V_VM `/RD_PUNC કહીને/V_VAUX_VNP મેં/PR_PRP એના/PR_PRP હાથમાંથી/N_NN મારો/PR_PRP હાથ/N_NN સેરવી/V_VM લીધો/V_VAUX ./RD_PUNC
+GJED501	ખાલી/JJ હાથમાં/N_NN આવી/V_VM ચડેલું/V_VAUX_VNP હવાનું/N_NN શીતલ/JJ ઝોકું/N_NN મારા/PR_PRP માટે/PSP પૂરતું/JJ હતું/V_VAUX ./RD_PUNC
+GJED502	એણે/PR_PRP આંખો/N_NN મીંચી/V_VM લીધી/V_VAUX ./RD_PUNC
+GJED503	એના/PR_PRP હૃદયની/N_NN ગંધ/N_NN મારી/PR_PRP દુનિયામાં/N_NN ગૂપચૂપ/JJ આંટો/N_NN મારી/V_VM ગઈ/V_VAUX હતી/V_VAUX ./RD_PUNC
+GJED504	મારી/PR_PRP દુનિયા/N_NN ?/RD_PUNC જેનો/PR_PRL એક/QT_QTC છેડે/N_NN હું/PR_PRP ઊભો/JJ હતો/V_VAUX ,/RD_PUNC બીજા/QT_QTO છેડે/N_NN મારી/PR_PRP ગૃહસ્થી/N_NN હતી/V_VAUX ,/RD_PUNC ત્રીજા/QT_QTO છેડે/N_NN આ/DM_DMD લોકો/N_NN હતા/V_VAUX અને/CC_CCD ચોથો/QT_QTO છેડો/N_NN ખુલ્લો/JJ હતો/V_VAUX ./RD_PUNC
+GJED505	ખુલ્લા/JJ ભોંયરામાં/N_NN ધર્મની/N_NN હવડ/JJ વાસ/N_NN હતી/V_VAUX ,/RD_PUNC જીવનની/N_NN ઉદાસીનતા/N_NN હતી/V_VAUX ./RD_PUNC
+GJED506	ક્યાંકથી/N_NST તો/RP_RPD નીકળાતું/V_VAUX_VNP હશે/V_VAUX જ/RP_RPD ./RD_PUNC
+GJED507	`/RD_PUNC બા/N_NN ,/RD_PUNC તું/PR_PRP દાદી/N_NN બનવાની/V_VAUX_VNP છે/V_VAUX `/RD_PUNC અંતે/JJ મેં/PR_PRP એના/PR_PRP ઉઝરડાતા/V_VAUX_VNP શ્વાસને/N_NN મોહનો/N_NN મલમ/N_NN લગાડ્યો/V_VM ,/RD_PUNC `/RD_PUNC તારી/PR_PRP વહુ/N_NN પિયર/N_NN .../RD_PUNC `/RD_PUNC કહેતા/V_VAUX_VNP હું/PR_PRP અટકી/V_VM ગયો/V_VAUX ./RD_PUNC
+GJED508	મને/PR_PRP થયું/V_VM કે/CC_CCS હવે/N_NST વધારાનો/JJ એક/QT_QTC પણ/RP_RPD શબ્દ/N_NN હૃદય/N_NN પરનો/JJ બોજ/N_NN સાબિત/JJ થશે/V_VM ./RD_PUNC
+GJED509	ગમે/PSP તેમ/PSP ,/RD_PUNC પોટલું/N_NN ખોલીને/JJ હું/PR_PRP હળવો/JJ થઈ/V_VM ગયો/V_VAUX હતો/V_VAUX ./RD_PUNC મારે/PR_PRP જે/PR_PRL કહેવાનું/V_VAUX_VNP હતું/V_VAUX એ/PR_PRL કહી/V_VM દીધું/V_VAUX હતું/V_VAUX ./RD_PUNC
+GJED510	અહીં/N_NST આવવાનો/V_VAUX_VNP મતલબ/N_NN હવે/N_NST આટલેથી/JJ પૂરો/JJ થતો/V_VAUX_VNP હતો/V_VAUX ./RD_PUNC
+GJED511	`/RD_PUNC સાચવીને/V_VAUX_VNP જજે/V_VM .../RD_PUNC સુખી/JJ થજો/V_VM ./RD_PUNC `/RD_PUNC
+GJED512	હું/PR_PRP રોકાઈશ/V_VM નહીં/RP_NEG એની/DM_DMD જાણે/PSP મારા/PR_PRP કરતાં/V_VAUX_VNP એને/PR_PRP વધુ/QT_QTF ખબર/N_NN હોય/V_VAUX એમ/PSP ઝડપથી/RB બોલી/V_VM ગઈ/V_VAUX ./RD_PUNC
+GJED513	આ/DM_DMD વખતે/N_NN એણે/PR_PRP કાગળપત્ર/N_NN લખવાની/V_VAUX_VNP તાકીદ/N_NN કેમ/PR_PRQ ન/RP_NEG કરી/V_VM એ/DM_DMD હું/PR_PRP જાણતો/V_VAUX_VNP હતો/V_VAUX છતાંય/RP_RPD હું/PR_PRP એના/PR_PRP હલતા/V_VAUX_VNP હોઠ/N_NN સામે/PSP તાકી/V_VM રહ્યો/V_VAUX ./RD_PUNC
+GJED514	`/RD_PUNC મારા/PR_PRP બાપા/N_NN દયાશંકર/N_NNP નરભેરામશંકર/N_NNP ..../RD_PUNC `/RD_PUNC ત્રિવેણીગૌરી/N_NNP ..../RD_PUNC ભારદ્વાજ/N_NNP ..../RD_PUNC એના/PR_PRP હાંફભર્યા/JJ શબ્દોની/N_NN પાંખો/N_NN વીંઝાતી/V_VAUX_VNP રહી/V_VAUX ./RD_PUNC
+GJED515	મને/PR_PRP લાગ્યું/V_VM કે/CC_CCS એના/PR_PRP મોં/N_NN ઉપરનું/JJ ખેંચાણ/N_NN એને/PR_PRP બોલવામાં/V_VAUX_VNP પડતા/V_VAUX_VNP કષ્ટ/N_NN પૂરતું/JJ જ/RP_RPD નથી/RP_NEG ./RD_PUNC
+GJED516	ચાર/QT_QTC વાગવામાં/V_VAUX_VNP અડધા/JJ કલાકની/N_NN વાર/N_NN હતી/V_VAUX છતાં/RP_RPD મને/PR_PRP થયું/V_VM કે/CC_CCS હું/PR_PRP મોડું/JJ કરું/V_VM છું/V_VAUX ./RD_PUNC
+GJED517	ખોરડાં/N_NN પાસેની/JJ દીવાલ/N_NN પર/N_NST ઊભેલી/JJ બિલાડી/N_NN ખોરડા/N_NN પર/N_NST કૂદકો/N_NN ભરવા/V_VAUX_VNP શરીર/N_NN તંગ/JJ કરતી/V_VAUX_VNP હતી/V_VAUX ./RD_PUNC
+GJED518	આંખો/N_NN અંજાતી/V_VAUX_VNP હોવા/V_VAUX_VNP છતાં/RP_RPD મેં/PR_PRP આકાશમાં/N_NN જોયું/V_VM ./RD_PUNC
+GJED519	એટલી/JJ વારમાં/N_NN ભાઈ/N_NN પાણીનો/N_NN ખાલી/JJ પ્યાલો/N_NN લઈને/V_VAUX_VNP સડસડાટ/JJ ઘરમાં/N_NN ઘૂસી/V_VM ગયા/V_VAUX ./RD_PUNC
+GJED520	એ/DM_DMD પ્યાલો/N_NN ઘણા/QT_QTF વખતથી/N_NN તડકામાં/N_NN તપતો/V_VAUX_VNP હતો/V_VAUX ,/RD_PUNC એટલે/PSP એમાંથી/DM_DMD ભીનાશ/N_NN નીતરવાનો/V_VAUX_VNP કોઈ/DM_DMI પ્રશ્ન/N_NN નહોતો/RP_NEG ./RD_PUNC
+GJED521	ડેલી/N_NN વસાતી/V_VAUX_VNP ગઈ/V_VAUX એમ/PSP છજાનો/N_NN છાયો/N_NN ટૂંકાતો/V_VAUX_VNP ગયો/V_VAUX ./RD_PUNC
+GJED522	શેરીમાં/N_NN સૂતેલા/V_VAUX_VNP પેલા/DM_DMD કૂતરાએ/N_NN જરા/QT_QTF આંખ/N_NN ઊંચકીને/V_VAUX_VNP જોયું/V_VM ./RD_PUNC
+GJED523	પછી/PSP મારા/PR_PRP ભયને/N_NN અવગણીને/V_VAUX_VNP નીચું/JJ ઘાલી/V_VM ગયું/V_VAUX ./RD_PUNC
+GJED524	શેરીમાંથી/N_NN બહાર/N_NST નીકળતા/V_VAUX_VNP પહેલાં/N_NST એકવાર/PSP ખુલ્લી/JJ બારીમાં/N_NN જોવાઈ/V_VM ગયું/V_VAUX ./RD_PUNC
+GJED525	બાના/N_NN ખુલ્લા/JJ મોંમાં/N_NN ભાઈ/N_NN આચમનીથી/N_NN જળ/N_NN રેડતા/V_VAUX_VNP હતા/V_VAUX ./RD_PUNC
+GJED526	એકઢાળિયામાંથી/N_NN બાપુજી/N_NN `/RD_PUNC શંભુ/N_NNP `/RD_PUNC નહોતું/RP_NEG ;/RD_PUNC કદાચ/PSP એટલે/PSP જ/RP_RPD મારી/PR_PRP ચાલ/N_NN ઝડપી/RB બની/V_VM ગઈ/V_VAUX હતી/V_VAUX ./RD_PUNC
+GJED527	ન/RP_NEG કરે/V_VM તો/CC_CCD જ/RP_RPD નવાઈ/N_NN !/RD_PUNC
+GJED528	ને/CC_CCD છતાંય/RP_RPD તમારા/PR_PRP દીકરાના/N_NN આગ્રહથી/N_NN તમને/PR_PRP ટિફિન/N_NN પહોંચાડવા/V_VAUX_VNP તમારે/PR_PRP એને/PR_PRP રાખવો/V_VAUX_VNP પડે/V_VAUX છે/V_VAUX ./RD_PUNC
+GJED529	તમે/PR_PRP જુઓ/V_VM તો/RP_RPD ..../RD_PUNC મુશ્તાક/N_NNP એટલે/PSP પડછંદ/JJ શરીર/N_NN ,/RD_PUNC તોછડી/JJ ભાષા/N_NN ,/RD_PUNC કાબરચીતરડાં/JJ કપડાં/N_NN ,/RD_PUNC અસ્તવ્યસ્ત/JJ દાઢી/N_NN ને/CC_CCD એના/PR_PRP પર/PSP પરાણે/RB ચીટકાવેલી/V_VAUX_VNP લાગે/V_VM તેવી/JJ મૂંછ/N_NN ,/RD_PUNC ખખડધજ/JJ સાઈકલ/N_NN પર/PSP ટિફિનો/N_NN લટકાવીને/V_VAUX_VNP સતત/JJ ફિલ્મી/JJ ધૂનો/N_NN ગણગણતો/V_VAUX_VNP ટિફિન/N_NN આપવા/V_VAUX_VNP આવે/V_VM ત્યારે/N_NST તમારો/PR_PRP ચહેરો/N_NN અણગમાથી/N_NN ઊભરાઈ/V_VM રહે/V_VAUX છે/V_VAUX ./RD_PUNC
+GJED530	બાજુની/JJ બજારમાં/N_NN કાયમ/JJ સમયસર/JJ ટિફિન/N_NN સર્વિસ/N_NN આપતો/V_VAUX_VNP મનસુખ/N_NNP તમે/PR_PRP જુઓ/V_VM તો/RP_RPD ..../RD_PUNC વહાલો/JJ લાગે/V_VM એનું/PR_PRP કારણ/N_NN એ/DM_DMD છે/V_VAUX કે/CC_CCS તે/PR_PRP સ્કૂટર/N_NN પર/PSP ટિફિન/N_NN લાવતો/V_VAUX_VNP હોવાથી/V_VAUX_VNP તે/PR_PRP ક્યારેય/N_NST મોડો/JJ પડતો/V_VAUX_VNP નથી/RP_NEG ./RD_PUNC
+GJED531	તેની/PR_PRP ભાષા/N_NN તમારા/PR_PRP જેવા/JJ સદ્દગૃહસ્થને/N_NN ગમે/V_VM તેવી/JJ સભ્ય/JJ છે/V_VAUX ./RD_PUNC
+GJED532	ને/CC_CCD તમે/PR_PRP જુઓ/V_VM તો/RP_RPD ..../RD_PUNC સૌથી/JJ વધારે/QT_QTF મહત્ત્વની/JJ વાત/N_NN તો/RP_RPD એ/DM_DMD છે/V_VAUX કે/CC_CCS એ/DM_DMD એકેય/QT_QTC બાજુથી/N_NST આતંકવાદી/JJ માણસ/N_NN તો/RP_RPD લાગતો/V_VAUX_VNP જ/RP_RPD નથી/RP_NEG ./RD_PUNC
+GJED533	ને/CC_CCD આ/DM_DMD આઈ.એસ.આઈ.ના/N_NNP એજન્ટ/N_NN લાગતા/V_VAUX_VNP મુશ્તાકે/N_NNP આપેલું/V_VAUX_VNP ટિફિન/N_NN તમે/PR_PRP અચકાતા/V_VAUX_VNP અચકાતા/V_VAUX_VNP લો/V_VM છો/V_VAUX જમનાદાસ/N_NNP ,/RD_PUNC ને/CC_CCD ખચકાતા/V_VAUX_VNP ખાઓ/V_VM છો/V_VAUX !/RD_PUNC તમને/PR_PRP સૌથી/JJ છેલ્લા/JJ આપવા/V_VAUX_VNP આવે/V_VM ,/RD_PUNC ને/CC_CCD પછી/PSP તમારી/PR_PRP દુકાનના/N_NN પાટિયે/N_NN બેસીને/V_VAUX_VNP નિરાંતે/RB લંબાવે/V_VM ./RD_PUNC
+GJED534	તમને/PR_PRP એની/PR_PRP હાજરી/N_NN ખૂંચે/V_VM ./RD_PUNC
+GJED535	ટિફિનનાં/N_NN ખાનાં/N_NN સાવચેતીથી/N_NN તપાસી/V_VAUX_VNP તપાસીને/V_VAUX_VNP જુદાં/JJ પાડો/V_VM ,/RD_PUNC પછી/PSP પહેલા/N_NST એક/QT_QTC -/RD_PUNC બે/QT_QTC કોળિયા/N_NN બજારના/N_NN કોઈ/DM_DMI કૂતરાને/N_NN આપો/V_VM ,/RD_PUNC પછી/PSP થોડી/QT_QTF વાર/N_NN બંધ/JJ આંખે/N_NN પ્રાર્થના/N_NN કરી/V_VM ધીમે/RB ધીમે/RB જમવાનું/V_VAUX_VNP શરૂ/JJ કરો/V_VM ./RD_PUNC
+GJED536	આ/DM_DMD ક્રિયાને/N_NN જોતો/V_VAUX_VNP મુશ્તાક/N_NNP મૂંછમાં/N_NN મલકાતો/V_VAUX_VNP હોય/V_VAUX છે/V_VAUX ./RD_PUNC
+GJED537	એકાદ/QT_QTC વરસ/N_NN પહેલાં/N_NST પૅરેલિસિસના/N_NN હળવા/JJ હુમલામાં/N_NN તમારું/PR_PRP ડાબું/JJ અંગ/N_NN અંશત:/JJ ખોટું/JJ પડી/V_VM ગયું/V_VAUX હતું/V_VAUX ./RD_PUNC
+GJED538	એટલે/PSP તમારી/PR_PRP દરજીની/N_NN દુકાન/N_NN હવે/N_NST તમારું/PR_PRP રહેઠાણ/N_NN બની/V_VM ગઈ/V_VAUX હતી/V_VAUX ./RD_PUNC
+GJED539	સિલાઈમશીન/N_NN એક/QT_QTC બાજુ/N_NST હડસેલાઈ/V_VM ગયું/V_VAUX હતું/V_VAUX ./RD_PUNC
+GJED540	તમારો/PR_PRP દીકરો/N_NN સુરેશ/N_NNP તમને/PR_PRP મુશ્તાક/N_NNP સાથે/PSP એક/QT_QTC ટાઈમ/N_NN ટિફિન/N_NN પહોંચાડે/V_VM ./RD_PUNC
+GJED541	તેમાંથી/DM_DMD તમે/PR_PRP બે/QT_QTC ટાઈમ/N_NN જમી/V_VM શકતા/V_VAUX_VNP ./RD_PUNC
+GJED542	ખોટું/JJ પડી/V_VM ગયેલું/V_VAUX_VNP ડાબું/JJ અંગ/N_NN થોડી/QT_QTF સંવેદનાઓથી/N_NN સ્વસ્થ/JJ થઈ/V_VM રહ્યું/V_VAUX હતું/V_VAUX પણ/CC_CCD સિલાઈકામનો/N_NN ધંધો/N_NN હવે/N_NST તમને/PR_PRP કરવો/V_VAUX_VNP ફાવે/V_VM તેવું/JJ નહોતું/RP_NEG ./RD_PUNC
+GJED543	એટલે/PSP બજાર/N_NN વચ્ચેની/N_NST દુકાન/N_NN જ/RP_RPD તમારી/PR_PRP ઓરડી/N_NN ./RD_PUNC
+GJED544	પાછલા/JJ એકાદ/QT_QTC વરસથી/N_NN તમે/PR_PRP માંદગીને/N_NN કારણે/PSP તમારા/PR_PRP દીકરા/N_NN સુરેશને/N_NNP ત્યાં/N_NST જઈ/V_VM શક્યા/V_VAUX નથી/RP_NEG ./RD_PUNC
+GJED545	ને/CC_CCD સુરેશ/N_NNP પણ/RP_RPD તમારી/PR_PRP ખબર/N_NN પૂછવા/V_VAUX_VNP આવી/V_VM શક્યો/V_VAUX નથી/RP_NEG ./RD_PUNC
+GJED546	બસ/PSP ,/RD_PUNC ટિફિન/N_NN વ્યવસ્થા/N_NN કરી/V_VM આપી/V_VAUX એ/DM_DMD જ/RP_RPD તમારા/PR_PRP માટે/PSP પૂરતું/JJ છે/V_VAUX ./RD_PUNC
+GJED547	પહેલાં/N_NST મુશ્તાકને/N_NNP બદલે/PSP બીજા/JJ કોઈ/PR_PRI ટિફિનવાળાને/JJ કહેવાનું/V_VAUX_VNP સૂચન/N_NN તમે/PR_PRP જણાવેલું/V_VAUX_VNP પણ/CC_CCD સુરેશે/N_NNP કહેવરાવ્યું/V_VM કે/CC_CCS `/RD_PUNC આ/DM_DMD મારો/PR_PRP વિશ્વાસુ/JJ માણસ/N_NN છે/V_VAUX ,/RD_PUNC બીજા/JJ કોઈને/PR_PRI કહેવું/V_VAUX_VNP હોય/V_VAUX તો/CC_CCD તેના/PR_PRQ પૈસા/N_NN તમારે/PR_PRP આપવા/V_VAUX_VNP પડશે/V_VAUX ./RD_PUNC `/RD_PUNC
+GJED548	આથી/PSP તમે/PR_PRP વિચાર/N_NN માંડી/V_VM વાળેલો/V_VAUX_VNP ./RD_PUNC
+GJED549	કેમકે/CC_CCS હવે/N_NST તમે/PR_PRP સિલાઈકામ/N_NN ખાસ/JJ કરી/V_VM શકતા/V_VAUX_VNP નથી/RP_NEG ./RD_PUNC
+GJED550	તમે/PR_PRP જુઓ/V_VM તો/RP_RPD ..../RD_PUNC એક/QT_QTC જમાનામાં/N_NN તમે/PR_PRP દરજીકામમાંથી/N_NN નવરા/JJ ન/RP_NEG પડો/V_VM એટલું/JJ કામ/N_NN તમારી/PR_PRP પાસે/PSP રહેતું/V_VAUX ./RD_PUNC
+GJED551	સુરેશને/N_NNP પણ/RP_RPD તમે/PR_PRP દરજીકામમાં/N_NN હોશિયાર/N_NN બનાવવા/V_VAUX_VNP લગનથી/N_NN મહેનત/N_NN કરી/V_VM હતી/V_VAUX ./RD_PUNC
+GJED552	તમને/PR_PRP મળતું/V_VAUX_VNP મોટાભાગનું/JJ કામ/N_NN તમે/PR_PRP સુરેશને/N_NNP આપી/V_VM તેને/PR_PRP કમાવામાં/V_VAUX_VNP મદદ/N_NN કરતા/V_VAUX_VNP ./RD_PUNC
+GJED553	સારું/JJ કામ/N_NN જોઈ/V_VAUX_VNP મુંબઈના/N_NNP મોટામોટા/JJ ટેલરો/N_NN સુરેશને/N_NNP કામની/N_NN ભારે/JJ ઓફરો/N_NN કરતા/V_VAUX_VNP ,/RD_PUNC પણ/CC_CCD સુરેશ/N_NNP ના/RP_NEG કહેતો/V_VAUX_VNP ./RD_PUNC
+GJED554	સિલાઈમાં/N_NN જરૂરી/JJ એવી/JJ નાનામાં/JJ નાની/JJ સૂઝ/N_NN તમારામાં/PR_PRP હતી/V_VAUX ./RD_PUNC
+GJED555	પણ/CC_CCD જમનાદાસ/N_NNP ,/RD_PUNC વખત/N_NN જતાં/V_VAUX_VNP `/RD_PUNC સ્ફવેરા/N_NNP ટેઈલરનું/N_NNP `/RD_PUNC બોર્ડ/N_NN ઝાંખું/JJ પડતું/V_VAUX_VNP ગયું/V_VAUX ./RD_PUNC
+GJED556	લેટેસ્ટ/JJ ફર્નિચર/N_NN ,/RD_PUNC માર્વેલસ/JJ ફ્લોરિંગ/N_NN અને/CC_CCD એરકન્ડિશન/N_NN રિસેપ્શન/N_NN હૉલવાળી/JJ શોપનો/N_NN જમાનો/N_NN આવી/V_VM ગયો/V_VAUX ./RD_PUNC
+GJED557	પ્રીવેરા/N_NNP ,/RD_PUNC સેવન/N_NNP આર્ટ/N_NNP ,/RD_PUNC કેલિબર/N_NNP ,/RD_PUNC રીવેક્સ/N_NNP અને/CC_CCD કેપ્રી/N_NNP ટેલરોએ/N_NN તમારા/PR_PRP કામને/N_NN જાણે/PSP `/RD_PUNC રોબોટપંચ/N_NN `/RD_PUNC માર્યો/V_VM !/RD_PUNC
+GJED558	સુરેશ/N_NNP પણ/RP_RPD કામ/N_NN વિનાનો/PSP થઈ/V_VM ગયો/V_VAUX ./RD_PUNC
+GJED559	લોકોની/N_NN વ્યાખ્યાઓ/N_NN બદલાઈ/V_VM ./RD_PUNC
+GJED560	તમે/PR_PRP જુઓ/V_VM તો/CC_CCD ..../RD_PUNC જે/PR_PRL કામમાં/N_NN થોડી/QT_QTF સૂઝ/N_NN ,/RD_PUNC થોડી/QT_QTF મહેનત/N_NN ,/RD_PUNC ઝીણી/JJ નજર/N_NN ,/RD_PUNC કફબટન/N_NN ,/RD_PUNC અસ્તર/N_NN ,/RD_PUNC કાતર/N_NN ,/RD_PUNC કૅનવાસ/N_NN ,/RD_PUNC એક/QT_QTC -/RD_PUNC બે/QT_QTC સોય/N_NN અને/CC_CCD આઠ/QT_QTC રૂપિયા/N_NN એંશી/QT_QTC પૈસાના/N_NN દોરા/N_NN સિવાય/PSP કોઈ/DM_DMI નોંધપાત્ર/JJ ખર્ચ/N_NN થતો/V_VAUX_VNP ન/RP_NEG હોય/V_VAUX તેવા/JJ કામની/N_NN લોકો/N_NN બબ્બે/QT_QTC હજાર/N_NN સિલાઈ/N_NN આપવાની/V_VAUX_VNP જાહેરાત/N_NN હોંશે/JJ હોશે/JJ કરતા/V_VAUX_VNP હોય/V_VAUX છે/V_VAUX ./RD_PUNC
+GJED561	પરિણામે/JJ હવે/N_NST તમારા/PR_PRP ભાગે/N_NN નાનુંમોટું/JJ રિપૅરિંગકામ/N_NN કરવાનું/V_VAUX_VNP જ/RP_RPD આવ્યું/V_VM જમનાદાસ/N_NNP ,/RD_PUNC ને/CC_CCD તમે/PR_PRP એ/DM_DMD પણ/RP_RPD સહર્ષ/JJ સ્વીકારી/V_VM લીધું/V_VAUX હતું/V_VAUX ./RD_PUNC
+GJED562	એરકન્ડિશન્ડ/JJ શોપમાં/N_NN બેસતાં/V_VAUX_VNP સોળના/QT_QTC ભાવના/N_NN કારીગરોએ/N_NN કરેલી/V_VAUX_VNP ભૂલો/N_NN સુધારવાનું/V_VAUX_VNP કામ/N_NN તમને/PR_PRP મળતું/V_VAUX_VNP ./RD_PUNC
+GJED563	એ/DM_DMD ય/RP_RPD પ્રેમથી/N_NN કરતા/V_VAUX_VNP ./RD_PUNC
+GJED564	પણ/CC_CCD આ/DM_DMD બીમારીએ/N_NN તમારા/PR_PRP એ/DM_DMD હુન્નરને/N_NN પણ/RP_RPD હણી/V_VM નાંખ્યું/V_VAUX ./RD_PUNC
+GJED565	હવે/N_NST રહી/V_VM માત્ર/RP_RPD ને/CC_CCD માત્ર/RP_RPD એ/DM_DMD વખતની/N_NN બધી/QT_QTF નીરસ/JJ વાતો/N_NN ./RD_PUNC
+GJED566	ને/CC_CCD એ/DM_DMD બધી/QT_QTF વાતોને/N_NN કાયમ/JJ સાંભળીને/V_VAUX_VNP હસી/V_VM કાઢતો/V_VAUX_VNP મુશ્તાક/N_NNP ટિફિનવાળો/JJ !/RD_PUNC
+GJED567	એ/DM_DMD કોઈ/DM_DMI મજાકમાં/N_NN જ/RP_RPD તમને/PR_PRP પૂછી/V_VM નાંખે/V_VAUX ,/RD_PUNC `/RD_PUNC દાદુ/N_NN ,/RD_PUNC આ/DM_DMD શહેરના/N_NN ટેલરો/N_NN પોતાની/PR_PRF દુકાનનાં/N_NN નામ/N_NN આવા/JJ અંગ્રેજી/N_NN કેમ/PR_PRQ રાખતા/V_VAUX_VNP હશે/V_VAUX ?/RD_PUNC હજી/N_NST આ/DM_DMD શહેરમાં/N_NN `/RD_PUNC બાપા/N_NNP સીતારામ/N_NNP ટેલર/N_NNP `/RD_PUNC કેમ/PR_PRQ થયું/V_VM નથી/RP_NEG ?/RD_PUNC `/RD_PUNC
+GJED568	તમે/PR_PRP જુઓ/V_VM તો/CC_CCD ...../RD_PUNC વાત/N_NN એના/DM_DMD મુદ્દાની/N_NN કહેવાય/V_VM ./RD_PUNC
+GJED569	પણ/CC_CCD તમે/PR_PRP જેટલું/JJ જાણતાં/V_VAUX_VNP હો/V_VAUX એથી/PSP વિશેષ/JJ શું/PR_PRQ સમજાવી/V_VM શકો/V_VAUX ?/RD_PUNC
+GJED570	એટલે/PSP તમે/PR_PRP સીધોસાદો/JJ પ્રત્યુત્તર/N_NN આપતા/V_VAUX_VNP ,/RD_PUNC અંગ્રેજોના/N_NN વખતમાં/N_NN મુંબઈમાં/N_NNP `/RD_PUNC સ્કવેરા/N_NNP ટેલર/N_NNP `/RD_PUNC નામની/N_NN બહુ/QT_QTF વિશાળ/JJ શોપ/N_NN હતી/V_VAUX ./RD_PUNC
+GJED571	મુંબઈમાં/N_NNP આ/DM_DMD દુકાનનું/N_NN નામ/N_NN રોશન/JJ હતું/V_VAUX ./RD_PUNC
+GJED572	મારા/PR_PRP બાપ/N_NN દાદા/N_NN -/RD_PUNC દાદા/N_NN ત્યાં/N_NST મુકામ/N_NN કરીને/V_VAUX_VNP સધ્ધર/JJ થઈને/V_VAUX_VNP અહીં/N_NST આવ્યા/V_VM હતા/V_VAUX ./RD_PUNC
+GJED573	એટલે/PSP મેં/PR_PRP તો/RP_RPD એ/DM_DMD જ/RP_RPD નામ/N_NN રાખ્યું/V_VM ./RD_PUNC
+GJED574	બીજાની/JJ મને/PR_PRP ખબર/N_NN નથી/RP_NEG ./RD_PUNC
+GJED575	પણ/CC_CCD તું/PR_PRP કહે/V_VM છે/V_VAUX એ/DM_DMD પણ/RP_RPD મને/PR_PRP સાચું/JJ લાગે/V_VM છે/V_VAUX ./RD_PUNC
+GJED576	એટલે/PSP સુરેશ/N_NNP દુકાન/N_NN સંભાળી/V_VM લે/V_VAUX તો/CC_CCD નવું/JJ નામ/N_NN `/RD_PUNC બાપા/N_NNP સીતારામ/N_NNP ટેલર/N_NNP `/RD_PUNC પણ/RP_RPD નક્કી/JJ !/RD_PUNC
+GJED577	તમારો/PR_PRP જવાબ/N_NN સાંભળી/V_VM મુશ્તાક/N_NNP ખડખડાટ/RB હસી/V_VM પડતો/V_VAUX ,/RD_PUNC `/RD_PUNC તમારી/PR_PRP આવી/JJ સડી/JJ ગયેલી/V_VAUX_VNP ને/CC_CCD ધંધાના/N_NN પાટેથી/N_NN ખડી/JJ ગયેલી/V_VAUX_VNP દુકાનમાં/N_NN તમારો/PR_PRP સુરેશ/N_NNP પગ/N_NN મૂકે/V_VM નહીં/RP_NEG !/RD_PUNC `/RD_PUNC
+GJED578	હા/PSP ,/RD_PUNC વેચવી/V_VAUX_VNP હોય/V_VAUX તો/CC_CCD કહો/V_VM ,/RD_PUNC હં/RP_INJ .../RD_PUNC હં/RP_INJ ..../RD_PUNC ,/RD_PUNC ના/RP_NEG ,/RD_PUNC ના/RP_NEG ,/RD_PUNC મારે/PR_PRP વેચાતી/V_VAUX_VNP શું/PR_PRQ કામ/N_NN લેવી/V_VAUX_VNP ?/RD_PUNC
+GJED579	પછી/PSP દુકાન/N_NN બહાર/N_NST નજર/N_NN કરતાં/V_VAUX_VNP કહે/V_VM ,/RD_PUNC `/RD_PUNC બુઢ્ઢા/N_NN આધા/JJ તો/RP_RPD મર/V_VM ચુકા/V_VAUX હે/V_VAUX ,/RD_PUNC પૂરા/JJ મર/V_VM જાનેમેં/V_VAUX દેર/N_NN કિતની/QT_QTF ?/RD_PUNC `/RD_PUNC
+GJED580	એના/PR_PRP અટ્ટહાસ્યમાં/N_NN જમનાદાસ/N_NNP ,/RD_PUNC તમારું/PR_PRP સાજુંસમું/JJ જમણું/JJ અંગ/N_NN અને/CC_CCD ખોટું/JJ પડેલું/V_VAUX_VNP ડાબું/JJ અંગ/N_NN બંને/JJ ધ્રૂજી/V_VM ઊઠ્યાં/V_VAUX !/RD_PUNC
+GJED581	આ/DM_DMD આતંકવાદી/JJ સાચે/PSP જ/RP_RPD તમારો/PR_PRP જાન/N_NN લઈને/V_VAUX_VNP જ/RP_RPD જશે/V_VM એમ/PSP તમને/PR_PRP થયું/V_VM ./RD_PUNC
+GJED582	અવારનવાર/PSP એ/PR_PRP આવી/JJ ગેબી/JJ વાતો/N_NN કરે/V_VM ,/RD_PUNC હું/PR_PRP તો/RP_RPD કટ્ટરપંથી/JJ કહેવાઉં/V_VM ,/RD_PUNC દરિયાપારના/N_NN મુલ્ક/N_NN સુધી/PSP મારી/PR_PRP ઓળખાણ/N_NN ./RD_PUNC
+GJED583	મારી/PR_PRP હડફેટે/N_NN બહુ/QT_QTF ચડે/V_VM એને/PR_PRP માટે/PSP તો/RP_RPD હું/PR_PRP સ્યુસાઈડ/N_NN બૉમ્બર/N_NN છું/V_VAUX ,/RD_PUNC સ્યુસાઈડ/N_NN બૉમ્બર/N_NN ,/RD_PUNC ..../RD_PUNC એટલે/PSP શું/PR_PRQ ખબર/N_NN છે/V_VAUX ને/RP_RPD ?/RD_PUNC
+GJED584	જીવતો/V_VAUX_VNP ગ્રેનેડ/N_NN ...../RD_PUNC શું/PR_PRQ ?/RD_PUNC
+GJED585	મુશ્તાકની/N_NNP ગેરહાજરીમાં/N_NN તમે/PR_PRP જુઓ/V_VM તો/CC_CCD આજુબાજુના/N_NST ચોવટિયા/N_NN માણસો/N_NN કેટલીક/QT_QTF વાર/N_NN તમારી/PR_PRP દુકાનના/N_NN પાટિયે/N_NN બેસીને/V_VAUX_VNP તમને/PR_PRP ચેતવણીઓ/N_NN આપ્યા/V_VM કરે/V_VM ;/RD_PUNC
+GJED586	`/RD_PUNC ગામમાં/N_NN કેટલાય/QT_QTF માણસો/N_NN ટિફિન/N_NN સર્વિસ/N_NN આપે/V_VM છે/V_VAUX દાદા/N_NN ,/RD_PUNC ને/CC_CCD તમને/PR_PRP કોઈ/DM_DMI નહીં/RP_NEG ને/CC_CCD આ/DM_DMD મુશ્તાક/N_NNP જ/RP_RPD હાથમાં/N_NN આવ્યો/V_VM ?/RD_PUNC `/RD_PUNC
+GJED587	`/RD_PUNC આ/DM_DMD તો/RP_RPD માળો/PSP ચુસ્ત/JJ પાકિસ્તાની/JJ છે/V_VAUX ,/RD_PUNC પાકિસ્તાની/JJ !/RD_PUNC `/RD_PUNC
+GJED588	`/RD_PUNC કહે/V_VM છે/V_VAUX કે/CC_CCS આ/DM_DMD હમણાં/N_NST હમણાં/N_NST મુંબઈમાં/N_NNP જે/PR_PRL બૉમ્બધડાકા/N_NN થયા/V_VM એમાં/DM_DMD આવા/JJ કોઈ/DM_DMI ટિફિનસર્વિસવાળાનો/N_NN જ/RP_RPD કારસો/N_NN હતો/V_VAUX ./RD_PUNC `/RD_PUNC
+GJED589	`/RD_PUNC અરે/RP_INJ ,/RD_PUNC આજ/N_NST સુધીમાં/PSP જેટલા/JJ બૉમ્બકાંડ/N_NN થયા/V_VM છે/V_VAUX એમાંના/DM_DMD મોટાભાગના/JJ બૉમ્બ/N_NN ટિફિનમાં/N_NN સંતાડીને/V_VAUX_VNP ફોડવામાં/V_VM આવ્યા/V_VAUX છે/V_VAUX !/RD_PUNC `/RD_PUNC
+GJED590	`/RD_PUNC ટિફિનબૉમ્બ/N_NN એ/DM_DMD આવા/JJ આતંકવાદીઓનું/N_NN સૌથી/JJ સફળ/JJ અને/CC_CCD સૌથી/JJ સરળ/JJ હથિયાર/N_NN છે/V_VAUX !/RD_PUNC મુંબઈમાં/N_NNP તો/RP_RPD લોકો/N_NN હવે/N_NST ટિફિન/N_NN જોઈને/V_VAUX_VNP જ/RP_RPD ગભરાય/V_VM છે/V_VAUX ./RD_PUNC `/RD_PUNC
+GJED591	કોને/PR_PRQ ખબર/N_NN કયા/PR_PRQ ટિફિનમાં/N_NN મોતનો/N_NN સામાન/N_NN હોય/V_VAUX !/RD_PUNC
+GJED592	આ/DM_DMD મુસ્તાકીયો/N_NNP કોઈક/PR_PRI દિવસ/N_NN ધડાકો/N_NN ના/N_NN કરે/V_VM તો/CC_CCD મને/PR_PRP કહેજો/V_VM ./RD_PUNC
+GJED593	એના/PR_PRP મોઢા/N_NN ઉપરથી/N_NST જ/RP_RPD દેખાય/V_VM છે/V_VAUX કે/CC_CCS આ/DM_DMD પાકિસ્તાની/JJ એના/PR_PRP લખણ/N_NN ઝળકાવ્યા/V_VM વિના/PSP નહીં/RP_NEG રહે/V_VAUX ./RD_PUNC
+GJED594	નવી/JJ બજારમાં/N_NN ટિફિનસર્વિસ/N_NN આપતો/V_VAUX_VNP મનસુખ/N_NNP પણ/RP_RPD ઘણી/QT_QTF વાર/N_NN કહેતો/V_VAUX_VNP ,/RD_PUNC `/RD_PUNC દાદા/N_NN ,/RD_PUNC આ/DM_DMD મુશ્તાકની/N_NNP ઉપર/N_NST આંધળો/JJ વિશ્વાસ/N_NN કરતા/V_VAUX_VNP નહીં/RP_NEG ./RD_PUNC `/RD_PUNC
+GJED595	મારે/PR_PRP એની/PR_PRP સાથે/PSP લડાઈ/N_NN કરીને/V_VAUX_VNP આ/DM_DMD બજારમાં/N_NN પૈસા/N_NN રળવા/V_VAUX_VNP નથી/RP_NEG આવવું/V_VAUX_VNP ./RD_PUNC
+GJED596	પણ/CC_CCD ધીમે/RB ધીમે/RB એનો/PR_PRP પગ/N_NN તમારી/PR_PRP બજારમાંથી/N_NN કાઢવાના/V_VAUX_VNP ઉપાય/N_NN કરજો/V_VM ./RD_PUNC
+GJED597	નહીંતર/RP_NEG પસ્તાવાનો/N_NN વારો/N_NN આવશે/V_VM ત્યારે/N_NST ખોળિયામાં/N_NN જીવન/N_NN નહીં/RP_NEG હોય/V_VAUX !/RD_PUNC
+GJED598	કોઈનીય/PR_PRI વાત/N_NN ખોટી/JJ હોય/V_VAUX તો/CC_CCD તમે/PR_PRP ના/RP_NEG કહી/V_VM શકો/V_VAUX ,/RD_PUNC પણ/CC_CCD જમનાદાસ/N_NNP ,/RD_PUNC તમે/PR_PRP જુઓ/V_VM તો/RP_RPD .../RD_PUNC લોકોની/N_NN વાત/N_NN બિલકુલ/PSP સાચી/JJ છે/V_VAUX ./RD_PUNC
+GJED599	મુશ્તાકને/N_NNP હટાવવા/V_VAUX_VNP તમે/PR_PRP કોશિશ/N_NN ન/RP_NEG કરી/V_VM હોય/V_VAUX એવું/JJ ય/RP_RPD નથી/RP_NEG ./RD_PUNC
+GJED600	તમે/PR_PRP બધા/QT_QTF પ્રયત્નો/N_NN કરી/V_VM જોયા/V_VAUX ./RD_PUNC
+GJED601	મુશ્તાક/N_NNP સાથે/PSP સીધી/JJ ટક્કર/N_NN લેવા/V_VAUX_VNP મનસુખ/N_NNP રાજી/JJ નહોતો/RP_NEG ./RD_PUNC
+GJED602	મુશ્તાકને/N_NNP મોઢે/N_NN પણ/RP_RPD અનેક/JJ વાર/N_NN તમે/PR_PRP વાત/N_NN નાખેલી/V_VAUX_VNP ,/RD_PUNC પણ/CC_CCD એ/DM_DMD છંછેડાઈને/V_VAUX_VNP સંભળાવી/V_VM દેતો/V_VAUX ,/RD_PUNC મારા/PR_PRP એરિયામાં/N_NN હું/PR_PRP બીજા/JJ કોઈને/PR_PRI આવવા/V_VAUX_VNP દઉં/V_VAUX ?/RD_PUNC
+GJED603	સીધો/JJ જ/RP_RPD ઉડાવી/V_VM દઉં/V_VAUX કે/CC_CCS નહીં/RP_NEG ?/RD_PUNC
+GJED604	કોઈ/PR_PRI આવી/V_VM તો/RP_RPD જુએ/V_VM !/RD_PUNC
+GJED605	જાણે/PSP આંતરરાષ્ટ્રીય/JJ બૉર્ડર/N_NN હોય/V_VAUX એવા/JJ ભારથી/N_NN એ/DM_DMD બોલતો/V_VAUX_VNP ,/RD_PUNC એટલે/PSP જ/RP_RPD મનસુખ/N_NNP પણ/RP_RPD કહેતો/V_VAUX_VNP ,/RD_PUNC `/RD_PUNC દાદા/N_NN ,/RD_PUNC તમે/PR_PRP કહો/V_VM તો/CC_CCD વાઘા/N_NNP બૉર્ડર/N_NNP પણ/RP_RPD પાર/N_NN કરી/V_VM જાઉં/V_VAUX ,/RD_PUNC પણ/CC_CCD આ/DM_DMD મુશ્તાક/N_NNP સાથે/PSP બાથ/N_NN ભીડવામાં/V_VAUX_VNP મારું/PR_PRP કામ/N_NN નહીં/RP_NEG ./RD_PUNC `/RD_PUNC
+GJED606	હારીથાકીને/V_VAUX_VNP તમારે/PR_PRP મુશ્તાક/N_NNP સાથે/PSP નિભાવ્યે/V_VM જ/RP_RPD છૂટકો/N_NN છે/V_VAUX એ/DM_DMD વાત/N_NN તમે/PR_PRP બરાબર/PSP સમજી/V_VM ગયા/V_VAUX ,/RD_PUNC જમનાદાસ/N_NNP !/RD_PUNC
+GJED607	પણ/CC_CCD તમે/PR_PRP જુઓ/V_VM તો/CC_CCD ..../RD_PUNC જેનું/PR_PRL કોઈ/PR_PRI ન/RP_NEG સાંભળે/V_VM એનું/DM_DMD ભગવાન/N_NN સાંભળે/V_VM એ/DM_DMD ન્યાયે/N_NN એક/QT_QTC દિવસ/N_NN અણધારી/JJ ઘટના/N_NN બની/V_VM ગઈ/V_VAUX ./RD_PUNC
+GJED608	ફિલ્મી/JJ ધૂન/N_NN ગણગણતો/V_VAUX_VNP સાઈકલ/N_NN પર/N_NST પોતાની/PR_PRF મસ્તીમાં/N_NN આવી/V_VM રહેલા/V_VAUX_VNP મુશ્તાક/N_NNP પર/PSP એ/DM_DMD દિવસે/N_NST ધનજીનો/N_NNP ખટારો/N_NN ફરી/V_VM વળ્યો/V_VAUX !/RD_PUNC
+GJED609	તમારી/PR_PRP સગી/JJ આંખ/N_NN સામે/PSP થયેલા/V_VAUX_VNP આ/DM_DMD અકસ્માતથી/N_NN તમે/PR_PRP હતપ્રભ/JJ થઈ/V_VM ગયા/V_VAUX ./RD_PUNC
+GJED610	બેવડ/JJ -/RD_PUNC ચોવડ/JJ થઈ/V_VM ગયેલા/V_VAUX_VNP મુશ્તાકના/N_NNP મૃતદેહ/N_NN સાથે/PSP સાઈકલ/N_NN ટિફિનનો/N_NN પણ/RP_RPD ખુરદો/N_NN બોલી/V_VM ગયેલો/V_VAUX_VNP ./RD_PUNC
+GJED611	પણ/CC_CCD ગણતરીની/N_NN સેકન્ડોમાં/N_NN તમે/PR_PRP જુઓ/V_VM તો/RP_RPD ..../RD_PUNC જમનાદાસ/N_NNP તમારા/PR_PRP ચહેરા/N_NN ઉપર/PSP ગજબની/JJ સ્વસ્થતા/N_NN આવી/V_VM ગઈ/V_VAUX ./RD_PUNC
+GJED612	તમને/PR_PRP સમજાયું/V_VM કે/CC_CCS જે/PR_PRL કંઈ/DM_DMI થયું/V_VM તે/PR_PRL અરેરાટીભર્યું/JJ તો/RP_RPD હતું/V_VAUX જ/RP_RPD ,/RD_PUNC પણ/CC_CCD કેટલીય/QT_QTF બળતરાઓનું/N_NN ઔષધ/N_NN પણ/RP_RPD હતું/V_VAUX જ/RP_RPD ./RD_PUNC
+GJED613	કાયમ/JJ ડરી/V_VAUX_VNP ડરીને/V_VAUX_VNP ટિફિન/N_NN જમવાનું/V_VAUX_VNP ,/RD_PUNC રખે/PSP ને/RP_RPD કોઈ/DM_DMI ટિફિનમાં/N_NN એણે/PR_PRP બૉમ્બ/N_NN રાખી/V_VM દીધો/V_VAUX હોય/V_VAUX તો/RP_RPD ?/RD_PUNC
+GJED614	એની/PR_PRP વાતો/N_NN પણ/RP_RPD એવી/JJ હતી/V_VAUX ,/RD_PUNC આતંકવાદી/JJ જેવી/JJ ./RD_PUNC
+GJED615	એનો/PR_PRP દેખાવ/N_NN પણ/RP_RPD આતંકવાદી/JJ જેવો/JJ ,/RD_PUNC ધનજીના/N_NNP ખટારાએ/N_NN કાળચક્ર/N_NN નહીં/RP_NEG ,/RD_PUNC પણ/CC_CCD દેશદ્રોહીના/N_NN નિકંદન/N_NN માટેના/PSP સત્કાર્યનું/N_NN સુદર્શનચક્ર/N_NNP ફેરવી/V_VAUX_VNP આપ્યું/V_VAUX એવી/JJ રાહત/N_NN તમારા/PR_PRP મનમાં/N_NN થઈ/V_VM ,/RD_PUNC જમનાદાસ/N_NNP ./RD_PUNC
+GJED616	એટલે/PSP તો/RP_RPD પોલીસે/N_NN કરેલી/V_VAUX_VNP પ્રાથમિક/JJ તપાસમાં/N_NN તમે/PR_PRP બીજાની/JJ જેમ/PSP કંઈ/DM_DMI ન/RP_NEG જાણતા/V_VAUX_VNP હોવાનો/V_VAUX_VNP ડોળ/N_NN સહેલાઈથી/RB કરી/V_VM નાખ્યો/V_VAUX ./RD_PUNC
+GJED617	ટાઢે/JJ પાણીએ/N_NN ઉપાધિ/N_NN જતી/V_VAUX_VNP હોય/V_VAUX પછી/PSP કોણ/PR_PRQ આવી/JJ જફામાં/N_NN પડે/V_VM ?/RD_PUNC
+GJED618	એ/DM_DMD દિવસે/N_NN ટિફિન/N_NN વગર/PSP પણ/RP_RPD તમારું/PR_PRP પેટ/N_NN ધરાઈ/V_VM ગયું/V_VAUX ./RD_PUNC
+GJED619	બીજે/JJ દિવસે/N_NN તમે/PR_PRP મનસુખને/N_NNP બોલાવ્યો/V_VM ,/RD_PUNC `/RD_PUNC લે/V_VM ભાઈ/N_NN ,/RD_PUNC તું/PR_PRP તારે/PR_PRP હવે/N_NST જેટલી/JJ બૉર્ડર/N_NN પાર/N_NN કરવી/V_VAUX_VNP હોય/V_VAUX એ/DM_DMD બધી/QT_QTF કરી/V_VM નાખ/V_VAUX ./RD_PUNC `/RD_PUNC
+GJED620	કોઈ/PR_PRI તને/PR_PRP રોકવાવાળું/JJ નથી/RP_NEG ./RD_PUNC
+GJED621	ને/CC_CCD હા/PSP ,/RD_PUNC આ/DM_DMD લે/V_VM સુરેશનું/N_NNP સરનામું/N_NN ./RD_PUNC
+GJED622	કાલથી/N_NST મારું/PR_PRP ટિફિન/N_NN તારે/PSP જ/RP_RPD લાવવાનું/V_VAUX_VNP છે/V_VAUX ./RD_PUNC
+GJED623	મનસુખે/N_NNP પણ/RP_RPD જવાબ/N_NN આપ્યો/V_VM ,/RD_PUNC `/RD_PUNC ત્રાસવાદીનું/JJ નામોનિશાન/N_NN મટી/V_VM ગયું/V_VAUX હોય/V_VAUX પછી/PSP આપણે/PR_PRP કઈ/DM_DMI બૉર્ડરની/N_NN વળી/PSP ચિંતા/N_NN ?/RD_PUNC કાલથી/N_NST તમને/PR_PRP જમાડવાની/V_VAUX_VNP જવાબદારી/N_NN મારી/PR_PRP ./RD_PUNC `/RD_PUNC
+GJED624	જમનાદાસ/N_NNP ,/RD_PUNC તમે/PR_PRP જુઓ/V_VM તો/RP_RPD ....../RD_PUNC જમનાદાસ/N_NNP ,/RD_PUNC તમને/PR_PRP મનમાં/N_NN ઊંડે/JJ ઊંડે/JJ કંઈક/DM_DMI બેચેની/N_NN શાની/PR_PRQ અનુભવાતી/V_VAUX_VNP જણાય/V_VM છે/V_VAUX ?/RD_PUNC
+GJED625	તમારા/PR_PRP ચહેરા/N_NN પર/PSP શી/PR_PRQ બાબતનો/N_NN ડર/N_NN છવાયેલો/V_VAUX_VNP દેખાય/V_VM છે/V_VAUX ?/RD_PUNC
+GJED626	કયો/PR_PRQ ખોફ/N_NN તમને/PR_PRP આતંકિત/JJ કરે/V_VM છે/V_VAUX ?/RD_PUNC
+GJED627	કઈ/DM_DMI વાત/N_NN તમારા/PR_PRP ચેતનશૂન્ય/JJ અંગોને/N_NN પણ/RP_RPD ધ્રુજાવી/V_VM રહી/V_VAUX છે/V_VAUX ?/RD_PUNC
+GJED628	તમે/PR_PRP હજીય/N_NST મુશ્તાકથી/N_NNP ભયભીત/JJ છો/V_VAUX !/RD_PUNC
+GJED629	તમે/PR_PRP શું/PR_PRQ એમ/PSP સમજો/V_VM છો/V_VAUX કે/CC_CCS મુશ્તાક/N_NNP તમને/PR_PRP સાવ/PSP આમ/PSP સસ્તામાં/JJ છોડી/V_VM દેશે/V_VAUX ?/RD_PUNC
+GJED630	યાદ/N_NN છે/V_VAUX એ/PR_PRP તમને/PR_PRP ઘણી/QT_QTF વાર/N_NN કહેતો/V_VAUX_VNP ,/RD_PUNC `/RD_PUNC ગામને/N_NN મારી/PR_PRP આડીઅવળી/JJ વાતું/N_NN કરીને/V_VAUX_VNP મને/PR_PRP આતંકવાદી/JJ ગણાવો/V_VM છો/V_VAUX ,/RD_PUNC તો/CC_CCD યાદ/N_NN રાખજો/V_VM ,/RD_PUNC હું/PR_PRP તો/RP_RPD મરીશ/V_VM ને/CC_CCD તમને/PR_PRP ય/RP_RPD ઉડાવતો/V_VAUX_VNP જાઈશ/V_VM !/RD_PUNC `/RD_PUNC
+GJED631	તમે/PR_PRP જુઓ/V_VM તો/CC_CCD ...../RD_PUNC તમને/PR_PRP ધનજીનો/N_NNP કાળમુખો/JJ ખટારો/N_NN તમારા/PR_PRP પેટ/N_NN ઉપર/N_NST ફરી/V_VM વળતો/V_VAUX_VNP દેખાયો/V_VM હોય/V_VAUX એવું/JJ લાગ્યું/V_VM !/RD_PUNC
+GJED632	મનમાં/N_NN વિચાર્યું/V_VM જમનાદાસ/N_NNP ,/RD_PUNC `/RD_PUNC માળો/PSP આ/DM_DMD મુશ્તાક/N_NNP સાચે/PSP જ/RP_RPD સ્યુસાઈડ/N_NN બૉમ્બર/N_NN નીકળશે/V_VM તો/RP_RPD ?/RD_PUNC એ/PR_PRP તો/RP_RPD મરતો/V_VAUX_VNP જાય/V_VAUX ને/CC_CCD મારતોય/V_VAUX_VNP જાય/V_VM !/RD_PUNC `/RD_PUNC
+GJED633	જીવતો/V_VAUX_VNP ગ્રેનેડ/N_NN ...../RD_PUNC ,/RD_PUNC પાક્કો/JJ આતંકવાદી/JJ સાલો/N_NN !/RD_PUNC
+GJED634	બીજે/JJ દિવસે/N_NN મારતે/V_VAUX_VNP સ્કૂટરે/N_NN તમારું/PR_PRP ટિફિન/N_NN લીધા/V_VAUX_VNP વગર/PSP મનસુખ/N_NNP આવ્યો/V_VM જમનાદાસ/N_NNP ,/RD_PUNC ને/CC_CCD મુશ્તાકે/N_NNP ધરબી/V_VAUX_VNP રાખેલો/V_VAUX_VNP ટિફિનબૉમ્બ/N_NNP એણે/PR_PRP પહેલે/QT_QTO જ/RP_RPD દિવસે/N_NN ફોડ્યો/V_VM ,/RD_PUNC `/RD_PUNC અરે/RP_INJ દાદા/N_NN ,/RD_PUNC તમારા/PR_PRP આપેલા/V_VAUX_VNP સરનામે/N_NN તો/RP_RPD સુરેશ/N_NNP નામનું/N_NN કોઈ/PR_PRI માણસ/N_NN જ/RP_RPD નથી/RP_NEG રહેતું/V_VAUX_VNP ./RD_PUNC `/RD_PUNC
+GJED635	પાડોશીઓએ/N_NN કહ્યું/V_VM કે/CC_CCS સુરેશ/N_NNP તો/RP_RPD એક/QT_QTC વરસથી/N_NN પોતાના/PR_PRF કુટુંબ/N_NN સાથે/PSP મુંબઈ/N_NNP રહેવા/V_VAUX_VNP ચાલ્યો/V_VM ગયો/V_VAUX છે/V_VAUX !/RD_PUNC લ્યો/V_VM હવે/N_NST ભૂખે/N_NN મરો/V_VM ./RD_PUNC
+GJED636	ભારે/JJ મન/N_NN સાથે/PSP હું/PR_PRP ઘર/N_NN તરફ/PSP જઈ/V_VM રહ્યો/V_VAUX હતો/V_VAUX ./RD_PUNC
+GJED637	હું/PR_PRP અને/CC_CCD જનક/N_NNP છૂટા/JJ પડ્યા/V_VM તે/DM_DMD પહેલાં/N_NST અને/CC_CCD તે/DM_DMD પછી/PSP પણ/RP_RPD મનની/N_NN સ્થિતિ/N_NN હતી/V_VAUX ./RD_PUNC
+GJED638	ચાલવાની/V_VAUX_VNP ઝડપ/N_NN ઘટી/V_VM ગઈ/V_VAUX ./RD_PUNC
+GJED639	રસ્તે/N_NN ચાલતાં/V_VAUX_VNP અચાનક/PSP હું/PR_PRP ઊભો/JJ રહી/V_VM રસ્તાને/N_NN ઓળખવા/V_VAUX_VNP મથતો/V_VAUX_VNP ./RD_PUNC
+GJED640	આજુબાજુ/N_NST જોઈને/V_VAUX_VNP ખાતરી/N_NN કરી/V_VM લેતો/V_VAUX_VNP કે/CC_CCS હું/PR_PRP રસ્તો/N_NN ભૂલી/V_VM ગયો/V_VAUX નથી/RP_NEG ને/RP_RPD ?/RD_PUNC
+GJED641	ચાલતાં/V_VAUX_VNP ચાલતાં/V_VAUX_VNP મારી/PR_PRP નજર/N_NN દુકાનના/N_NN શોકેસ/N_NN તરફ/PSP ખેંચાઈ/V_VM ગઈ/V_VAUX ./RD_PUNC
+GJED642	નાનો/JJ છોકરો/N_NN છત્રી/N_NN લઈને/V_VAUX_VNP ઊભો/V_VM હતો/V_VAUX ./RD_PUNC
+GJED643	કલીબહેનનો/N_NNP ચહેરો/N_NN નજર/N_NN સમક્ષ/PSP તરવરી/V_VM રહ્યો/V_VAUX ./RD_PUNC
+GJED644	લાકડાં/N_NN પર/PSP ગોઠવાયેલા/V_VAUX_VNP તેમના/PR_PRP દેહને/N_NN વીંટળાયેલી/V_VAUX_VNP જ્વાળાઓ/N_NN ..../RD_PUNC અગ્નિ/N_NN સ્વજનને/N_NN આપણાથી/PR_PRP દૂર/JJ દૂર/JJ લઈ/V_VM જાય/V_VAUX છે/V_VAUX ,/RD_PUNC જ્યારે/N_NST છત્રી/N_NN એવી/JJ નથી/RP_NEG ./RD_PUNC
+GJED645	અત્યારે/N_NST મારા/PR_PRP હાથમાં/N_NN છત્રી/N_NN નથી/RP_NEG ./RD_PUNC
+GJED646	કોકિલા/N_NNP શું/PR_PRQ કહેશે/V_VM ?/RD_PUNC
+GJED647	તેને/PR_PRP મન/N_NN તે/DM_DMD ફાટેલી/V_VAUX_VNP ,/RD_PUNC તૂટેલી/V_VAUX_VNP ,/RD_PUNC જૂની/JJ ભંગાર/N_NN વસ્તુ/N_NN છે/V_VAUX ./RD_PUNC
+GJED648	દિવાળી/N_NN પહેલાંની/N_NST જ/RP_RPD વાત/N_NN છે/V_VAUX ./RD_PUNC
+GJED649	ઘરની/N_NN સફાઈ/N_NN દર/PSP વર્ષની/N_NN જેમ/PSP તેણે/PR_PRP શરૂ/JJ કરી/V_VM દીધી/V_VAUX હતી/V_VAUX ./RD_PUNC
+GJED650	તેને/PR_PRP ઘર/N_NN સાફ/JJ -/RD_PUNC સૂથરું/JJ જ/RP_RPD ગમે/V_VM ./RD_PUNC
+GJED651	દરેક/JJ ઓરડાની/N_NN વારાફરતી/PSP સફાઈ/N_NN થાય/V_VM ./RD_PUNC
+GJED652	એક/QT_QTC એક/QT_QTC વસ્તુની/N_NN સફાઈ/N_NN નોકરને/N_NN સાથે/PSP રાખી/V_VAUX_VNP કરે/V_VM ./RD_PUNC
+GJED653	તેને/PR_PRP કામ/N_NN કરતી/V_VAUX_VNP જોઈ/V_VAUX_VNP મને/PR_PRP ઉચાટ/N_NN થવા/V_VAUX_VNP માંડે/V_VAUX ./RD_PUNC
+GJED654	ધીમે/RB ધીમે/RB અજંપાનું/N_NN ડરમાં/N_NN રૂપાંતર/N_NN થવા/V_VAUX_VNP માંડે/V_VAUX ./RD_PUNC
+GJED655	આજે/N_NST કે/CC_CCS કાલે/N_NST કોકિલા/N_NNP ટોકશે/V_VM કે/CC_CCS ઊંચા/JJ અવાજે/N_NN કહેશે/V_VM ,/RD_PUNC આ/DM_DMD તમારી/PR_PRP ચોપડીઓનું/N_NN કંઈક/DM_DMI કરો/V_VM ./RD_PUNC
+GJED656	આટલા/JJ બધા/QT_QTF ચોપડાનું/N_NN શું/PR_PRQ કામ/N_NN છે/V_VAUX ?/RD_PUNC
+GJED657	ચોપડીઓનું/N_NN ખુલ્લું/JJ કબાટ/N_NN સાફ/JJ કરવાની/V_VAUX_VNP તેને/PR_PRP ભારે/JJ ચીડ/N_NN ./RD_PUNC
+GJED658	ચોપડીઓની/N_NN ગોઠવણીનો/N_NN ક્રમ/N_NN તૂટે/V_VM તેની/PR_PRP મને/PR_PRP ચિંતા/N_NN થાય/V_VM ./RD_PUNC
+GJED659	એ/DM_DMD પછી/PSP છત્રીનો/N_NN વારો/N_NN આવે/V_VM ./RD_PUNC
+GJED660	તેનો/DM_DMD કોઈ/DM_DMI ઉકેલ/N_NN નથી/RP_NEG ./RD_PUNC
+GJED661	આનું/DM_DMD શું/PR_PRQ કરવાનું/V_VAUX_VNP છે/V_VAUX ?/RD_PUNC
+GJED662	તેનું/DM_DMD પૅકિંગ/N_NN બદલીને/V_VAUX_VNP મૂકી/V_VM છે/V_VAUX ./RD_PUNC
+GJED663	આવી/JJ જૂની/JJ ,/RD_PUNC ફાટેલી/V_VAUX_VNP છત્રીનું/N_NN શું/PR_PRQ કામ/N_NN છે/V_VAUX ?/RD_PUNC
+GJED664	ભંગારવાળાને/JJ આપી/V_VM દઉં/V_VAUX ?/RD_PUNC
+GJED665	મારું/PR_PRP મન/N_NN આંચકો/N_NN અનુભવે/V_VM ./RD_PUNC
+GJED666	આ/DM_DMD તે/PR_PRP ભંગારવાળાને/JJ આપી/V_VM દેવાની/V_VAUX_VNP ચીજ/N_NN છે/V_VAUX ?/RD_PUNC
+GJED667	કોકિલા/N_NNP ધૂંધવાય/V_VM ./RD_PUNC
+GJED668	તેનો/PR_PRP રોષ/N_NN ક્યારેક/N_NST શબ્દો/N_NN તો/CC_CCD ક્યારેક/N_NST મૌન/N_NN બની/V_VM પ્રગટે/V_VM ./RD_PUNC
+GJED669	સફાઈકામ/N_NN પૂરું/JJ ન/RP_NEG થાય/V_VM ત્યાં/N_NST સુધી/PSP એક/QT_QTC કે/CC_CCS બીજા/JJ સ્વરૂપે/N_NN વાત/N_NN નીકળે/V_VM ./RD_PUNC
+GJED670	હું/PR_PRP તેને/PR_PRP સમજાવી/V_VM શકતો/V_VAUX_VNP નથી/RP_NEG ./RD_PUNC
+GJED671	પત્નીને/N_NN સમજાવી/V_VM એ/DM_DMD અઘરું/JJ કામ/N_NN છે/V_VAUX ./RD_PUNC
+GJED672	હું/PR_PRP તેને/PR_PRP કહું/V_VM છું/V_VAUX ./RD_PUNC
+GJED673	આ/DM_DMD જૂની/JJ ,/RD_PUNC ફાટેલી/V_VAUX_VNP ,/RD_PUNC તૂટેલી/V_VAUX_VNP ભંગાર/JJ વસ્તુ/N_NN તને/PR_PRP લાગે/V_VM છે/V_VAUX તે/DM_DMD ખરેખર/PSP સુંદર/JJ ચીજ/N_NN છે/V_VAUX ./RD_PUNC
+GJED674	કોકિલા/N_NNP સાંભળી/V_VM રહે/V_VAUX ,/RD_PUNC કશું/DM_DMI ન/RP_NEG બોલે/V_VM ,/RD_PUNC એ/PR_PRP કશું/DM_DMI ય/RP_RPD ન/RP_NEG બોલે/V_VM ત્યારે/N_NST હું/PR_PRP બોલ્યા/V_VAUX_VNP કરું/V_VM ./RD_PUNC
+GJED675	બચપણના/N_NN એ/DM_DMD દિવસો/N_NN પાછા/RB આવી/V_VM જાય/V_VAUX ./RD_PUNC
+GJED676	હું/PR_PRP નાનો/JJ હતો/V_VAUX અને/CC_CCD વરસાદ/N_NN ધોધમાર/JJ વરસે/V_VM ત્યારે/N_NST છત્રી/N_NN લઈને/V_VAUX_VNP નીકળી/V_VM પડતો/V_VAUX ./RD_PUNC
+GJED677	એ/DM_DMD વખતે/N_NN ફાટેલી/V_VAUX_VNP ચડી/N_NN કે/CC_CCS ફાટેલા/V_VAUX_VNP ખમીસને/N_NN થીંગડું/N_NN મારીને/V_VAUX_VNP પહેરવાની/V_VAUX_VNP શરમ/N_NN આવતી/V_VAUX_VNP ન/RP_NEG હતી/V_VAUX ./RD_PUNC
+GJED678	ભીટ્ટુ/N_NNP સાથેની/PSP લડાઈ/N_NN ,/RD_PUNC ઝઘડા/N_NN કે/CC_CCS મારામારી/N_NN જલદીથી/RB ભુલાઈ/V_VM જતાં/V_VAUX_VNP ./RD_PUNC
+GJED679	સાથે/PSP રમવાની/V_VAUX_VNP અને/CC_CCD શરતો/N_NN લગાવવાની/V_VAUX_VNP મજા/N_NN પણ/RP_RPD પડતી/V_VAUX_VNP ./RD_PUNC
+GJED680	હું/PR_PRP એક/QT_QTC હાથમાં/N_NN છત્રી/N_NN પકડીને/V_VAUX_VNP ચારેબાજુ/N_NST વહેતાં/V_VAUX_VNP ખળખળ/JJ પાણીમાં/N_NN ચાલતો/V_VAUX_VNP ./RD_PUNC
+GJED681	કાગળની/N_NN નાવને/N_NN પાણીમાં/N_NN મૂકતો/V_VAUX_VNP ./RD_PUNC
+GJED682	નાવ/N_NN થોડી/QT_QTF વાર/N_NN સરખી/JJ ચાલે/V_VM પછી/PSP ઊંઘી/JJ વળી/V_VM જાય/V_VAUX ./RD_PUNC
+GJED683	તેને/DM_DMD વાંકો/JJ વળી/V_VAUX_VNP સરખી/JJ કરું/V_VM ./RD_PUNC
+GJED684	વાત/N_NN કરતાં/V_VAUX_VNP કરતાં/V_VAUX_VNP મારી/PR_PRP જીભ/N_NN અટકી/V_VM જતી/V_VAUX_VNP ./RD_PUNC
+GJED685	શબ્દો/N_NN યાદ/JJ આવતા/V_VAUX_VNP નહીં/RP_NEG ./RD_PUNC
+GJED686	મન/N_NN એ/DM_DMD અનુભવની/N_NN મજા/N_NN લૂંટતું/V_VAUX_VNP સ્થિર/JJ થઈ/V_VM જતું/V_VAUX_VNP ./RD_PUNC
+GJED687	પત્ની/N_NN કહેતી/V_VAUX_VNP ,/RD_PUNC તમે/PR_PRP હજુ/N_NST ય/RP_RPD નાના/JJ કીકા/N_NN જ/RP_RPD છો/V_VAUX ./RD_PUNC
+GJED688	સંવાદ/N_NN ઓગળી/V_VM જાય/V_VAUX ./RD_PUNC
+GJED689	હું/PR_PRP છત્રીને/N_NN હાથમાં/N_NN લઉં/V_VM ./RD_PUNC
+GJED690	અંગૂઠા/N_NN વડે/PSP ચાંપ/N_NN દબાવી/V_VAUX_VNP ખોલું/V_VM ./RD_PUNC
+GJED691	ઝાંખા/JJ પડી/V_VM ગયેલા/V_VAUX_VNP નામ/N_NN પર/PSP આંગળીઓ/N_NN ફેરવું/V_VM ./RD_PUNC
+GJED692	મને/PR_PRP ખૂબ/QT_QTF આનંદ/N_NN થાય/V_VM ./RD_PUNC
+GJED693	ભલે/PSP જૂની/JJ થઈ/V_VM છે/V_VAUX ,/RD_PUNC એક/QT_QTC -/RD_PUNC બે/QT_QTC કાણાં/N_NN પડ્યાં/V_VM છે/V_VAUX ,/RD_PUNC સળિયા/N_NN હચમચી/V_VM ગયા/V_VAUX છે/V_VAUX છતાં/RP_RPD છત્રી/N_NN સાવ/PSP નકામી/JJ નથી/RP_NEG ./RD_PUNC
+GJED694	કલીબહેન/N_NNP છત્રી/N_NN આપો/V_VM ને/RP_RPD ./RD_PUNC
+GJED695	હમણાં/N_NST જ/RP_RPD આપું/V_VM ./RD_PUNC
+GJED696	મારી/PR_PRP નજર/N_NN કલીબહેનની/N_NNP પૂંઠે/N_NN પૂંઠે/N_NN ફરે/V_VM ./RD_PUNC
+GJED697	કલીબહેન/N_NNP માળિયા/N_NN પાસે/PSP પહોંચે/V_VM કે/CC_CCS તરત/PSP જ/RP_RPD દોડીને/V_VAUX_VNP સ્ટૂલ/N_NN લઈ/V_VM આવું/V_VAUX ./RD_PUNC
+GJED698	સ્ટૂલ/N_NN તેમના/PR_PRP પગ/N_NN પાસે/PSP મૂકી/V_VAUX_VNP કેડે/N_NN હાથ/N_NN દઈ/V_VM ડોક/N_NN કરી/V_VAUX_VNP તાકી/V_VM રહું/V_VAUX ./RD_PUNC
+GJED699	કલીબહેન/N_NNP સ્ટૂલ/N_NN પર/PSP ચઢી/V_VAUX_VNP માળિયામાં/N_NN હાથ/N_NN લંબાવે/V_VM ./RD_PUNC
+GJED700	ખાંખાંખોળાં/N_NN કરે/V_VM ./RD_PUNC
+GJED701	કયાં/N_NST મૂકી/V_VM હશે/V_VAUX છત્રી/N_NN ?/RD_PUNC
+GJED702	એવું/JJ ગણગણે/V_VM ./RD_PUNC
+GJED703	હું/PR_PRP મનમાં/N_NN ઊભરાતાં/V_VAUX_VNP કલ્પનાચિત્રોને/N_NN માણતો/V_VAUX_VNP ઊભો/JJ રહું/V_VM ./RD_PUNC
+GJED704	ત્યાં/N_NST જ/RP_RPD કલીબહેન/N_NNP કહે/V_VM ,/RD_PUNC લે/V_VM આ/DM_DMD રહી/V_VAUX ,/RD_PUNC બરાબર/PSP પકડજે/V_VM ./RD_PUNC
+GJED705	છાપાના/N_NN કાગળમાં/N_NN ચુસ્ત/JJ રીતે/N_NN વીંટાળેલી/V_VAUX_VNP છત્રી/N_NN પર/PSP પતંગનો/N_NN લાલ/JJ દોરો/N_NN વીંટાળેલો/V_VAUX_VNP હોય/V_VAUX ./RD_PUNC
+GJED706	મારા/PR_PRP આંગળાં/N_NN સળવળે/V_VM ,/RD_PUNC હેન્ડલ/N_NN પર/PSP હાથ/N_NN ફેરવતો/V_VAUX_VNP હું/PR_PRP હરખાઉં/V_VM ,/RD_PUNC ચાંપ/N_NN ખોલવાની/V_VAUX_VNP મથામણ/N_NN કરું/V_VM ,/RD_PUNC ત્યાં/N_NST જ/RP_RPD કલીબહેન/N_NNP છત્રી/N_NN ખેંચી/V_VM લે/V_VAUX ./RD_PUNC
+GJED707	ઊભો/JJ રહે/V_VM હું/PR_PRP ખોલી/V_VAUX_VNP આપું/V_VM છું/V_VAUX ./RD_PUNC
+GJED708	ના/RP_NEG ./RD_PUNC મને/PR_PRP આવડે/V_VM છે/V_VAUX ./RD_PUNC
+GJED709	કલીબહેન/N_NNP સાંભળે/V_VM જ/RP_RPD નહીં/RP_NEG ./RD_PUNC
+GJED710	ધીમેથી/RB દોરો/N_NN છોડે/V_VM ,/RD_PUNC આંટા/N_NN ઉકેલે/V_VM ,/RD_PUNC છાપાનાં/N_NN કાગળ/N_NN કાઢી/V_VM નાખી/V_VAUX ,/RD_PUNC છત્રીને/N_NN ઝકઝોરે/V_VM ,/RD_PUNC સેપટ/N_NN ખંખેરી/V_VAUX_VNP ચાંપ/N_NN પર/PSP અંગૂઠો/N_NN દબાવે/V_VM ,/RD_PUNC ફટાક/PSP કરતી/V_VAUX_VNP છત્રી/N_NN ખૂલે/V_VM ./RD_PUNC
+GJED711	જાદુઈ/JJ ખજાનાનો/N_NN પટારો/N_NN ખૂલી/V_VM ગયો/V_VAUX હોય/V_VAUX એમ/PSP હું/PR_PRP આશ્ચર્યમુગ્ધ/JJ બની/V_VAUX_VNP તાકી/V_VM રહું/V_VAUX ./RD_PUNC
+GJED712	કલીબહેન/N_NNP હાથ/N_NN લાંબા/JJ કરે/V_VM ,/RD_PUNC માથા/N_NN પર/PSP ભૂરું/JJ વાદળ/N_NN સરકી/V_VM આવે/V_VAUX ./RD_PUNC
+GJED713	હું/PR_PRP ખુશ/JJ થાઉં/V_VM ./RD_PUNC
+GJED714	આમતેમ/PSP કૂદકા/N_NN મારું/V_VM ,/RD_PUNC છત્રીને/N_NN ગોળગોળ/RB ઘુમાવવાની/V_VAUX_VNP મજા/N_NN પડે/V_VM ./RD_PUNC
+GJED715	કલીબહેન/N_NNP રસોડામાંથી/N_NN મને/PR_PRP જોતાં/V_VAUX_VNP હોય/V_VAUX ,/RD_PUNC એ/PR_PRP ટોકે/V_VM ./RD_PUNC
+GJED716	ભઈલા/N_NN એમ/PSP ન/RP_NEG કરાય/V_VM ,/RD_PUNC એમ/PSP કરીશ/V_VM તો/CC_CCD તૂટી/V_VM જશે/V_VAUX ./RD_PUNC
+GJED717	હું/PR_PRP અટકી/V_VM જાઉં/V_VAUX ./RD_PUNC
+GJED718	એ/DM_DMD પછી/PSP કલીબહેને/N_NNP ગૂંથેલું/V_VAUX_VNP મારું/PR_PRP નામ/N_NN શોધી/V_VM લઉં/V_VAUX ./RD_PUNC
+GJED719	પીળા/JJ દોરા/N_NN વડે/PSP ગૂંથેલું/V_VAUX_VNP નામ/N_NN ,/RD_PUNC અંક્તિ/N_NNP ,/RD_PUNC એના/DM_DMD માથે/PSP આભલું/N_NN ભરેલું/V_VAUX_VNP ./RD_PUNC
+GJED720	હું/PR_PRP મારો/PR_PRP ચહેરો/N_NN તેમાં/DM_DMD જોઉં/V_VM ./RD_PUNC
+GJED721	નામ/N_NN ફરી/RB ફરી/RB વાંચું/V_VM ./RD_PUNC
+GJED722	આભલા/N_NN પર/PSP ભરી/V_VM છે/V_VAUX ઊડતી/V_VAUX_VNP ચકલી/N_NN ./RD_PUNC
+GJED723	એમણે/PR_PRP ભૂરા/JJ રંગના/N_NN દોરાના/N_NN લીટા/N_NN ખેંચ્યા/V_VM ,/RD_PUNC જાણે/PSP વરસતો/V_VAUX_VNP વરસાદ/N_NN ./RD_PUNC
+GJED724	કલીબહેન/N_NNP નાસ્તાનો/N_NN ડબો/N_NN ભરી/V_VM દે/V_VAUX ./RD_PUNC
+GJED725	લે/V_VM આ/DM_DMD ડબો/N_NN ,/RD_PUNC એમાં/DM_DMD ઢેબરાં/N_NN છે/V_VAUX ./RD_PUNC
+GJED726	તું/PR_PRP ખાજે/N_NN અને/CC_CCD જનકને/N_NNP ય/RP_RPD આપજે/V_VM ./RD_PUNC
+GJED727	જનકને/N_NNP મા/N_NN નથી/RP_NEG તેથી/PSP તેને/PR_PRP ઢેબરાં/N_NN આપવાની/V_VAUX_VNP વાત/N_NN મને/PR_PRP ન/RP_NEG સમજાતી/V_VAUX_VNP ./RD_PUNC
+GJED728	હું/PR_PRP રિસેસ/N_NN પડે/V_VM તેની/DM_DMD રાહ/N_NN જોઉં/V_VM ./RD_PUNC
+GJED729	રિસેસમાં/N_NN હું/PR_PRP અને/CC_CCD જનક/N_NNP જોડે/PSP બેસી/V_VAUX_VNP ઢેબરાં/N_NN ખાતા/V_VAUX_VNP ./RD_PUNC
+GJED730	જનકે/N_NNP કહ્યું/V_VM ./RD_PUNC
+GJED731	ધારો/V_VM કે/CC_CCS વરસાદ/N_NN ન/RP_NEG પડે/V_VM તો/RP_RPD ?/RD_PUNC
+GJED732	ચોમાસામાં/N_NN વરસાદ/N_NN પડે/V_VM જ/RP_RPD ./RD_PUNC
+GJED733	પણ/CC_CCD ..../RD_PUNC ધારો/V_VM કે/CC_CCS વરસાદ/N_NN ન/RP_NEG પડે/V_VM તો/CC_CCD છત્રી/N_NN શું/PR_PRQ કામની/N_NN ?/RD_PUNC
+GJED734	માથે/N_NN રાખી/V_VM ચાલવાનું/V_VAUX_VNP ./RD_PUNC
+GJED735	આપણો/PR_PRP વટ/N_NN પડે/V_VM ./RD_PUNC
+GJED736	શાળા/N_NN છૂટવાનો/V_VAUX_VNP બેલ/N_NN વાગે/V_VM એટલે/PSP દોડીને/V_VAUX_VNP ખૂણામાં/N_NN મૂકેલી/V_VAUX_VNP છત્રી/N_NN લઈ/V_VM લેવાની/V_VAUX_VNP ./RD_PUNC
+GJED737	વરસાદ/N_NN પડે/V_VM તેની/DM_DMD રાહ/N_NN જોઉં/V_VM ./RD_PUNC
+GJED738	વરસાદ/N_NN વરસવો/V_VAUX_VNP શરૂ/JJ થાય/V_VM તો/CC_CCD ખૂબ/QT_QTF મજા/N_NN પડે/V_VM ./RD_PUNC
+GJED739	ઘરે/N_NN પહોંચી/V_VAUX_VNP છત્રી/N_NN કલીબહેનને/N_NNP સોંપી/V_VM દેવાની/V_VAUX_VNP ./RD_PUNC
+GJED740	કલીબહેન/N_NNP પાણી/N_NN ખંખેરી/V_VAUX_VNP ખીંટીએ/N_NN ભરાવી/V_VM દે/V_VAUX ./RD_PUNC
+GJED741	જ્યારે/N_NST છત્રી/N_NN ફાટે/V_VM કે/CC_CCS તૂટે/V_VM ત્યારે/N_NST કલીબહેન/N_NNP ફેરિયાને/N_NN રિપૅરિંગ/N_NN માટે/PSP બોલાવે/V_VM ./RD_PUNC
+GJED742	ફેરિયો/N_NN તેની/PR_PRP રિપૅરિંગની/N_NN પેટી/N_NN લઈને/V_VAUX_VNP બેસે/V_VM ./RD_PUNC
+GJED743	હું/PR_PRP તેની/PR_PRP પાસે/PSP બેસી/V_VM જાઉં/V_VAUX ./RD_PUNC
+GJED744	કુતૂહલપૂર્વક/JJ તાક્યા/V_VAUX_VNP કરું/V_VM ./RD_PUNC
+GJED745	તેના/PR_PRP મદદનીશ/JJ તરીકે/PSP કામે/N_NN લાગી/V_VM જાઉં/V_VAUX ./RD_PUNC
+GJED746	એ/PR_PRP કાંઈક/DM_DMI માગે/V_VM કે/CC_CCS તરત/PSP જ/RP_RPD લાવી/V_VM દઉં/V_VAUX ./RD_PUNC
+GJED747	એ/PR_PRP કાણાં/N_NN પર/PSP સરસ/JJ ગોળ/JJ થીંગડું/V_VM લગાવે/V_VM ./RD_PUNC
+GJED748	તૂટેલા/V_VAUX_VNP તારને/N_NN સાંધે/V_VM ./RD_PUNC
+GJED749	મને/PR_PRP તેના/PR_PRP ચીમળાયેલા/V_VAUX_VNP હાથની/N_NN ઊપસેલી/V_VAUX_VNP નસો/N_NN ન/RP_NEG ગમે/V_VM ./RD_PUNC
+GJED750	તેની/PR_PRP બરછટ/JJ દાઢી/N_NN અને/CC_CCD ફાટેલું/V_VAUX_VNP ખમીસ/N_NN ન/RP_NEG ગમે/V_VM ./RD_PUNC
+GJED751	એ/DM_DMD એટલું/JJ સરસ/JJ રિપૅરિંગ/N_NN કરે/V_VM કે/CC_CCS તમને/PR_PRP તેના/PR_PRP માટે/PSP માન/N_NN થાય/V_VM ./RD_PUNC
+GJED752	મને/PR_PRP એ/DM_DMD ગમવા/V_VAUX_VNP માંડે/V_VAUX ./RD_PUNC
+GJED753	મને/PR_PRP થાય/V_VM કે/CC_CCS કલીબહેન/N_NNP તેને/PR_PRP રૂપિયા/N_NN વધારે/QT_QTF આપે/V_VM તો/CC_CCD સારું/JJ ./RD_PUNC
+GJED754	ખરેખર/PSP કલીબહેન/N_NNP એમ/PSP જ/RP_RPD કરે/V_VM ./RD_PUNC
+GJED755	ફેરિયો/N_NN ખુશ/JJ થઈ/V_VM જાય/V_VAUX ./RD_PUNC
+GJED756	તેની/PR_PRP બરછટ/JJ દાઢી/N_NN હસવા/V_VAUX_VNP માંડે/V_VAUX ./RD_PUNC
+GJED757	લો/V_VM ,/RD_PUNC બાબાશેઠ/N_NN તમારી/PR_PRP છત્રી/N_NN ./RD_PUNC
+GJED758	એ/PR_PRP ખુલ્લી/JJ છત્રી/N_NN મારા/PR_PRP માથા/N_NN પર/PSP ધરી/V_VAUX_VNP હાથમાં/N_NN હૅન્ડલ/N_NN પકડાવે/V_VM ./RD_PUNC
+GJED759	હું/PR_PRP ઊંચું/JJ માથું/N_NN કરીને/V_VAUX_VNP તાકી/V_VM રહું/V_VAUX ./RD_PUNC
+GJED760	એ/DM_DMD પછી/PSP દ્રશ્ય/N_NN બદલાઈ/V_VM જાય/V_VAUX કલીબહેન/N_NNP પૂછે/V_VM ,/RD_PUNC તું/PR_PRP ભણવા/V_VAUX_VNP જાય/V_VAUX છે/V_VAUX તો/CC_CCD મારા/PR_PRP સવાલનો/N_NN જવાબ/N_NN આપ/V_VM ./RD_PUNC
+GJED761	આના/DM_DMD કરતાં/V_VAUX_VNP મોટી/JJ છત્રી/N_NN ભગવાને/N_NN બનાવી/V_VM છે/V_VAUX તેનું/DM_DMD નામ/N_NN શું/PR_PRQ ?/RD_PUNC
+GJED762	કલીબહેન/N_NNP ,/RD_PUNC પ્રશ્ન/N_NN અઘરો/JJ છે/V_VAUX ./RD_PUNC
+GJED763	સવાલ/N_NN સાવ/PSP સહેલો/JJ છે/V_VAUX ,/RD_PUNC વળી/PSP એ/DM_DMD વરસાદ/N_NN રોકતી/V_VAUX_VNP નથી/RP_NEG ,/RD_PUNC પરંતુ/CC_CCD વરસાદ/N_NN પાડે/V_VM છે/V_VAUX ./RD_PUNC
+GJED764	છત્રી/N_NN વરસાદ/N_NN વરસાવે/V_VM ?/RD_PUNC એ/DM_DMD કેમ/PR_PRQ બને/V_VM ?/RD_PUNC
+GJED765	મને/PR_PRP જવાબ/N_NN આપવાની/V_VAUX_VNP સૂઝ/N_NN ન/RP_NEG પડે/V_VM ./RD_PUNC
+GJED766	કલીબહેન/N_NNP ખડખડાટ/RB હસે/V_VM ./RD_PUNC
+GJED767	એટલીય/JJ ખબર/N_NN ના/RP_NEG પડી/V_VM ?/RD_PUNC
+GJED768	એનું/DM_DMD નામ/N_NN આકાશ/N_NN ./RD_PUNC
+GJED769	કલીબહેન/N_NNP માથું/N_NN ઊંચું/JJ કરી/V_VM આકાશને/N_NN જુએ/V_VM ./RD_PUNC
+GJED770	કલીબહેન/N_NNP ઘણી/QT_QTF વાર/N_NN આકાશમાં/N_NN તાક્યા/V_VAUX_VNP કરે/V_VM ./RD_PUNC
+GJED771	એ/DM_DMD વખતે/N_NN એ/PR_PRP મૌન/JJ બની/V_VM જાય/V_VAUX ./RD_PUNC
+GJED772	હું/PR_PRP ય/RP_RPD આકાશને/N_NN જોઉં/V_VM ./RD_PUNC
+GJED773	મને/PR_PRP કલીબહેનની/N_NNP વાત/N_NN સાચી/JJ લાગે/V_VM ./RD_PUNC
+GJED774	આ/DM_DMD આકાશ/N_NN ગોળાકાર/JJ છત્રી/N_NN જેવું/JJ જ/RP_RPD છે/V_VAUX ./RD_PUNC
+GJED775	એટલામાં/JJ બીજો/JJ વિચાર/N_NN આવતાં/V_VAUX_VNP જ/RP_RPD હું/PR_PRP હસી/V_VM પડું/V_VAUX ./RD_PUNC
+GJED776	કેમ/PR_PRQ હસે/V_VM છે/V_VAUX !/RD_PUNC
+GJED777	કલીબહેન/N_NNP ,/RD_PUNC તમે/PR_PRP ય/RP_RPD છત્રી/N_NN જ/RP_RPD છો/V_VAUX ને/RP_RPD ./RD_PUNC
+GJED778	એ/DM_DMD સાંભળી/V_VAUX_VNP કલીબહેન/N_NNP ફરી/RB ખડખડાટ/RB હસે/V_VM ./RD_PUNC
+GJED779	હું/PR_PRP તેમના/PR_PRP ચકચક/JJ થતા/V_VAUX_VNP દાંત/N_NN જોઈને/V_VAUX_VNP ખુશ/JJ થાઉં/V_VM ./RD_PUNC
+GJED780	કલીબહેન/N_NNP ગમે/PSP તેટલી/JJ બૂમો/N_NN પાડે/V_VM છતાં/RP_RPD હવે/N_NST હું/PR_PRP છત્રી/N_NN લઈ/V_VM જતો/V_VAUX_VNP નથી/RP_NEG ./RD_PUNC
+GJED781	કલીબહેન/N_NNP બહુ/QT_QTF કહે/V_VM ત્યારે/N_NST જવાબ/N_NN આપું/V_VM ./RD_PUNC
+GJED782	કૉલેજમાં/N_NN છત્રી/N_NN લઈને/V_VAUX_VNP જવાતું/V_VAUX_VNP હશે/V_VAUX ?/RD_PUNC
+GJED783	છોકરીઓ/N_NN હસે/V_VM અને/CC_CCD છોકરાઓ/N_NN મજાક/N_NN ઉડાવે/V_VM ./RD_PUNC
+GJED784	કલીબહેન/N_NNP ધીમું/RB હસતાં/V_VAUX_VNP તાકી/V_VM રહે/V_VAUX ./RD_PUNC
+GJED785	હવે/N_NST અંકિતભાઈ/N_NNP મોટા/JJ થયા/V_VM એટલે/PSP આમ/PSP બોલે/V_VM ./RD_PUNC
+GJED786	કલીબહેન/N_NNP હસે/V_VM ./RD_PUNC
+GJED787	કેવુ/DM_DMQ હસે/V_VM ?/RD_PUNC
+GJED788	મીઠું/JJ મધ/N_NN જેવું/JJ ./RD_PUNC
+GJED789	ભલે/PSP ન/RP_NEG લઈ/V_VM જાવ/V_VAUX ,/RD_PUNC પણ/CC_CCD માંદા/JJ પડશો/V_VM તો/CC_CCD કોણ/PR_PRQ ખબર/N_NN પૂછવા/V_VAUX_VNP આવશે/V_VM ?/RD_PUNC
+GJED790	વરસાદમાં/N_NN પલળવાની/V_VAUX_VNP મજા/N_NN આવે/V_VM છે/V_VAUX ./RD_PUNC
+GJED791	હવે/N_NST પહેલાં/N_NST જેવો/JJ વરસાદ/N_NN ક્યાં/N_NST પડે/V_VM છે/V_VAUX ?/RD_PUNC
+GJED792	પહેલાં/N_NST તો/RP_RPD આઠ/QT_QTC -/RD_PUNC આઠ/QT_QTC દિવસની/N_NN હેલી/N_NN થતી/V_VAUX_VNP ./RD_PUNC
+GJED793	એ/DM_DMD દિવસો/N_NN તમને/PR_PRP યાદ/N_NN છે/V_VAUX ?/RD_PUNC
+GJED794	કલીબહેન/N_NNP માથું/N_NN હલાવે/V_VM ./RD_PUNC
+GJED795	એ/DM_DMD પછી/PSP બા/N_NN અને/CC_CCD કલીબહેન/N_NNP વાતો/N_NN કરે/V_VM ./RD_PUNC
+GJED796	એમની/PR_PRP વાતો/N_NN ખૂટે/V_VM જ/RP_RPD નહીં/RP_NEG ./RD_PUNC
+GJED797	કલીબહેન/N_NNP બે/QT_QTC -/RD_PUNC ત્રણ/QT_QTC ટૂંકા/JJ પ્રશ્નો/N_NN પૂછે/V_VM ./RD_PUNC
+GJED798	એમની/PR_PRP એ/DM_DMD કાયમની/JJ ટેવ/N_NN ./RD_PUNC
+GJED799	મનમાં/N_NN વિચાર/N_NN આવે/V_VM કે/CC_CCS કલીબહેન/N_NNP એવાં/JJ ને/CC_CCD એવાં/JJ જ/RP_RPD છે/V_VAUX ,/RD_PUNC જરા/QT_QTF ય/RP_RPD બદલાયાં/V_VM નથી/RP_NEG ./RD_PUNC
+GJED800	જ્યારે/N_NST સાસરેથી/N_NN આવે/V_VM ત્યારે/N_NST ઘરને/N_NN ધારીને/V_VAUX_VNP જુએ/V_VM ./RD_PUNC
+GJED801	ફુલ/JJ સ્પીડે/N_NN મૂકેલા/V_VAUX_VNP પંખાની/N_NN હવાથી/N_NN રાહત/N_NN અનુભવે/V_VM ./RD_PUNC
+GJED802	હું/PR_PRP ઘરની/N_NN બહાર/N_NST નીકળી/V_VM પડું/V_VAUX ./RD_PUNC
+GJED803	સાંજ/N_NST પડે/V_VM અને/CC_CCD અંધારું/N_NN થાય/V_VM ત્યાં/N_NST સુધી/PSP હું/PR_PRP રસ્તાની/N_NN ધારે/N_NN ચાલ્યા/V_VAUX_VNP કરું/V_VM છું/V_VAUX ./RD_PUNC
+GJED804	હવે/N_NST નવી/JJ નવી/JJ વસ્તુઓથી/N_NN ઘર/N_NN ઊભરાય/V_VM છે/V_VAUX ./RD_PUNC
+GJED805	દરેક/JJ વસ્તુ/N_NN ખાસ/JJ વસ્તુ/N_NN છે/V_VAUX ./RD_PUNC
+GJED806	સુખ/N_NN -/RD_PUNC સગવડનું/N_NN સાધન/N_NN છે/V_VAUX ./RD_PUNC
+GJED807	તે/DM_DMD સુંદર/JJ દેખાય/V_VM છે/V_VAUX ./RD_PUNC
+GJED808	તેમાં/DM_DMD કિંમતની/N_NN ,/RD_PUNC રંગોની/N_NN ,/RD_PUNC આકારની/N_NN વિવિધતા/N_NN છે/V_VAUX ./RD_PUNC
+GJED809	એક/QT_QTC વસ્તુ/N_NN બીજી/JJ વસ્તુથી/N_NN જુદી/JJ છે/V_VAUX ./RD_PUNC
+GJED810	તેની/DM_DMD આગવી/JJ ઓળખ/N_NN છે/V_VAUX ./RD_PUNC
+GJED811	દરેક/JJ વસ્તુ/N_NN હવે/N_NST પહેલાંની/N_NST વસ્તુઓ/N_NN જેવી/JJ નથી/RP_NEG ./RD_PUNC
+GJED812	આપણી/PR_PRP પાસે/PSP હોય/V_VAUX છતાં/RP_RPD જાણે/PSP આપણાથી/PR_PRP દૂર/JJ હોય/V_VAUX ./RD_PUNC
+GJED813	એમ/PSP લાગે/V_VM કે/CC_CCS તે/PR_PRP ,/RD_PUNC જેની/PR_PRL સાથે/PSP નવી/JJ નવી/JJ ઓળખાણ/N_NN હોય/V_VAUX તેવી/JJ વ્યક્તિ/N_NN જેવી/JJ છે/V_VAUX ./RD_PUNC
+GJED814	તેની/PR_PRP સાથે/PSP માત્ર/RP_RPD થોડા/QT_QTF શબ્દોથી/N_NN ,/RD_PUNC ખપપૂરતી/JJ વાતચીત/N_NN થઈ/V_VM શકે/V_VAUX ./RD_PUNC
+GJED815	તેની/PR_PRP સાથે/PSP સમય/N_NN ગાળી/V_VM ન/RP_NEG શકાય/V_VAUX ./RD_PUNC
+GJED816	મનની/N_NN વાત/N_NN તો/RP_RPD થઈ/V_VM જ/RP_RPD ન/RP_NEG શકે/V_VAUX ./RD_PUNC
+GJED817	વસ્તુઓ/N_NN માત્ર/RP_RPD હવે/N_NST વસ્તુઓ/N_NN છે/V_VAUX ./RD_PUNC
+GJED818	સમયની/V_VM સાથે/PSP કેટલું/QT_QTF બધું/QT_QTF બદલાઈ/V_VM જાય/V_VAUX છે/V_VAUX ./RD_PUNC
+GJED819	વસ્તુઓ/N_NN ઘરનાં/N_NN સભ્ય/N_NN જેવી/JJ હતી/V_VAUX ./RD_PUNC
+GJED820	હું/PR_PRP ઘરે/N_NN પાછો/RB ફરું/V_VM છું/V_VAUX ./RD_PUNC
+GJED821	માથા/N_NN પર/PSP અજાણ્યા/JJ હાથે/N_NN છત્રી/N_NN ધરી/V_VAUX_VNP રાખી/V_VM હોય/V_VAUX તેવા/JJ ભાસ/N_NN થયા/V_VAUX_VNP કરે/V_VM છે/V_VAUX ./RD_PUNC
+GJED822	ઝરમર/JJ ઝરમર/JJ વરસાદ/N_NN શરૂ/JJ થયો/V_VM ./RD_PUNC
+GJED823	સગાં/JJ -/RD_PUNC વહાલાં/JJ ચિંતાતુર/JJ નજરે/N_NN આકાશને/N_NN જોઈ/V_VM રહ્યાં/V_VAUX ./RD_PUNC
+GJED824	મને/PR_PRP કલીબહેનના/N_NNP શબ્દો/N_NN યાદ/JJ આવ્યા/V_VM ./RD_PUNC
+GJED825	મારાથી/PR_PRP ડૂસકું/N_NN નખાઈ/V_VM ગયું/V_VAUX ./RD_PUNC
+GJED826	જનકે/N_NNP મારા/PR_PRP ખભે/N_NN હાથ/N_NN મૂક્યો/V_VM ./RD_PUNC
+GJED827	એ/DM_DMD સાથે/PSP મનમાં/N_NN આશાનો/N_NN સંચાર/N_NN થયો/V_VM ./RD_PUNC
+GJED828	મારાં/PR_PRP આંગળાં/N_NN સળવળ્યાં/V_VM ./RD_PUNC
+GJED829	મેં/PR_PRP ચાંપ/N_NN દબાવી/V_VM ./RD_PUNC
+GJED830	ફટાક/PSP કરતી/V_VAUX_VNP છત્રી/N_NN ખૂલી/V_VM ગઈ/V_VAUX ./RD_PUNC
+GJED831	હું/PR_PRP કલીબહેનના/N_NNP માથા/N_NN પર/PSP છત્રી/N_NN ધરીને/V_VAUX_VNP ઊભો/JJ રહ્યો/V_VAUX ./RD_PUNC
+GJED832	બધા/QT_QTF મારા/PR_PRP તરફ/PSP જોવા/V_VAUX_VNP લાગ્યા/V_VM ./RD_PUNC
+GJED833	કેટલાકે/QT_QTF સંમતિસૂચક/JJ માથું/N_NN હલાવ્યું/V_VM ./RD_PUNC
+GJED834	બહુ/QT_QTF સારું/JJ કર્યું/V_VM ,/RD_PUNC હવે/N_NST વાંધો/N_NN નહીં/RP_NEG ./RD_PUNC
+GJED835	અંતિમયાત્રા/N_NN શરૂ/JJ થઈ/V_VM ./RD_PUNC
+GJED836	હું/PR_PRP કલીબેનના/N_NNP માથા/N_NN પર/PSP છત્રી/N_NN ધરીને/V_VAUX_VNP ચાલતો/V_VAUX_VNP હતો/V_VAUX ./RD_PUNC
+GJED837	આ/DM_DMD એ/DM_DMD જ/RP_RPD મને/PR_PRP પ્રિય/JJ છત્રી/N_NN હતી/V_VAUX ./RD_PUNC
+GJED838	જનક/N_NNP મારી/PR_PRP સાથે/PSP ચાલી/V_VM રહ્યો/V_VAUX હતો/V_VAUX ./RD_PUNC
+GJED839	સ્મશાનના/N_NN ઝાંપા/N_NN પાસેના/PSP ઓટલા/N_NN પર/PSP શબને/N_NN મૂક્યું/V_VM ./RD_PUNC
+GJED840	બધા/QT_QTF મૌન/JJ ઊભા/JJ રહ્યા/V_VM ./RD_PUNC
+GJED841	વરસાદ/N_NN બંધ/JJ થયો/V_VM ./RD_PUNC
+GJED842	એ/DM_DMD પછીનો/JJ સમય/N_NN દુ:ખદ/JJ હતો/V_VAUX ./RD_PUNC
+GJED843	ડાઘુઓ/N_NN અંતિમવિધિ/N_NN આટોપવામાં/V_VAUX_VNP જોતરાઈ/V_VM ગયા/V_VAUX ./RD_PUNC
+GJED844	અગ્નિદાહ/N_NN આપવામાં/V_VAUX_VNP આવ્યો/V_VAUX ./RD_PUNC
+GJED845	હું/PR_PRP અને/CC_CCD જનક/N_NNP થોડો/QT_QTF દૂરના/JJ પીપળાના/N_NN થડ/N_NN પાસે/PSP જઈ/V_VAUX_VNP બેઠા/V_VM ./RD_PUNC
+GJED846	હું/PR_PRP શોકમગ્ન/JJ હતો/V_VAUX ./RD_PUNC
+GJED847	મારી/PR_PRP અને/CC_CCD જનકની/N_NNP વચ્ચે/N_NST છત્રી/N_NN પડી/V_VM હતી/V_VAUX ./RD_PUNC
+GJED848	જનક/N_NNP બોલ્યો/V_VM ,/RD_PUNC અંકિત/N_NNP ,/RD_PUNC આ/DM_DMD છત્રી/N_NN મને/PR_PRP આપી/V_VM દે/V_VAUX ./RD_PUNC
+GJED849	મારી/PR_PRP નજર/N_NN કલીબહેનની/N_NNP ચિતા/N_NN તરફ/PSP હતી/V_VAUX ./RD_PUNC
+GJED850	લાકડાં/N_NN પર/PSP ગોઠવાયેલા/V_VAUX_VNP તેમના/PR_PRP દેહને/N_NN વીંટાળાયેલી/V_VAUX_VNP જ્વાળાઓ/N_NN ...../RD_PUNC કલીબહેન/N_NNP જાણે/PSP કહી/V_VM રહ્યાં/V_VAUX હતાં/V_VAUX ./RD_PUNC
+GJED851	આપી/V_VM દે/V_VAUX ,/RD_PUNC એને/PR_PRP મા/N_NN નથી/RP_NEG ને/RP_RPD ./RD_PUNC
+GJED852	મેં/PR_PRP છત્રી/N_NN તેના/PR_PRP ખોળામાં/N_NN મૂકી/V_VM ./RD_PUNC
+GJED853	તેના/PR_PRP ચહેરા/N_NN પર/PSP સંતોષ/N_NN હતો/V_VAUX ./RD_PUNC
+GJED854	તે/PR_PRP ખુશ/JJ થયો/V_VM હોય/V_VAUX એમ/PSP જણાવ્યું/V_VM ./RD_PUNC
+GJED855	હું/PR_PRP નીચે/N_NST જોતો/V_VAUX_VNP બેસી/V_VM રહ્યો/V_VAUX ./RD_PUNC
+GJED856	અંતે/JJ સૌ/JJ વીખરાયા/V_VM ./RD_PUNC
+GJED857	હું/PR_PRP ધીમે/RB ધીમે/RB ચાલતો/V_VAUX_VNP ઘરે/N_NN પહોંચ્યો/V_VM ./RD_PUNC
+GJED858	ઝાંપા/N_NN પાસે/PSP જ/RP_RPD કોકિલા/N_NNP ઊભી/JJ હતી/V_VAUX ./RD_PUNC
+GJED859	મને/PR_PRP જોતાં/V_VAUX_VNP જ/RP_RPD ખમચાઈ/V_VM ./RD_PUNC
+GJED860	તેના/PR_PRP ચહેરાના/N_NN ભાવ/N_NN બદલાઈ/V_VM ગયા/V_VAUX ./RD_PUNC
+GJED861	હું/PR_PRP નજીક/JJ પહોંચ્યો/V_VM ત્યાં/N_NST જ/RP_RPD એ/DM_DMD બોલી/V_VM ,/RD_PUNC છત્રી/N_NN ક્યાં/N_NST છે/V_VAUX ?/RD_PUNC
+GJED862	મેં/PR_PRP તેની/PR_PRP આંખોમાં/N_NN જોયું/V_VM ./RD_PUNC
+GJED863	હું/PR_PRP શું/PR_PRQ જવાબ/N_NN આપું/V_VM ?/RD_PUNC
+GJED864	મારી/PR_PRP નજર/N_NN આકાશને/N_NN જોતી/V_VAUX_VNP કશુંક/DM_DMI ખોળતી/V_VAUX_VNP રહી/V_VAUX ./RD_PUNC
+GJED865	ઉનાળામાં/N_NN શેરી/N_NN નવા/JJ માણસોથી/N_NN ભરાઈ/V_VM જતી/V_VAUX_VNP ./RD_PUNC
+GJED866	એ/DM_DMD બધામાં/QT_QTF સૌથી/JJ વધારે/QT_QTF રંગીન/JJ પીછાંવાળું/JJ પંખી/N_NN તે/DM_DMD સૂર્યબાળા/N_NNP ./RD_PUNC
+GJED867	નાની/JJ ઘાઘરી/N_NN ઉપર/N_NST મારવાડી/JJ ઓઢણી/N_NN ઓઢીને/V_VAUX_VNP ઓટલા/N_NN ઉપર/N_NST ઊભી/JJ રહે/V_VM ત્યારે/N_NST હું/PR_PRP એને/PR_PRP જોયા/V_VAUX_VNP કરતો/V_VAUX_VNP ./RD_PUNC
+GJED868	ખડકીનું/N_NN અમારું/PR_PRP કુટુંબ/N_NN ખૂબ/QT_QTF મોટું/JJ ./RD_PUNC
+GJED869	એનાં/PR_PRP અટપટાં/JJ સગપણો/N_NN સમજાતાં/V_VAUX_VNP નહીં/RP_NEG પણ/CC_CCD એટલી/JJ ખબર/N_NN હતી/V_VAUX કે/CC_CCS સૂર્યબાળા/N_NNP મારા/PR_PRP દૂરનાં/JJ ફોઈબાની/N_NN દીકરી/N_NN હતી/V_VAUX ./RD_PUNC
+GJED870	મારાથી/PR_PRP માંડ/PSP પાંચ/QT_QTC -/RD_PUNC સાત/QT_QTC વર્ષે/N_NN મોટી/JJ હશે/V_VAUX પણ/CC_CCD એના/PR_PRP બોલવા/V_VAUX_VNP -/RD_PUNC ચાલવામાં/V_VAUX_VNP ડોસીની/N_NN ઠાવકી/N_NN લઢણ/N_NN હતી/V_VAUX ./RD_PUNC
+GJED871	અમને/PR_PRP એ/DM_DMD છોકરાં/N_NN ગણતી/V_VAUX_VNP ./RD_PUNC
+GJED872	રાત્રે/N_NST ખડકીના/N_NN ખૂણામાં/N_NN સ્ત્રીઓની/N_NN મંડળી/N_NN વચ્ચોવચ્ચ/N_NST બેસી/V_VM એ/PR_PRP ચપચપ/JJ વાર્તા/N_NN ચણવા/V_VAUX_VNP માંડે/V_VAUX ત્યારે/N_NST ભાઈબંધો/N_NN પાસેથી/PSP સરકીને/V_VAUX_VNP હું/PR_PRP ત્યાં/N_NST પહોંચી/V_VM જતો/V_VAUX_VNP અને/CC_CCD એને/PR_PRP લપાઈને/V_VAUX_VNP બેસતો/V_VAUX_VNP ./RD_PUNC
+GJED873	કાને/N_NN -/RD_PUNC નાકે/N_NN અને/CC_CCD કાંડા/N_NN ઉપર/N_NST ઝગારા/N_NN મારતું/V_VAUX_VNP સોનું/N_NN એની/PR_PRP ભાષાને/N_NN એવું/JJ મઢી/V_VM લેતું/V_VAUX_VNP કે/CC_CCS વાર્તાની/N_NN રાજકુમારી/N_NN એ/DM_DMD જ/RP_RPD હોય/V_VAUX એવું/JJ મને/PR_PRP લાગતું/V_VAUX_VNP ./RD_PUNC
+GJED874	સવારે/N_NST કૂઈ/N_NN ઉપર/N_NST નાહી/V_VAUX_VNP પિતાજી/N_NN નર્મદા/N_NNP -/RD_PUNC કાવેરી/N_NNP -/RD_PUNC સરસ્વતી/N_NNP કરતા/V_VAUX_VNP દોડવા/V_VAUX_VNP જેવી/JJ ચાલે/V_VM ઘરમાં/N_NN આવે/V_VM ./RD_PUNC
+GJED875	સ્નાનની/N_NN સાથે/PSP સેવાપૂજાનો/N_NN લય/N_NN જોડાયેલો/V_VAUX_VNP હોય/V_VAUX પણ/CC_CCD એ/DM_DMD જ/RP_RPD વખતે/N_NN કીર્તિભાઈને/N_NNP જૂનાં/JJ ગાયનો/N_NN સાંભળવાં/V_VAUX_VNP હોય/V_VAUX તેથી/PSP એ/PR_PRP આખા/JJ ઘર/N_NN ઉપર/N_NST ચિડાય/V_VM અને/CC_CCD છેવટે/JJ સમાધાન/N_NN રૂપે/N_NN વૉલ્યૂમ/N_NN ધીમું/RB કરીને/V_VAUX_VNP રેડિયામાં/N_NN માથું/N_NN નાખી/V_VM દે/V_VAUX ./RD_PUNC
+GJED876	વચેટ/JJ યોગીભાઈ/N_NNP એ/DM_DMD વખતે/N_NN મેડી/N_NN ઉપર/N_NST લંગોટ/N_NN મારીને/V_VAUX_VNP દંડબેઠક/N_NN કરતા/V_VAUX_VNP હોય/V_VAUX ./RD_PUNC
+GJED877	સાંજે/N_NST હાઈસ્કૂલેથી/N_NN છૂટીને/V_VAUX_VNP એ/PR_PRP ગોખરું/N_NN અને/CC_CCD બીજી/JJ બલવર્ધક/JJ ઔષધિઓ/N_NN શોધવા/V_VAUX_VNP સીમમાં/N_NN જતા/V_VAUX_VNP ત્યારે/N_NST મને/PR_PRP પણ/RP_RPD સાથે/PSP લઈ/V_VM જતા/V_VAUX_VNP ./RD_PUNC
+GJED878	એમણે/PR_PRP મને/PR_PRP ત્રણ/QT_QTC ગુરુમંત્રો/N_NN આપ્યા/V_VM હતા/V_VAUX -/RD_PUNC સવારે/N_NST માલિશ/N_NN કરીને/V_VAUX_VNP તડકે/N_NN બેસવું/V_VAUX_VNP ,/RD_PUNC મલાઈવાળું/JJ દૂધ/N_NN ગોખરું/N_NN નાખીને/V_VAUX_VNP પીવું/V_VAUX_VNP અને/CC_CCD છોકરીઓ/N_NN સાથે/PSP ,/RD_PUNC શબ્દો/N_NN ઉપર/N_NST શરમાળ/JJ ભાર/N_NN મૂક્તાં/V_VAUX_VNP એ/PR_PRP કહેતાં/V_VAUX_VNP ,/RD_PUNC બહુ/QT_QTF લપ/N_NN કરવી/V_VAUX_VNP નહીં/RP_NEG ./RD_PUNC
+GJED879	યોગીભાઈની/N_NNP ચૂંથાઈ/N_NN ગયેલી/V_VAUX_VNP નોટબુકમાં/N_NN કાયાકલ્પ/N_NN અને/CC_CCD સોનું/N_NN બનાવવાના/V_VAUX_VNP નુસખા/N_NN લખી/V_VAUX_VNP રાખેલા/V_VAUX_VNP હતા/V_VAUX અને/CC_CCD સમય/N_NN આવ્યે/V_VM એનો/DM_DMD પ્રયોગ/N_NN કરવામાં/V_VAUX_VNP આવે/V_VAUX ત્યારે/N_NST મને/PR_PRP પણ/RP_RPD એનો/DM_DMD લાભ/N_NN મળવાનો/V_VAUX_VNP હતો/V_VAUX ./RD_PUNC
+GJED880	એવડી/JJ છોકરીમાં/N_NN એવું/JJ ડહાપણ/N_NN અને/CC_CCD એટલું/JJ જ્ઞાન/N_NN કે/CC_CCS એનું/DM_DMD માથું/N_NN ગરદન/N_NN ઉપરથી/N_NST કેમ/PR_PRQ ગબડી/N_NN પડતું/V_VAUX_VNP નથી/RP_NEG એની/DM_DMD મને/PR_PRP નવાઈ/N_NN લાગતી/V_VAUX_VNP ./RD_PUNC
+GJED881	બપોરે/N_NST મેડી/N_NN ઉપર/N_NST આખા/JJ ગામની/N_NN છોકરીઓ/N_NN સૂર્યબાળાને/N_NNP વીંટળાઈને/V_VAUX_VNP બેસતી/V_VAUX_VNP ત્યારે/N_NST નખ/N_NN રંગવાની/V_VAUX_VNP કે/CC_CCS દાગીના/N_NN લીંબુ/N_NN વડે/PSP ધોવાની/V_VAUX_VNP પ્રવૃત્તિ/N_NN ખૂબ/QT_QTF ધીમા/RB લયથી/N_NN ચાલતી/V_VAUX_VNP ./RD_PUNC
+GJED882	અનિવાર્ય/JJ શબ્દો/N_NN બોલાય/V_VM તે/DM_DMD પણ/RP_RPD દબાયેલા/V_VAUX_VNP સ્વરે/N_NN ./RD_PUNC
+GJED883	સૂર્યબાળા/N_NNP ગર્વિષ્ઠ/JJ હતી/V_VAUX ./RD_PUNC
+GJED884	રૂપ/N_NN વડે/PSP એ/PR_PRP સહુથી/JJ દૂર/JJ અને/CC_CCD ઊંચે/JJ વસતી/V_VAUX_VNP હતી/V_VAUX ./RD_PUNC
+GJED885	તેથી/PSP ,/RD_PUNC પ્રશંસા/N_NN કરતી/V_VAUX_VNP કોઈ/DM_DMI છોકરી/N_NN એના/PR_PRP કેશના/N_NN ઉપર/N_NST હાથ/N_NN ફેરવવા/V_VAUX_VNP જાય/V_VAUX તો/CC_CCD સૂર્યબાળા/N_NNP એવી/JJ ત્રાંસી/JJ નજરે/N_NN જોતી/V_VAUX_VNP કે/CC_CCS પેલીનો/DM_DMD હાથ/N_NN બીજી/JJ દિશામાં/N_NN અન્ય/JJ કોઈ/DM_DMI પ્રવૃત્તિ/N_NN માટે/PSP ચાલ્યો/V_VM જતો/V_VAUX_VNP ./RD_PUNC
+GJED886	હાથે/N_NN મેંદી/N_NN મૂકી/V_VM હોય/V_VAUX ,/RD_PUNC માથેથી/N_NN છેડો/N_NN ખસી/V_VM ગયો/V_VAUX હોય/V_VAUX અને/CC_CCD પારવતીજીની/N_NNP વારતા/N_NN ,/RD_PUNC રુકિમણીજીની/N_NNP વારતા/N_NN પાંપણો/N_NN ઢાળી/V_VAUX_VNP એ/PR_PRP રુદનભર્યા/JJ સ્વરે/N_NN કહેતી/V_VAUX_VNP ./RD_PUNC
+GJED887	હું/PR_PRP કલાકાર/N_NN હોઉં/V_VAUX તો/CC_CCD આજે/N_NST પણ/RP_RPD સ્મૃતિને/N_NN આધારે/N_NN ,/RD_PUNC ઢીંચણ/N_NN ઉપર/N_NST કોણી/N_NN રાખી/V_VAUX_VNP હથેળીમાં/N_NN ચિબુક/N_NN ગોઠવીને/V_VAUX_VNP સખાઓની/N_NN વચ્ચે/N_NST બેઠેલી/V_VAUX_VNP કુંવારીનું/N_NN શિલ્પ/N_NN બનાવી/V_VAUX_VNP આપું/V_VM !/RD_PUNC
+GJED888	સખીઓ/N_NN તરીકે/PSP તો/RP_RPD ઘાટ/N_NN વગરના/PSP થોડા/QT_QTF પથ્થર/N_NN મૂક્યા/V_VM હોય/V_VAUX તો/CC_CCD પણ/RP_RPD ચાલે/V_VM ./RD_PUNC
+GJED889	અચાનક/PSP કોઈનું/PR_PRI ધ્યાન/N_NN જાય/V_VAUX તો/CC_CCD મારી/PR_PRP હાજરી/N_NN સામે/PSP વાંધો/N_NN ઉઠાવવામાં/V_VAUX_VNP આવતો/V_VAUX_VNP ,/RD_PUNC વેંત/N_NN જેવડો/JJ પણ/RP_RPD પુરુષ/N_NN ,/RD_PUNC કુંવારીઓના/N_NN સ્વર્ગની/N_NN ભીતર/N_NN એના/PR_PRP પ્રવેશને/N_NN કેમ/PR_PRQ ચલાવી/V_VM લેવાય/V_VAUX ?/RD_PUNC
+GJED890	આ/DM_DMD મીંઢો/JJ તો/RP_RPD જુઓ/V_VM !/RD_PUNC બેઠોબેઠો/JJ આપણી/PR_PRP વાતો/N_NN સાંભળે/V_VM છે/V_VAUX ./RD_PUNC
+GJED891	ત્યારે/N_NST સૂર્યબાળા/N_NNP મને/PR_PRP બાથમાં/N_NN લઈને/V_VAUX_VNP છાનો/JJ રાખતી/V_VAUX_VNP ,/RD_PUNC `/RD_PUNC મારી/PR_PRP મોતીઓની/N_NN માળા/N_NN !/RD_PUNC `/RD_PUNC
+GJED892	સૂર્યબાળાની/N_NNP હાજરીથી/N_NN મહેલ/N_NN રચાતા/V_VAUX_VNP અને/CC_CCD અટપટાં/JJ ભોંયરાં/N_NN ઊઘડતાં/V_VAUX_VNP ./RD_PUNC
+GJED893	ખોવાયેલો/V_VAUX_VNP હું/PR_PRP એમાં/DM_DMD ફર્યા/V_VAUX_VNP કરતો/V_VAUX_VNP ./RD_PUNC
+GJED894	બીક/N_NN લાગતી/V_VAUX_VNP ,/RD_PUNC રડું/JJ રડું/JJ થઈ/V_VM જવાતું/V_VAUX_VNP ત્યારે/N_NST આશરો/N_NN એક/QT_QTC હતો/V_VAUX -/RD_PUNC કથાકાર/N_NN પોતે/PR_PRF હાથ/N_NN ઝાલીને/V_VAUX_VNP કાઢે/V_VM તો/CC_CCD જ/RP_RPD મારાથી/PR_PRP બહાર/N_NST નીકળાય/V_VM એમ/PSP હતું/V_VAUX ./RD_PUNC
+GJED895	રાજકુમારો/N_NN ગમે/PSP તેટલા/JJ રૂપાળા/JJ હોય/V_VAUX ,/RD_PUNC ઘોડા/N_NN ખેલવતા/V_VAUX_VNP હોય/V_VAUX ,/RD_PUNC બાણાવળી/JJ હોય/V_VAUX પણ/CC_CCD એમની/PR_PRP અશ્વકળા/N_NN કે/CC_CCS બાણવિદ્યાને/N_NN શું/PR_PRQ કરવાનાં/V_VAUX_VNP ?/RD_PUNC
+GJED896	બગીચા/N_NN ,/RD_PUNC ફુવારા/N_NN ,/RD_PUNC પંખીઓના/N_NN ટહુકા/N_NN એ/DM_DMD બધું/QT_QTF તો/RP_RPD ઉપર/N_NST ઉપર/N_NST હતું/V_VAUX ,/RD_PUNC દેખાડવા/V_VAUX_VNP પૂરતું/JJ ,/RD_PUNC અંદરખાને/N_NST ,/RD_PUNC જમીનની/N_NN નીચે/N_NST ભોંયરામાં/N_NN તો/RP_RPD માનવખોપરીઓમાં/N_NN મદ્ય/N_NN પિવાતો/V_VAUX_VNP અને/CC_CCD રાજકુમારીને/N_NN સાંકળથી/N_NN બાંધી/V_VAUX_VNP રાખવામાં/V_VAUX_VNP આવતી/V_VAUX_VNP ./RD_PUNC
+GJED897	સૂર્યબાળાની/N_NNP બધી/QT_QTF વાર્તાઓમાંથી/N_NN મને/PR_PRP ખૂબ/QT_QTF ગમતી/V_VAUX_VNP તે/DM_DMD થોડી/QT_QTF અઘરી/JJ અને/CC_CCD અસ્પષ્ટ/JJ હતી/V_VAUX ./RD_PUNC
+GJED898	કંઈ/DM_DMI સમજાય/V_VM નહીં/RP_NEG અને/CC_CCD બીક/N_NN લાગે/V_VAUX_VNP ./RD_PUNC
+GJED899	હાથી/N_NN -/RD_PUNC ઘોડે/N_NN ચડીને/V_VAUX_VNP જાન/N_NN આવી/V_VM અને/CC_CCD રાજકુમારીને/N_NN લઈને/V_VAUX_VNP ડુંગરોની/N_NN પેલે/DM_DMD પાર/N_NN ઊતરી/V_VM ગઈ/V_VAUX ./RD_PUNC
+GJED900	થોડા/QT_QTF દિવસ/N_NN પછી/PSP ભાઈ/N_NN એની/PR_PRP બહેનને/N_NN મળવા/V_VAUX_VNP ગયો/V_VM ત્યારે/N_NST મહેફિલો/N_NN થઈ/V_VM ,/RD_PUNC ઉત્તમ/JJ ભોજન/N_NN પીરસાયાં/V_VM ./RD_PUNC
+GJED901	ભાઈ/N_NN પૂછે/V_VM ,/RD_PUNC `/RD_PUNC મારા/PR_PRP જીજા/N_NN ક્યાં/N_NST ?/RD_PUNC `/RD_PUNC
+GJED902	`/RD_PUNC આપનાં/PR_PRP જીજા/N_NN આરામમાં/N_NN છે/V_VAUX ./RD_PUNC `/RD_PUNC
+GJED903	`/RD_PUNC આપનાં/PR_PRP જીજા/N_NN પાણી/N_NN ભરવા/V_VAUX_VNP ગયા/V_VM છે/V_VAUX ./RD_PUNC `/RD_PUNC
+GJED904	નફફટોએ/N_NN બહાનાં/N_NN પણ/RP_RPD લોકગીતમાંથી/N_NN ઉઠાવેલાં/V_VAUX_VNP ./RD_PUNC
+GJED905	ભાઈથી/N_NN ન/RP_NEG રહેવાયું/V_VM ./RD_PUNC
+GJED906	મધરાતે/N_NST એ/PR_PRP ઊઠ્યો/V_VM અને/CC_CCD ઓ/DM_DMD બાજુ/N_NST ઊંચી/JJ ડાળે/N_NN ચડીને/V_VAUX_VNP બહેનની/N_NN મેડીમાં/N_NN નજર/N_NN કરી/V_VM ./RD_PUNC
+GJED907	ઝાંખા/JJ દીવાના/N_NN અજવાળામાં/N_NN બહેન/N_NN પલંગની/N_NN ધાર/N_NN ઉપર/N_NST બેઠી/V_VM હતી/V_VAUX ./RD_PUNC
+GJED908	હાથ/N_NN -/RD_PUNC પગ/N_NN દોરડી/N_NN જેવા/JJ થઈ/V_VM ગયા/V_VAUX હતા/V_VAUX ./RD_PUNC
+GJED909	થોડીવારે/PSP બારણું/N_NN ઊઘડ્યું/V_VM અને/CC_CCD દેવ/N_NN જેવા/JJ રૂપાળા/JJ બનેવીસાહેબે/N_NN પ્રવેશ/N_NN કર્યો/V_VM ./RD_PUNC
+GJED910	હાસ્ય/N_NN માટે/PSP ખુલેલું/V_VAUX_VNP એમનું/PR_PRP મોં/N_NN વધારે/QT_QTF પહોળું/JJ થયું/V_VM ,/RD_PUNC એમણે/PR_PRP ઈશારો/N_NN કર્યો/V_VM તેના/DM_DMD પ્રત્યુત્તરમાં/N_NN બહેને/N_NN બોલ્યા/V_VAUX_VNP વગર/PSP પોતાનો/PR_PRF જમણો/JJ હાથ/N_NN લંબાવ્યો/V_VM ./RD_PUNC
+GJED911	હાસ્યને/N_NN ક્ષતિ/N_NN ન/RP_NEG આવે/V_VM તે/DM_DMD રીતે/N_NN બનેવીસાહેબ/N_NN આખો/JJ હાથ/N_NN ગળી/V_VM ગયા/V_VAUX ./RD_PUNC
+GJED912	આ/DM_DMD વાર્તા/N_NN સાંભળી/V_VAUX_VNP તે/DM_DMD પછી/PSP હું/PR_PRP ખડકીની/N_NN દુનિયાથી/N_NN જુદો/JJ પડી/V_VM ગયો/V_VAUX હોઉં/V_VAUX એવું/JJ લાગતું/V_VAUX_VNP ./RD_PUNC
+GJED913	મોટે/RB મોટે/RB નમામિ/N_NNP દેવી/N_NNP કરતા/V_VAUX_VNP પિતાજી/N_NN ,/RD_PUNC રેડિયાના/N_NN તાલ/N_NN સાથે/PSP ખભા/N_NN હલાવતા/V_VAUX_VNP કીર્તિભાઈ/N_NNP અને/CC_CCD મેડી/N_NN ઉપર/N_NST ઠેકડા/N_NN ભરતા/V_VAUX_VNP યોગીભાઈ/N_NNP ,/RD_PUNC અનુક્રમે/N_NN ધર્મ/N_NN ,/RD_PUNC સંગીત/N_NN અને/CC_CCD પ્રાચીન/JJ સંસ્કૃતિની/N_NN ખેવના/N_NN કરનારાએ/V_VAUX_VNP સહુ/JJ કેમ/PR_PRQ એક/QT_QTC અસહાય/JJ યુવતીના/N_NN રક્ષણ/N_NN માટે/PSP કંઈ/DM_DMI કરતા/V_VAUX_VNP નથી/RP_NEG ?/RD_PUNC
+GJED914	એમની/PR_PRP પીઠ/N_NN પાછળ/N_NST ,/RD_PUNC ભોયરાં/N_NN અને/CC_CCD મેડીઓ/N_NN ઉપર/N_NST ,/RD_PUNC કેવાં/DM_DMQ કાંડા/N_NN રચાયા/V_VM છે/V_VAUX એની/PR_PRP અમને/PR_PRP ખબર/N_NN નથી/RP_NEG કે/CC_CCS પછી/PSP આંખો/N_NN આડે/PSP ધાર્મિક/JJ અને/CC_CCD સાંસ્કૃતિક/JJ કાન/N_NN કર્યા/V_VM છે/V_VAUX ?/RD_PUNC
+GJED915	સૂર્યબાળનું/N_NNP ગામ/N_NN પહેલી/QT_QTO વાર/N_NN એનાં/PR_PRP લગ્ન/N_NN વખતે/N_NN જોયું/V_VM ./RD_PUNC
+GJED916	અડધે/JJ સુધી/PSP ટ્રેન/N_NN અને/CC_CCD પછી/PSP ઊંટ/N_NN એ/DM_DMD રીતે/N_NN વહેલા/JJ પરોઢિયે/N_NN પહોંચ્યા/V_VM ./RD_PUNC
+GJED917	મોટી/JJ પરસાળની/N_NN ત્રણ/QT_QTC બાજુ/N_NST નીચાં/JJ છાપરાંવાળાં/JJ ઘર/N_NN ,/RD_PUNC એક/QT_QTC ઊંચી/JJ મેડી/N_NN અને/CC_CCD પાછળ/N_NST ડુંગરો/N_NN ./RD_PUNC
+GJED918	એક/QT_QTC બાળડુંગર/N_NN તો/RP_RPD વડીલોથી/N_NN વિખૂટો/JJ પડીને/V_VAUX_VNP રમતાં/V_VAUX_VNP રમતાં/V_VAUX_VNP ઘરની/N_NN પછીત/N_NST સુધી/PSP આવી/V_VM ગયો/V_VAUX હતો/V_VAUX !/RD_PUNC
+GJED919	માણસો/N_NN જુદા/JJ અને/CC_CCD એમની/PR_PRP ભાષા/N_NN અજાણી/JJ ./RD_PUNC
+GJED920	સહુ/JJ નમીનમીને/V_VAUX_VNP બોલે/V_VM અને/CC_CCD કારણ/N_NN વગર/PSP હાથ/N_NN જોડ્યા/V_VAUX_VNP કરે/V_VM એવું/JJ મેં/PR_PRP પહેલી/QT_QTO વાર/N_NN જોયું/V_VM ./RD_PUNC
+GJED921	પેટ/N_NN ઢંકાય/V_VM એવાં/JJ લાંબા/JJ કપડાં/N_NN પહેરેલી/V_VAUX_VNP સ્ત્રીઓ/N_NN હળવે/RB ચાલતી/V_VAUX_VNP ./RD_PUNC
+GJED922	શાક/N_NN શાનું/DM_DMQ બનાવવું/V_VAUX_VNP અથવા/CC_CCD ચપ્પુ/N_NN ક્યાં/N_NST મુકાઈ/V_VM ગયું/V_VAUX છે/V_VAUX એવા/JJ પ્રશ્નો/N_NN પણ/RP_RPD શોકના/N_NN સ્વરે/N_NN કરતી/V_VAUX_VNP અને/CC_CCD વારંવાર/PSP આંખો/N_NN લૂછતી/V_VAUX_VNP ./RD_PUNC
+GJED923	ફુઆજી/N_NN સૂર્યબાળાને/N_NNP નાની/JJ મૂકીને/V_VAUX_VNP ગુજરી/V_VM ગયા/V_VAUX હતા/V_VAUX તે/DM_DMD વાતનો/N_NN ભાર/N_NN પ્રસંગની/N_NN ઉપર/N_NST હતો/V_VAUX એટલી/JJ ખબર/N_NN મને/PR_PRP પડતી/V_VAUX_VNP ./RD_PUNC
+GJED924	તેથી/PSP જ/RP_RPD ફોઈ/N_NN ને/CC_CCD પિતાજી/N_NN ઘરના/N_NN ખૂણે/N_NN બેસીને/V_VAUX_VNP ઉપર/N_NST હતો/V_VAUX એટલી/JJ ખબર/N_NN મને/PSP પડતી/V_VAUX_VNP ./RD_PUNC
+GJED925	તેથી/PSP જ/RP_RPD ફોઈ/N_NN અને/CC_CCD પિતાજી/N_NN ઘરના/N_NN ખૂણે/N_NN બેસીને/V_VAUX_VNP મસલતો/N_NN કરતાં/V_VAUX_VNP ./RD_PUNC
+GJED926	એ/DM_DMD ગુપ્ત/JJ બેઠકમાં/N_NN મારા/PR_PRP બે/QT_QTC કાકાઓને/N_NN પ્રવેશ/N_NN ન/RP_NEG મળે/V_VM પણ/CC_CCD એ/PR_PRP ઓટલે/N_NN ઊભા/JJ ઊભા/JJ પરસ્પર/PR_PRC હાકોટા/N_NN કરતા/V_VAUX_VNP ./RD_PUNC
+GJED927	અસ્પૃશ્ય/JJ સૂર્યબાળાને/N_NNP મેડી/N_NN ઉપર/N_NST હાથપગ/N_NN બાંધીને/V_VAUX_VNP નાખી/V_VM હતી/V_VAUX ./RD_PUNC
+GJED928	મોટું/JJ કોઈ/PR_PRI તો/RP_RPD એની/PR_PRP પાસે/PSP ફરકતું/V_VAUX_VNP પણ/RP_RPD નહીં/RP_NEG ./RD_PUNC
+GJED929	દંતે/N_NN મજીઠ/N_NN મૂક્યો/V_VM હતો/V_VAUX અને/CC_CCD હાથે/N_NN મેંદી/N_NN ./RD_PUNC
+GJED930	અજાણ્યા/JJ દેશમાં/N_NN પણ/RP_RPD મારો/PR_PRP હક/N_NN સાબિત/JJ કરવા/V_VAUX_VNP બીજા/JJ દિવસે/N_NN બપોરે/N_NST સાંકડો/JJ દાદર/N_NN ચડીને/V_VAUX_VNP હું/PR_PRP એની/PR_PRP પાસે/PSP પહોંચી/V_VM ગયો/V_VAUX ./RD_PUNC
+GJED931	ચાર/QT_QTC છોકરીઓ/N_NN એને/PR_PRP ઘેરીને/V_VAUX_VNP બેઠી/V_VM હતી/V_VAUX તે/PR_PRP આઘી/JJ ખસી/V_VM ગઈ/V_VAUX ./RD_PUNC
+GJED932	સૂર્યબાળાએ/N_NNP મને/PR_PRP બાથમાં/N_NN લઈને/V_VAUX_VNP ખૂબ/QT_QTF બચીઓ/V_VM કરી/V_VM ત્યારે/N_NST હું/PR_PRP રડી/V_VM પડ્યો/V_VAUX ./RD_PUNC
+GJED933	મારા/PR_PRP ગાલ/N_NN લૂછતાં/V_VAUX_VNP એણે/PR_PRP કહ્યું/V_VM ,/RD_PUNC `/RD_PUNC ભાઈ/N_NN ,/RD_PUNC છેલ્લી/JJ વાર/N_NN જોઈ/V_VM લો/V_VAUX જોવી/V_VM હોય/V_VAUX એટલી/JJ ./RD_PUNC `/RD_PUNC
+GJED934	તમારી/PR_PRP બેના/N_NN મરી/V_VM ગઈ/V_VAUX ./RD_PUNC
+GJED935	મેડીના/N_NN ચાર/QT_QTC ખૂણે/N_NN દોરેલી/V_VAUX_VNP એની/PR_PRP સખીઓ/N_NN જોરજોરથી/RB રડવા/V_VAUX_VNP લાગી/V_VM ./RD_PUNC
+GJED936	કેસરી/JJ ફેંટા/N_NN અને/CC_CCD બંધ/JJ ગળાના/N_NN જોધપુરી/JJ કોટવાળા/JJ દુશ્મનો/N_NN મૂછો/N_NN આમળતાં/V_VAUX_VNP ઊંચે/JJ જોઈને/V_VAUX_VNP ફરતાં/V_VAUX_VNP ./RD_PUNC
+GJED937	કોઈની/PR_PRI ભેટમાં/N_NN તલવાર/N_NN હતી/V_VAUX અને/CC_CCD કોઈના/DM_DMI ખભે/N_NN ટ્વેલ્વ/N_NN બોરની/N_NN રાઈફલ/N_NN ./RD_PUNC
+GJED938	ધિંગાણું/N_NN થઈ/V_VM જાય/V_VAUX એવી/JJ સ્થિતિ/N_NN હતી/V_VAUX ./RD_PUNC
+GJED939	રાત્રે/N_NST જાનૈયા/N_NN જમવા/V_VAUX_VNP ઊઠે/V_VM જ/RP_RPD નહીં/RP_NEG ./RD_PUNC
+GJED940	મહેફિલો/N_NN ચાલે/V_VM ./RD_PUNC
+GJED941	બકરાં/N_NN કપાય/V_VM ./RD_PUNC
+GJED942	કોઈ/PR_PRI કહે/V_VM ,/RD_PUNC આ/DM_DMD છોકરાંને/N_NN તો/RP_RPD ખવડાવવું/V_VAUX_VNP હતું/V_VAUX !/RD_PUNC
+GJED943	બાપડાં/JJ પહુડાં/N_NN રોઈરોઈને/V_VAUX_VNP ઊંઘી/V_VM ગયાં/V_VAUX ./RD_PUNC
+GJED944	પરોઢિયે/N_NST લાશ/N_NN જેવી/JJ સૂર્યબાળાને/N_NNP પ્રભાતકાકાએ/N_NNP ઊંચકીને/V_VAUX_VNP માહ્યરામાં/N_NN પધરાવી/V_VM ./RD_PUNC
+GJED945	વરરાજાનો/N_NN ફેંટો/N_NN આગળ/PSP આવી/V_VM ગયો/V_VAUX હતો/V_VAUX અને/CC_CCD હોઠ/N_NN ખેસ/N_NN નીચે/N_NST ઢંકાયેલા/V_VAUX_VNP હતા/V_VAUX તેથી/PSP ફક્ત/RB મૂછો/N_NN અને/CC_CCD લાલ/JJ આંખો/N_NN જ/RP_RPD દેખાતાં/V_VAUX_VNP હતાં/V_VAUX ./RD_PUNC
+GJED946	મને/PR_PRP થયું/V_VM ,/RD_PUNC બાકીનું/JJ બતાવવા/V_VAUX_VNP જેવું/JJ નહીં/RP_NEG હોય/V_VAUX !/RD_PUNC
+GJED947	જાન/N_NN ત્રણ/QT_QTC દિવસ/N_NN રોકાઈ/V_VM તે/DM_DMD દરમિયાન/PSP પિતાજી/N_NN ઓસરીના/N_NN ખૂણે/N_NN એક/QT_QTC પલંગ/N_NN ઉપર/N_NST ઉગ્ર/JJ બેસી/V_VM રહેતા/V_VAUX અને/CC_CCD કોઈ/PR_PRI બોલાવે/V_VM ત્યારે/N_NST વધારે/QT_QTF પડતા/V_VAUX_VNP વિવેકથી/N_NN બોલતા/V_VAUX_VNP -/RD_PUNC હા/PSP સાહેબ/N_NN ,/RD_PUNC જી/PSP બાપુ/N_NN ,/RD_PUNC માર/N_NN પડ્યો/V_VM તો/RP_RPD ય/RP_RPD યોગીભાઈએ/N_NNP હઠ/N_NN છોડી/V_VM નહોતી/RP_NEG ./RD_PUNC
+GJED948	પાટલૂનના/N_NN ખિસ્સામાં/N_NN એ/PR_PRP બૉંબ/N_NN બનાવવાનો/V_VAUX_VNP નુસખો/N_NN લઈને/V_VAUX_VNP ફરતા/V_VAUX_VNP હતા/V_VAUX ./RD_PUNC
+GJED949	જાનૈયાઓ/N_NN સાવ/PSP નફ્ફટ/JJ હતા/V_VAUX ./RD_PUNC
+GJED950	એક/QT_QTC લુચ્ચો/JJ ડોસો/N_NN આંખ/N_NN મીચકારીને/V_VAUX_VNP મને/PR_PRP પૂછે/V_VM ,/RD_PUNC તીન/N_NN પત્તી/N_NN રમવી/V_VM છે/V_VAUX ?/RD_PUNC
+GJED951	કન્યાવિદાય/N_NN વખતે/N_NN મોટાં/JJ ભાભીએ/N_NN મને/PR_PRP તેડી/V_VM લીધો/V_VAUX ત્યારે/N_NST મારાથી/PR_PRP ચીસ/N_NN પડાઈ/V_VM ગઈ/V_VAUX ,/RD_PUNC `/RD_PUNC ભાભી/N_NN ,/RD_PUNC આ/DM_DMD બધા/QT_QTF મારી/PR_PRP સૂર્યાબાળાને/N_NNP ગળી/V_VM જશે/V_VAUX ./RD_PUNC `/RD_PUNC
+GJED952	એ/PR_PRP શબ્દો/N_NN સાંભળીને/V_VAUX_VNP આખું/JJ ગામ/N_NN રડ્યું/V_VM ./RD_PUNC
+GJED953	એ/DM_DMD પછી/PSP બધું/QT_QTF ખૂબ/QT_QTF ઝડપથી/RB બદલાઈ/V_VM ગયું/V_VAUX ./RD_PUNC
+GJED954	ટ્રેનો/N_NN આવતી/V_VAUX_VNP પણ/RP_RPD એમાંથી/DM_DMD પોપટ/N_NN અને/CC_CCD હાથનાં/N_NN ભરત/N_NN ભરેલી/V_VAUX_VNP થેલીઓ/N_NN સાથે/PSP સોનાના/N_NN દાંતવાળી/JJ સ્ત્રીઓ/N_NN ઊતરતી/V_VAUX_VNP નહીં/RP_NEG ./RD_PUNC
+GJED955	અચાનક/PSP કોઈ/PR_PRI સવારે/N_NST ગુલાબી/JJ ઓઢણીવાળી/JJ નવી/JJ છોકરી/N_NN પડોશીના/N_NN ઓટલે/N_NN ઊભેલી/V_VAUX_VNP જોવા/V_VAUX_VNP મળતી/V_VAUX_VNP નહીં/RP_NEG ./RD_PUNC
+GJED956	ભોંયરાં/N_NN પૂરી/V_VM દેવામાં/V_VAUX_VNP આવ્યાં/V_VAUX અને/CC_CCD સહુ/JJ પોતપોતાનાં/PR_PRF કામે/N_NN વળગી/V_VM ગયાં/V_VAUX ./RD_PUNC
+GJED957	બે/QT_QTC કાકા/N_NN જુદા/JJ રહેવા/V_VAUX_VNP ગયા/V_VM ./RD_PUNC
+GJED958	પિતાજી/N_NN ઝડપથી/RB વૃદ્ધ/JJ થઈ/V_VM ગયા/V_VAUX ./RD_PUNC
+GJED959	યોગીભાઈને/N_NNP કોલેજ/N_NN પૂરી/V_VM થતાં/V_VAUX_VNP રેલવેમાં/N_NN ગુડ્ઝ/N_NN ક્લાર્કની/N_NN નોકરી/N_NN મળી/V_VM અને/CC_CCD પહેલું/QT_QTO પોસ્ટિંગ/N_NN કોટા/N_NN ખાતે/N_NST થયું/V_VM ./RD_PUNC
+GJED960	એમને/PR_PRP મૂકવા/V_VAUX_VNP સહુ/QT_QTF સ્ટેશને/N_NN ગયાં/V_VM ત્યારે/N_NST બે/QT_QTC બાજુ/N_NN લીમડાઓની/N_NN હાર/N_NN વચ્ચે/N_NST દોઢ/QT_QTC ગાઉ/N_NN એમનો/PR_PRP બિસ્તરો/N_NN ઉપાડીને/V_VAUX_VNP આ/DM_DMD પોઠિયો/N_NN આગળ/PSP ચાલતો/V_VAUX_VNP હતો/V_VAUX ./RD_PUNC
+GJED961	પ્લેટફૉમના/N_NN છેડે/N_NN એક/QT_QTC બાંકડા/N_NN ઉપર/N_NST પિતાજી/N_NN એકલા/JJ બેસી/V_VM રહ્યા/V_VAUX ./RD_PUNC
+GJED962	ટ્રેન/N_NN આવી/V_VM ,/RD_PUNC બિસ્તરો/N_NN અને/CC_CCD બૅગ/N_NN અંદર/N_NST મુકાયાં/V_VM ,/RD_PUNC આવજો/V_VM -/RD_PUNC જજો/V_VM થતું/V_VAUX_VNP હતું/V_VAUX ત્યાં/N_NST છેલ્લી/JJ ઘડીએ/N_NN યોગીભાઈને/N_NNP શું/PR_PRQ સૂઝ્યું/V_VM તે/PR_PRP નીચે/N_NST ઊતર્યા/V_VM અને/CC_CCD એક/QT_QTC બાજુ/N_NST લઈ/V_VM જઈને/V_VAUX_VNP મારે/PR_PRP ખભે/N_NN હાથ/N_NN મૂક્યો/V_VM ./RD_PUNC
+GJED963	એક/QT_QTC અક્ષર/N_NN પણ/RP_RPD બોલ્યા/V_VM નહીં/RP_NEG ./RD_PUNC
+GJED964	ઘરમાં/N_NN ,/RD_PUNC કુટુંબમાં/N_NN અને/CC_CCD ચારેબાજુ/N_NST બધે/QT_QTF એક/QT_QTC સમયખંડ/N_NN પૂરો/JJ થયો/V_VM હતો/V_VAUX એની/PR_PRP જાણ/N_NN સંધ્યા/N_NN સમયે/N_NN એ/DM_DMD નાના/JJ સ્ટેશનના/N_NN પ્લેટફોર્મ/N_NN ઉપર/N_NST મારા/PR_PRP ભાઈએ/N_NN સ્પર્શ/N_NN દ્વારા/PSP મને/PR_PRP કરી/V_VM ./RD_PUNC
+GJED965	કાયાકલ્પની/N_NN શક્યતા/N_NN નહોતી/RP_NEG ./RD_PUNC
+GJED966	કુટુંબને/N_NN તારે/V_VM એવા/JJ નુસખા/N_NN જેના/PR_PRL ઉપર/N_NST ઉતાર્યા/V_VM હતા/V_VAUX એ/DM_DMD કાગળો/N_NN બોદાઈ/V_VM ગયા/V_VAUX હતા/V_VAUX ./RD_PUNC
+GJED967	ભંગાર/N_NN તળે/N_NST બધું/QT_QTF દટાઈ/V_VM ગયું/V_VAUX હતું/V_VAUX એમ/PSP માનતો/V_VAUX_VNP હતો/V_VAUX પણ/CC_CCD એક/QT_QTC પ્રસંગે/N_NN ભોંયરું/N_NN ઉઘાડી/V_VM આપ્યું/V_VM ./RD_PUNC
+GJED968	મેટ્રિકની/N_NN પરીક્ષા/N_NN આપવા/V_VAUX_VNP મારે/PR_PRP હિંમતનગર/N_NNP જવાનું/V_VAUX_VNP થયું/V_VM ત્યારે/N_NST ઊતારાનો/N_NN પ્રશ્ન/N_NN આવ્યો/V_VM ./RD_PUNC
+GJED969	મારા/PR_PRP મિત્રો/N_NN બોર્ડિંગ/N_NN અને/CC_CCD ધર્મશાળાઓની/N_NN માહિતી/N_NN લાવ્યા/V_VM હતા/V_VAUX એની/DM_DMD વાત/N_NN મેં/PR_PRP કરી/V_VM ત્યારે/N_NST કીર્તિભાઈ/N_NNP તરત/PSP બોલ્યા/V_VM ,/RD_PUNC ધર્મશાળામાં/N_NN શા/PR_PRQ સારુ/PSP ઊતરવું/V_VAUX_VNP પડે/V_VAUX ?/RD_PUNC
+GJED970	આ/DM_DMD વાત/N_NN થઈ/V_VM ત્યારે/N_NST સવારનો/JJ સમય/N_NN હતો/V_VAUX ./RD_PUNC
+GJED971	એક/QT_QTC જ/RP_RPD નામના/N_NN ઉચ્ચાર/N_NN સાથે/PSP ,/RD_PUNC ઊડી/V_VM ગયેલાં/V_VAUX_VNP બધાં/QT_QTF ચિત્રો/N_NN ભીંતો/N_NN ઉપર/N_NST પાછાં/RB આવીને/V_VAUX_VNP બેઠાં/V_VM ./RD_PUNC
+GJED972	સરનામાની/N_NN ચિઠ્ઠી/N_NN સાથે/PSP રિક્ષામાંથી/N_NN જ્યાં/N_NST ઊતર્યો/V_VM એ/DM_DMD ઘર/N_NN ઘણાં/QT_QTF વૃક્ષોથી/N_NN ઢંકાયેલું/V_VAUX_VNP હતું/V_VAUX ./RD_PUNC
+GJED973	હીંચકા/N_NN ઉપર/N_NST એક/QT_QTC વૃદ્ધ/N_NN અને/CC_CCD વૃદ્ધા/N_NN બેઠાં/V_VM હતાં/V_VAUX તે/PR_PRP થોડી/QT_QTF વાર/N_NN મને/PR_PRP જોઈ/V_VM રહ્યાં/V_VAUX ./RD_PUNC
+GJED974	પછી/PSP વૃદ્ધ/N_NN ઝડપથી/RB આવ્યા/V_VM અને/CC_CCD મારી/PR_PRP બેગ/N_NN લઈ/V_VM લીધી/V_VAUX ./RD_PUNC
+GJED975	શરૂઆતની/JJ થોડી/QT_QTF ક્ષણો/N_NN બધા/QT_QTF માટે/PSP મૂંઝવણની/N_NN હતી/V_VAUX કારણકે/CC_CCS પરસ્પર/PR_PRC હાથ/N_NN જોડાયા/V_VM ,/RD_PUNC અતિથિને/N_NN આસન/N_NN આપવામાં/V_VAUX_VNP આવ્યું/V_VAUX છતાં/RP_RPD તેની/PR_PRP ઓળખાણ/N_NN પડી/V_VM નહોતી/RP_NEG ./RD_PUNC
+GJED976	હું/PR_PRP કોને/PR_PRQ શું/PR_PRQ થતો/V_VAUX_VNP હતો/V_VAUX તે/DM_DMD સગપણનાં/N_NN જાળાં/N_NN ઉકેલીને/V_VAUX_VNP કેવી/DM_DMQ રીતે/N_NN સમજાવવું/V_VAUX_VNP ?/RD_PUNC
+GJED977	છેવટે/JJ પરિચયની/N_NN કોઈ/DM_DMI રીત/N_NN આવડી/V_VM નહીં/RP_NEG તેથી/PSP હું/PR_PRP ગામનું/N_NN નામ/N_NN બોલ્યો/V_VM ./RD_PUNC
+GJED978	તે/DM_DMD સાંભળીને/V_VAUX_VNP વૃદ્ધ/N_NN મોટેથી/RB હસ્યા/V_VM અને/CC_CCD ઊભા/JJ થઈને/V_VAUX_VNP મારે/PR_PRP માથે/N_NN હાથ/N_NN મૂક્યો/V_VM ./RD_PUNC
+GJED979	મેં/PR_PRP કહ્યું/V_VM ,/RD_PUNC `/RD_PUNC હા/PSP જી/PSP ./RD_PUNC `/RD_PUNC
+GJED980	હું/PR_PRP હમણાંથી/N_NST પત્ર/N_NN લખી/V_VM શક્યો/V_VAUX નથી/RP_NEG ./RD_PUNC
+GJED981	`/RD_PUNC તે/DM_DMD જ/RP_RPD રીતે/N_NN વૃદ્ધાએ/N_NN મારાં/PR_PRP બાના/N_NN સમાચાર/N_NN પૂછ્યા/V_VM ,/RD_PUNC ભાભીસાહેબ/N_NN તો/RP_RPD કરારાં/N_NNP છે/V_VAUX ને/RP_RPD ?/RD_PUNC `/RD_PUNC
+GJED982	ત્યાં/N_NST કમ્પાઉન્ડનો/N_NN ગેટ/N_NN ખખડ્યો/V_VM અને/CC_CCD એક/QT_QTC ઊંચી/JJ સ્ત્રીએ/N_NN પ્રવેશ/N_NN કર્યો/V_VM ./RD_PUNC
+GJED983	સાડીનો/N_NN છેડો/N_NN માથે/N_NN હતો/V_VAUX અને/CC_CCD હાથમાં/N_NN ત્રણ/QT_QTC -/RD_PUNC ચાર/QT_QTC ચોપડીઓ/N_NN હતી/V_VAUX ./RD_PUNC
+GJED984	થોડી/QT_QTF વાર/N_NN અમે/PR_PRP એકબીજાની/PR_PRC સામે/PSP જોઈ/V_VM રહ્યાં/V_VAUX અને/CC_CCD હું/PR_PRP ઊભો/JJ થઈને/V_VAUX_VNP દોડ્યો/V_VM ./RD_PUNC
+GJED985	એ/DM_DMD વખતે/N_NN ઘણા/QT_QTF ગોટાળા/N_NN થયા/V_VM ./RD_PUNC
+GJED986	છાતીએ/N_NN વળગેલી/V_VAUX_VNP ચોપડીઓ/N_NN પડી/V_VM ગઈ/V_VAUX ને/CC_CCD મેં/PR_PRP એના/PR_PRP પગ/N_NN પાસે/PSP બેસી/V_VAUX_VNP ,/RD_PUNC મારા/PR_PRP શર્ટની/N_NN બાંયથી/N_NN લૂછીલૂછીને/V_VAUX_VNP ભેગી/JJ કરી/V_VM ./RD_PUNC
+GJED987	સાસુ/N_NN -/RD_PUNC સસરાની/N_NN હાજરીમાં/N_NN નહોતું/RP_NEG થયું/V_VM તે/DM_DMD એના/PR_PRP રૂમના/N_NN એકાન્તમાં/N_NN થયું/V_VM ./RD_PUNC
+GJED988	મને/PR_PRP ખુરશીમાં/N_NN બેસાડીને/V_VAUX_VNP સામે/PSP ઊભી/JJ રહી/V_VM ત્યારે/N_NST એનાં/PR_PRP આંસુ/N_NN મારા/PR_PRP ગાલ/N_NN ઉપર/N_NST પડ્યાં/V_VM ./RD_PUNC
+GJED989	નવાઈની/N_NN વાત/N_NN કે/CC_CCS મને/PR_PRP તો/RP_RPD સહેજ/JJ રડવું/V_VAUX_VNP આવ્યું/V_VM નહીં/RP_NEG ./RD_PUNC
+GJED990	ચોકથી/N_NN ખરડાયેલા/V_VAUX_VNP એના/PR_PRP હાથ/N_NN ઉપર/N_NST હું/PR_PRP હથેળી/N_NN ફેરવ્યે/V_VM ગયો/V_VAUX ./RD_PUNC
+GJED991	મારી/PR_PRP સૂર્યબાળા/N_NNP તો/RP_RPD ટીચર/N_NN બની/V_VM હતી/V_VAUX !/RD_PUNC
+GJED992	સરસ્વતીની/N_NNP સફેદી/N_NN બધે/QT_QTF હતી/V_VAUX -/RD_PUNC એના/PR_PRP હાથ/N_NN ઉપર/N_NST ,/RD_PUNC સાડીના/N_NN છેડે/N_NN ,/RD_PUNC મારા/PR_PRP ગાલે/N_NN ,/RD_PUNC એના/PR_PRP હાસ્યમાં/N_NN ./RD_PUNC
+GJED993	ધીમે/RB ધીમે/RB હાથ/N_NN છોડાવતાં/V_VAUX_VNP એણે/PR_PRP કહ્યું/V_VM ,/RD_PUNC `/RD_PUNC ધોઈ/V_VM આવું/V_VM ./RD_PUNC `/RD_PUNC
+GJED994	મેં/PR_PRP કહ્યું/V_VM ,/RD_PUNC `/RD_PUNC રહેવા/V_VAUX_VNP દો/V_VAUX ,/RD_PUNC સૂર્યબાળા/N_NNP ,/RD_PUNC એ/DM_DMD ખૂબ/QT_QTF સારું/JJ લાગે/V_VM છે/V_VAUX ./RD_PUNC `/RD_PUNC
+GJED995	કેટલાક/QT_QTF દિવસો/N_NN થયા/V_VM ,/RD_PUNC હેમંત/N_NNP ખૂબ/QT_QTF જ/RP_RPD ઉદાસ/JJ રહે/V_VM છે/V_VAUX ./RD_PUNC
+GJED996	નથી/RP_NEG ટીવી/N_NN પર/PSP મનગમતો/JJ પ્રોગ્રામ/N_NN જોવાની/V_VAUX_VNP ઈચ્છા/N_NN અને/CC_CCD મમ્મીએ/N_NN લાવી/V_VM આપેલી/V_VAUX_VNP નવી/JJ કોમિક્સ/N_NN વાંચવાનું/V_VAUX_VNP મન/N_NN ./RD_PUNC
+GJED997	કિચનમાં/N_NN જુદી/JJ -/RD_PUNC જુદી/JJ જાતનાં/N_NN ચિપ્સનાં/N_NN કેટલાંયે/QT_QTF પૅકેટો/N_NN પડ્યાં/V_VM છે/V_VAUX ,/RD_PUNC પરમ/N_NST દિવસે/N_NST પપ્પા/N_NN વિદેશી/JJ ચોકલેટનો/N_NN મસમોટો/N_NN ડબ્બો/N_NN લઈ/V_VM આવેલા/V_VAUX_VNP ,/RD_PUNC તે/DM_DMD ફ્રીજમાં/N_NN મૂક્યો/V_VM છે/V_VAUX ,/RD_PUNC પણ/CC_CCD હમણાનું/N_NST હેમંતને/N_NNP કંઈ/DM_DMI નથી/RP_NEG જોઈતું/V_VAUX_VNP ,/RD_PUNC કંઈ/DM_DMI નથી/RP_NEG ભાવતું/V_VAUX_VNP ./RD_PUNC
+GJED998	ન/RP_NEG ખાવાનું/V_VAUX_VNP ,/RD_PUNC પીવાનું/V_VAUX_VNP ,/RD_PUNC ન/RP_NEG વાંચવાનું/V_VAUX_VNP !/RD_PUNC કંઈ/DM_DMI કરતાં/V_VAUX_VNP કંઈ/DM_DMI જ/RP_RPD નહીં/RP_NEG ./RD_PUNC
+GJED999	તે/PR_PRP અમથો/JJ સોફા/JJ પર/PSP બેઠો/V_VM છે/V_VAUX ./RD_PUNC 
+GJED1000	સાંજનું/N_NN અંધારું/N_NN ધીમે/RB ધીમે/RB ઓરડામાં/N_NN પેસતું/V_VAUX_VNP જાય/V_VAUX છે/V_VAUX ./RD_PUNC
