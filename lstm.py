@@ -103,20 +103,7 @@ test_tags_y = pad_sequences(test_tags_y, maxlen=MAX_LENGTH, padding='post')
 
 from tensorflow import keras
 
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
 from keras import backend as K
-
 
 def ignore_class_accuracy(to_ignore=0):
     def ignore_accuracy(y_true, y_pred):
