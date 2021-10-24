@@ -123,7 +123,7 @@ from keras.layers import Dense, LSTM, InputLayer, Bidirectional, TimeDistributed
 model = Sequential()
 model.add(InputLayer(input_shape=(MAX_LENGTH,)))
 model.add(Embedding(len(word2index), 128))
-model.add(Bidirectional(LSTM(256, return_sequences=True)))
+model.add(SimpleRNN(256, return_sequences=True))
 model.add(TimeDistributed(Dense(len(tag2index))))
 model.add(Activation('softmax'))
 
@@ -132,6 +132,7 @@ model.compile(loss='categorical_crossentropy',
               metrics=['accuracy', ignore_class_accuracy(0)])
 
 model.summary()
+
 
 def to_categorical(sequences, categories):
     cat_sequences = []
@@ -152,5 +153,3 @@ model.fit(train_sentences_X, to_categorical(train_tags_y, len(tag2index)), batch
 
 scores = model.evaluate(test_sentences_X, to_categorical(test_tags_y, len(tag2index)))
 print(f"{model.metrics_names[1]}: {scores[1] * 100}")
-
-
