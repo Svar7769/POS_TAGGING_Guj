@@ -5,88 +5,32 @@ from nltk.corpus.reader import TaggedCorpusReader
 from nltk.corpus.reader import PlaintextCorpusReader
 from sklearn import metrics
 
-# tagged_corpus = TaggedCorpusReader(".", "guj_entertainment.txt")
-#
-# tagged_sentences = tagged_corpus.tagged_sents()
-# tagged_words = tagged_corpus.tagged_words()
-#
-# print(tagged_sentences[4])
-# print(tagged_words[0])
 
-tagged_corpus1 = TaggedCorpusReader(".","Data/guj_entertainment.txt")
+tagged_corpus1 = TaggedCorpusReader(".","Data/guj_science and technology_set3.txt")
 tagged_sentences1 = tagged_corpus1.tagged_sents()
 tagged_word1 = tagged_corpus1.tagged_words()
 
-tagged_corpus2 = TaggedCorpusReader(".","Data/guj_entertainment_set1.txt")
+tagged_corpus2 = TaggedCorpusReader(".","Data/guj_science and technology_set4.txt")
 tagged_sentences2 = tagged_corpus2.tagged_sents()
 tagged_word2 = tagged_corpus2.tagged_words()
 
-tagged_corpus3 = TaggedCorpusReader(".","Data/guj_entertainment_set5.txt")
+tagged_corpus3 = TaggedCorpusReader(".","Data/guj_science and technology_set5.txt")
 tagged_sentences3 = tagged_corpus3.tagged_sents()
 tagged_word3 = tagged_corpus3.tagged_words()
 
-tagged_corpus4 = TaggedCorpusReader(".","Data/guj_entertainment_set6.txt")
+tagged_corpus4 = TaggedCorpusReader(".","Data/guj_science and technology_set6.txt")
 tagged_sentences4 = tagged_corpus4.tagged_sents()
 tagged_word4 = tagged_corpus4.tagged_words()
 
-tagged_corpus5 = TaggedCorpusReader(".","Data/guj_entertainment_set7.txt")
-tagged_sentences5 = tagged_corpus5.tagged_sents()
-tagged_word5 = tagged_corpus5.tagged_words()
 
-tagged_corpus6 = TaggedCorpusReader(".","Data/guj_entertainment_set8.txt")
-tagged_sentences6 = tagged_corpus6.tagged_sents()
-tagged_word6 = tagged_corpus6.tagged_words()
+tagged_sentences = tagged_sentences1 + tagged_sentences2 + tagged_sentences3 + tagged_sentences4
+tagged_word = tagged_word1 + tagged_word2 + tagged_word3 + tagged_word4
 
-tagged_corpus7 = TaggedCorpusReader(".","Data/guj_entertainment_set9.txt")
-tagged_sentences7 = tagged_corpus7.tagged_sents()
-tagged_word7 = tagged_corpus7.tagged_words()
+# tagged_sentences = tagged_corpus.tagged_sents()
+# tagged_words = tagged_corpus.tagged_words()
 
-tagged_corpus8 = TaggedCorpusReader(".","Data/guj_entertainment_set10.txt")
-tagged_sentences8 = tagged_corpus8.tagged_sents()
-tagged_word8 = tagged_corpus8.tagged_words()
-
-tagged_corpus9 = TaggedCorpusReader(".","Data/guj_entertainment_set11.txt")
-tagged_sentences9 = tagged_corpus9.tagged_sents()
-tagged_word9 = tagged_corpus9.tagged_words()
-
-tagged_corpus10 = TaggedCorpusReader(".","Data/guj_entertainment_set12.txt")
-tagged_sentences10 = tagged_corpus10.tagged_sents()
-tagged_word10 = tagged_corpus10.tagged_words()
-
-tagged_corpus12 = TaggedCorpusReader(".","Data/guj_entertainment_set13.txt")
-tagged_sentences11 = tagged_corpus12.tagged_sents()
-tagged_word11 = tagged_corpus12.tagged_words()
-
-tagged_corpus13 = TaggedCorpusReader(".","Data/guj_entertainment_set14.txt")
-tagged_sentences12 = tagged_corpus13.tagged_sents()
-tagged_word12 = tagged_corpus13.tagged_words()
-
-tagged_corpus14 = TaggedCorpusReader(".","Data/guj_entertainment_set15.txt")
-tagged_sentences13 = tagged_corpus14.tagged_sents()
-tagged_word13 = tagged_corpus14.tagged_words()
-
-tagged_corpus15 = TaggedCorpusReader(".","Data/guj_entertainment_set16.txt")
-tagged_sentences14 = tagged_corpus15.tagged_sents()
-tagged_word14 = tagged_corpus15.tagged_words()
-
-tagged_corpus16 = TaggedCorpusReader(".","Data/guj_entertainment_set17.txt")
-tagged_sentences15 = tagged_corpus16.tagged_sents()
-tagged_word15 = tagged_corpus16.tagged_words()
-
-tagged_corpus17 = TaggedCorpusReader(".","Data/guj_entertainment_set18.txt")
-tagged_sentences16 = tagged_corpus17.tagged_sents()
-tagged_word16 = tagged_corpus17.tagged_words()
-
-tagged_corpus18 = TaggedCorpusReader(".","Data/guj_entertainment_set19.txt")
-tagged_sentences17 = tagged_corpus18.tagged_sents()
-tagged_word17 = tagged_corpus18.tagged_words()
-
-tagged_corpus19 = TaggedCorpusReader(".","Data/guj_entertainment_set20.txt")
-tagged_sentences18 = tagged_corpus19.tagged_sents()
-tagged_word18 = tagged_corpus19.tagged_words()
-
-tagged_sentences = tagged_sentences1 + tagged_sentences2 + tagged_sentences3 + tagged_sentences4 + tagged_sentences5 + tagged_sentences6 + tagged_sentences7 + tagged_sentences8 + tagged_sentences9 + tagged_sentences10 + tagged_sentences11 + tagged_sentences12 + tagged_sentences13 + tagged_sentences14 + tagged_sentences15 + tagged_sentences16 + tagged_sentences17 + tagged_sentences18
-tagged_word = tagged_word1 + tagged_word2 + tagged_word3 + tagged_word4 + tagged_word5 + tagged_word6 + tagged_word7 + tagged_word8 + tagged_word9 + tagged_word10 + tagged_word11 + tagged_word12 + tagged_word13 + tagged_word14 + tagged_word15 + tagged_word16 + tagged_word17 + tagged_word18
+# print (tagged_sentences[4])
+# print (tagged_words[0])
 
 print("No. of tagged sentences for training: " , len(tagged_sentences))
 print("No. of tagged words for training: " , len(tagged_word))
@@ -179,7 +123,6 @@ from tensorflow import keras
 
 from keras import backend as K
 
-
 def ignore_class_accuracy(to_ignore=0):
     def ignore_accuracy(y_true, y_pred):
         y_true_class = K.argmax(y_true, axis=-1)
@@ -209,15 +152,13 @@ def f1_m(y_true, y_pred):
     recall = recall_m(y_true, y_pred)
     return 2*((precision*recall)/(precision+recall+K.epsilon()))
 
-
-
 from keras.models import Sequential
 from keras.layers import Dense, LSTM, InputLayer, Bidirectional, TimeDistributed, Embedding, Activation, SimpleRNN
 
 model = Sequential()
 model.add(InputLayer(input_shape=(MAX_LENGTH,)))
 model.add(Embedding(len(word2index), 128))
-model.add(SimpleRNN(256, return_sequences=True))
+model.add(Bidirectional(LSTM(256, return_sequences=True)))
 model.add(TimeDistributed(Dense(len(tag2index))))
 model.add(Activation('softmax'))
 
@@ -226,7 +167,6 @@ model.compile(loss='categorical_crossentropy',
               metrics=['accuracy',f1_m,precision_m, recall_m])
 
 model.summary()
-
 
 def to_categorical(sequences, categories):
     cat_sequences = []
@@ -238,18 +178,17 @@ def to_categorical(sequences, categories):
         cat_sequences.append(cats)
     return np.array(cat_sequences)
 
-
 cat_train_tags_y = to_categorical(train_tags_y, len(tag2index))
 # print(cat_train_tags_y[0])
 
 print(train_tags_y)
 
-model.fit(train_sentences_X, to_categorical(train_tags_y, len(tag2index)), batch_size=128, epochs=10,
-          validation_split=0.3)
+model.fit(train_sentences_X, to_categorical(train_tags_y, len(tag2index)), batch_size=128, epochs=5, validation_split=0.2)
 
 loss, accuracy, f1_score, precision, recall = model.evaluate(test_sentences_X, to_categorical(test_tags_y, len(tag2index)))
 print("Accuracy: " + str(accuracy))
 print("f1_score: " + str(f1_score))
 print("precision: " + str(precision))
 print("recall: " + str(recall))
+
 
